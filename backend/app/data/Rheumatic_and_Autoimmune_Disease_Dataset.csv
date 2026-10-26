@@ -1,0 +1,1401 @@
+patient_id,age,gender,rf_iu_ml,anti_ccp_u_ml,esr_mm_hr,crp_mg_l,ana_status,ana_titer,c3_mg_dl,c4_mg_dl,morning_stiffness_min,tender_joint_count,swollen_joint_count,symmetrical_joints,hla_b27,diagnosis,is_ra
+P10001,48,Female,61.1,3.3,37.0,3.8,Positive,<1:40,104.5,20.6,21.0,3,1,No,Negative,Sjögren's Syndrome,0
+P10002,58,Female,25.4,10.5,54.3,5.3,Positive,1:160,96.5,18.3,27.0,1,1,No,Negative,Sjögren's Syndrome,0
+P10003,63,Female,38.5,44.6,39.5,8.7,Negative,<1:40,152.3,20.1,96.0,10,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10004,43,Female,14.4,9.2,27.7,1.5,Positive,1:320,74.7,9.8,55.0,8,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10005,38,Female,3.1,10.2,25.6,14.4,Negative,<1:40,119.9,29.5,84.0,6,1,No,Positive,Ankylosing Spondylitis,0
+P10006,30,Female,18.4,3.6,35.0,1.9,Positive,1:320,117.2,25.1,25.0,5,0,Yes,Negative,Sjögren's Syndrome,0
+P10007,35,Female,4.0,7.1,20.4,18.5,Negative,<1:40,130.3,14.4,76.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P10008,63,Female,7.5,9.2,47.6,15.5,Negative,<1:40,112.9,25.1,51.0,4,2,No,Negative,Psoriatic Arthritis,0
+P10009,44,Female,1.3,8.1,45.4,4.0,Positive,<1:40,141.6,28.3,20.0,7,3,No,Negative,Psoriatic Arthritis,0
+P10010,47,Female,33.3,7.7,69.5,3.3,Positive,1:1280,78.8,5.2,56.0,4,0,No,Negative,Systemic Lupus Erythematosus,0
+P10011,51,Male,1.0,4.7,41.8,4.9,Negative,<1:40,111.6,16.5,20.0,5,3,No,Negative,Psoriatic Arthritis,0
+P10012,58,Female,4.5,11.3,39.8,17.0,Negative,<1:40,113.4,19.8,37.0,5,1,No,Negative,Psoriatic Arthritis,0
+P10013,53,Female,14.3,5.4,38.8,10.3,Positive,1:320,139.6,24.5,47.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10014,60,Female,85.3,5.9,34.5,5.7,Negative,1:320,114.6,22.2,40.0,0,1,No,Negative,Sjögren's Syndrome,0
+P10015,19,Female,4.2,6.2,40.1,16.5,Negative,<1:40,136.8,17.9,71.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10016,28,Female,2.5,4.3,55.8,9.8,Negative,<1:40,112.1,21.8,49.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10017,31,Female,2.0,12.7,78.3,3.7,Positive,1:320,59.4,9.8,15.0,5,2,No,Negative,Systemic Lupus Erythematosus,0
+P10018,34,Female,89.9,14.7,54.9,2.6,Positive,1:320,111.1,19.8,45.0,5,0,Yes,Negative,Sjögren's Syndrome,0
+P10019,32,Female,3.8,12.4,12.8,4.7,Negative,<1:40,97.3,22.5,63.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10020,44,Female,25.4,35.9,31.3,13.5,Negative,<1:40,111.5,12.7,78.0,10,7,No,Negative,Rheumatoid Arthritis (RA),1
+P10021,82,Female,115.1,63.3,42.9,15.1,Positive,1:80,127.8,38.0,47.0,9,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10022,31,Male,5.8,13.1,49.7,10.8,Negative,<1:40,138.2,26.0,85.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10023,33,Female,5.2,3.9,14.5,20.9,Negative,<1:40,132.7,27.3,48.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10024,48,Female,29.0,12.2,29.0,1.2,Positive,1:320,119.3,23.5,22.0,6,0,No,Negative,Sjögren's Syndrome,0
+P10025,71,Female,94.7,800.0,23.7,24.0,Negative,<1:40,120.5,27.4,84.0,12,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10026,45,Female,44.3,75.2,37.5,23.8,Negative,1:160,113.9,33.1,94.0,7,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10027,68,Female,92.1,124.7,45.2,13.0,Positive,1:80,128.7,17.8,62.0,13,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10028,31,Male,7.4,2.6,46.6,23.3,Negative,<1:40,103.0,23.8,39.0,3,5,No,Positive,Reactive Arthritis,0
+P10029,34,Male,9.3,4.3,60.5,19.8,Negative,<1:40,115.1,24.8,29.0,4,4,No,Negative,Reactive Arthritis,0
+P10030,34,Female,11.3,1.0,74.9,1.0,Positive,1:1280,79.6,7.8,33.0,5,3,No,Negative,Systemic Lupus Erythematosus,0
+P10031,63,Female,34.3,12.1,34.9,6.2,Positive,1:160,133.4,23.2,10.0,1,0,No,Negative,Sjögren's Syndrome,0
+P10032,32,Female,22.4,15.2,22.0,2.5,Positive,1:640,66.9,3.8,78.0,6,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10033,58,Female,8.2,4.5,30.2,11.1,Positive,<1:40,127.5,30.9,47.0,1,3,No,Positive,Psoriatic Arthritis,0
+P10034,52,Female,39.6,8.1,36.9,5.6,Positive,1:160,122.2,21.6,27.0,8,1,Yes,Negative,Sjögren's Syndrome,0
+P10035,49,Female,71.2,90.3,46.0,24.7,Negative,<1:40,142.9,30.5,98.0,15,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10036,40,Female,28.2,13.1,59.7,3.7,Positive,1:320,74.6,9.8,39.0,2,2,No,Negative,Systemic Lupus Erythematosus,0
+P10037,28,Male,2.1,3.7,28.4,18.3,Negative,<1:40,104.1,16.1,45.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10038,46,Female,8.0,2.7,32.4,1.2,Negative,1:320,97.6,14.0,27.0,2,0,No,Negative,Sjögren's Syndrome,0
+P10039,35,Male,5.0,6.5,4.1,2.2,Negative,<1:40,103.7,20.3,10.0,0,0,No,Negative,Normal,0
+P10040,29,Male,5.5,5.9,24.9,31.2,Negative,<1:40,128.7,20.8,41.0,1,2,No,Positive,Reactive Arthritis,0
+P10041,48,Male,144.9,59.7,16.5,14.5,Negative,1:80,150.0,25.2,66.0,12,4,No,Negative,Rheumatoid Arthritis (RA),1
+P10042,33,Male,9.2,2.7,32.2,8.0,Negative,<1:40,150.4,21.0,25.0,2,4,No,Positive,Reactive Arthritis,0
+P10043,18,Male,11.0,5.9,55.2,3.0,Positive,1:640,64.3,8.4,52.0,6,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10044,24,Female,5.0,15.6,20.8,21.5,Negative,<1:40,128.6,21.0,50.0,4,1,No,Negative,Psoriatic Arthritis,0
+P10045,30,Male,7.9,12.2,47.1,6.2,Negative,<1:40,147.5,25.6,76.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P10046,53,Female,5.4,8.4,19.2,9.9,Negative,<1:40,124.8,25.4,20.0,5,2,No,Negative,Psoriatic Arthritis,0
+P10047,24,Male,5.4,8.1,49.3,17.1,Negative,<1:40,142.8,24.6,30.0,3,4,No,Positive,Reactive Arthritis,0
+P10048,71,Female,9.2,5.8,37.7,11.2,Positive,<1:40,119.9,25.6,74.0,5,6,No,Negative,Psoriatic Arthritis,0
+P10049,58,Female,169.8,59.6,56.4,15.2,Negative,1:80,122.0,24.4,104.0,7,12,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10050,63,Female,57.0,15.2,21.0,4.3,Positive,1:160,131.4,17.2,28.0,4,3,No,Negative,Sjögren's Syndrome,0
+P10051,55,Female,41.7,12.0,39.0,12.9,Positive,1:160,102.8,19.1,36.0,6,3,Yes,Negative,Sjögren's Syndrome,0
+P10052,51,Female,125.3,62.0,64.0,10.3,Positive,<1:40,115.8,15.3,77.0,10,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10053,23,Female,9.4,7.1,45.4,10.1,Positive,1:640,79.4,6.9,28.0,2,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10054,30,Male,8.4,8.3,38.8,26.5,Negative,<1:40,128.2,26.2,49.0,3,2,No,Positive,Reactive Arthritis,0
+P10055,26,Male,7.0,7.4,21.1,34.1,Negative,<1:40,133.9,29.8,43.0,3,1,No,Negative,Reactive Arthritis,0
+P10056,30,Female,19.1,5.2,62.6,2.6,Positive,1:320,79.0,7.4,44.0,7,7,Yes,Negative,Systemic Lupus Erythematosus,0
+P10057,47,Female,5.1,1.5,37.1,5.9,Negative,<1:40,115.5,22.7,61.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10058,49,Male,5.1,12.1,14.0,6.4,Negative,<1:40,149.4,26.3,49.0,5,3,No,Positive,Psoriatic Arthritis,0
+P10059,43,Female,8.1,4.8,28.7,18.4,Negative,<1:40,125.3,25.2,59.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10060,32,Female,19.5,5.9,22.0,2.3,Positive,1:640,88.0,7.2,28.0,7,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10061,24,Female,5.4,3.4,42.4,8.3,Negative,<1:40,125.9,21.5,66.0,5,0,No,Positive,Ankylosing Spondylitis,0
+P10062,69,Female,25.6,37.4,33.8,6.6,Negative,1:80,165.9,33.9,60.0,12,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10063,39,Male,8.6,11.7,24.2,15.7,Negative,<1:40,138.1,29.4,34.0,2,4,No,Negative,Psoriatic Arthritis,0
+P10064,50,Female,8.7,9.5,33.0,10.9,Negative,<1:40,131.5,23.3,22.0,6,4,No,Positive,Psoriatic Arthritis,0
+P10065,44,Female,5.8,7.7,49.7,2.8,Positive,1:320,61.9,8.5,46.0,3,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10066,57,Female,6.3,5.4,27.5,15.2,Negative,<1:40,149.7,28.2,24.0,5,5,No,Negative,Psoriatic Arthritis,0
+P10067,43,Male,6.6,4.6,20.0,32.6,Negative,<1:40,143.6,21.9,54.0,4,3,No,Negative,Reactive Arthritis,0
+P10068,36,Male,1.0,7.3,34.5,3.0,Negative,<1:40,141.2,26.7,69.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10069,19,Male,11.7,9.0,20.1,10.9,Negative,<1:40,139.8,28.2,60.0,2,1,No,Negative,Ankylosing Spondylitis,0
+P10070,36,Female,5.3,11.8,31.1,4.0,Negative,<1:40,135.6,18.7,45.0,5,3,No,Negative,Psoriatic Arthritis,0
+P10071,24,Female,5.7,7.6,41.0,8.3,Negative,<1:40,130.7,29.6,33.0,2,3,No,Positive,Reactive Arthritis,0
+P10072,20,Female,11.6,14.6,42.7,1.8,Positive,1:640,67.9,6.6,15.0,3,4,Yes,Negative,Systemic Lupus Erythematosus,0
+P10073,56,Female,25.2,8.2,65.8,3.0,Negative,1:160,121.7,22.2,13.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10074,48,Female,5.1,4.7,43.6,6.5,Negative,<1:40,130.5,18.3,78.0,3,5,No,Negative,Psoriatic Arthritis,0
+P10075,34,Female,11.4,6.4,69.0,6.6,Negative,<1:40,124.7,19.8,79.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10076,41,Female,6.0,15.1,41.9,19.4,Negative,<1:40,115.3,27.4,65.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10077,34,Male,3.3,11.2,32.2,19.5,Negative,<1:40,113.8,25.4,87.0,5,2,No,Negative,Psoriatic Arthritis,0
+P10078,44,Female,27.2,44.8,42.6,8.0,Negative,<1:40,119.9,20.6,89.0,6,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10079,38,Male,6.9,5.2,74.7,15.4,Negative,<1:40,123.7,23.4,62.0,5,3,No,Negative,Psoriatic Arthritis,0
+P10080,30,Male,6.4,1.0,5.5,1.3,Negative,<1:40,122.5,21.0,6.0,0,0,No,Negative,Normal,0
+P10081,31,Female,3.2,7.1,36.0,10.4,Negative,<1:40,116.1,17.2,46.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10082,39,Male,12.0,3.2,14.0,6.9,Negative,<1:40,121.3,24.3,44.0,6,2,No,Negative,Psoriatic Arthritis,0
+P10083,38,Female,3.1,11.0,28.7,5.3,Positive,1:640,53.8,5.8,36.0,6,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10084,57,Female,29.6,7.1,28.9,10.5,Negative,1:160,116.3,34.0,60.0,2,0,Yes,Negative,Sjögren's Syndrome,0
+P10085,40,Female,46.3,8.1,53.1,4.8,Positive,1:320,131.8,20.1,60.0,8,1,Yes,Negative,Sjögren's Syndrome,0
+P10086,31,Male,8.0,10.7,20.0,33.8,Negative,<1:40,129.3,21.3,15.0,2,3,No,Positive,Reactive Arthritis,0
+P10087,47,Female,7.7,1.7,17.3,1.5,Negative,<1:40,137.1,23.4,2.0,0,0,No,Negative,Normal,0
+P10088,28,Male,6.8,12.4,48.1,4.1,Negative,<1:40,146.3,25.2,43.0,0,2,No,Positive,Ankylosing Spondylitis,0
+P10089,42,Female,12.4,9.4,32.2,4.0,Negative,<1:40,129.5,28.3,41.0,9,4,No,Negative,Psoriatic Arthritis,0
+P10090,29,Female,20.8,10.0,29.4,5.8,Positive,1:1280,73.1,6.1,22.0,5,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10091,37,Male,31.3,141.5,62.2,33.7,Positive,<1:40,119.7,35.2,122.0,9,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10092,39,Female,7.4,11.2,50.6,5.5,Positive,1:640,58.4,7.8,15.0,4,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10093,33,Male,12.0,11.7,14.5,7.5,Positive,<1:40,133.6,31.4,28.0,6,3,No,Positive,Psoriatic Arthritis,0
+P10094,26,Female,12.6,11.8,48.7,5.7,Positive,1:320,79.5,4.6,34.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10095,39,Male,9.1,3.5,7.8,1.3,Negative,<1:40,110.1,31.5,10.0,0,0,No,Negative,Normal,0
+P10096,26,Female,6.2,12.8,34.4,14.1,Positive,<1:40,145.7,26.7,44.0,3,3,No,Positive,Psoriatic Arthritis,0
+P10097,38,Male,6.5,5.7,78.1,8.0,Negative,<1:40,123.6,18.3,17.0,2,1,No,Negative,Reactive Arthritis,0
+P10098,25,Male,1.8,6.8,20.0,31.5,Negative,<1:40,155.1,18.8,39.0,6,1,No,Positive,Reactive Arthritis,0
+P10099,36,Female,93.5,247.5,50.8,18.0,Negative,<1:40,142.7,13.0,43.0,6,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10100,73,Male,7.4,8.6,23.7,10.9,Positive,<1:40,134.2,20.9,25.0,4,5,No,Positive,Psoriatic Arthritis,0
+P10101,26,Male,44.3,6.6,41.5,4.0,Positive,1:320,62.6,8.1,58.0,3,4,Yes,Negative,Systemic Lupus Erythematosus,0
+P10102,57,Female,52.2,426.0,44.8,11.4,Negative,<1:40,90.0,33.1,85.0,14,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10103,41,Male,99.6,6.7,42.6,6.3,Negative,1:320,108.8,31.3,43.0,2,3,Yes,Negative,Sjögren's Syndrome,0
+P10104,19,Female,4.2,11.7,10.9,1.4,Negative,<1:40,137.2,30.3,6.0,0,0,No,Negative,Normal,0
+P10105,52,Female,26.9,12.0,37.3,3.6,Positive,1:320,121.3,22.3,50.0,6,0,No,Negative,Sjögren's Syndrome,0
+P10106,46,Female,42.3,6.6,34.8,9.5,Positive,1:160,101.3,20.9,48.0,7,2,No,Negative,Sjögren's Syndrome,0
+P10107,48,Male,2.5,8.6,36.1,8.8,Negative,<1:40,135.3,21.1,49.0,1,2,No,Negative,Psoriatic Arthritis,0
+P10108,30,Female,4.0,5.8,16.9,1.1,Negative,<1:40,161.8,30.9,7.0,0,0,No,Negative,Normal,0
+P10109,45,Male,21.7,8.5,27.1,7.6,Negative,1:320,119.2,20.1,19.0,3,1,No,Negative,Sjögren's Syndrome,0
+P10110,65,Female,1.4,11.5,22.5,7.5,Negative,<1:40,128.8,26.6,53.0,4,1,No,Negative,Psoriatic Arthritis,0
+P10111,58,Female,29.8,2.0,62.9,6.3,Positive,1:320,117.3,17.7,28.0,2,0,Yes,Negative,Sjögren's Syndrome,0
+P10112,26,Female,3.1,7.0,40.0,8.0,Negative,<1:40,131.4,19.8,54.0,3,3,No,Positive,Reactive Arthritis,0
+P10113,45,Female,8.3,9.9,9.8,1.5,Negative,<1:40,124.7,21.2,6.0,0,0,No,Negative,Normal,0
+P10114,53,Female,80.9,526.4,47.8,22.2,Negative,<1:40,105.0,25.6,60.0,7,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10115,39,Male,5.0,4.2,3.5,1.2,Negative,<1:40,121.0,27.5,0.0,0,0,No,Negative,Normal,0
+P10116,27,Male,5.3,6.4,38.3,27.9,Negative,<1:40,131.7,16.5,20.0,4,2,No,Positive,Reactive Arthritis,0
+P10117,19,Female,27.5,5.7,55.3,6.7,Positive,1:320,53.9,6.7,45.0,2,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10118,45,Female,38.5,132.3,29.8,10.7,Negative,<1:40,95.0,23.9,98.0,7,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10119,61,Female,91.5,80.3,49.2,6.4,Negative,1:80,130.1,23.8,35.0,10,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10120,28,Male,4.4,1.0,52.8,9.2,Negative,<1:40,147.5,31.3,34.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10121,37,Male,6.8,8.4,17.9,16.7,Negative,<1:40,129.9,24.0,25.0,5,4,No,Positive,Psoriatic Arthritis,0
+P10122,71,Male,4.7,9.0,5.1,2.0,Negative,<1:40,141.9,26.9,5.0,0,0,No,Negative,Normal,0
+P10123,47,Female,20.1,9.9,22.0,1.0,Positive,1:320,50.0,3.9,35.0,6,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10124,46,Female,12.7,6.7,38.9,7.4,Positive,1:640,60.9,9.8,53.0,6,2,No,Negative,Systemic Lupus Erythematosus,0
+P10125,19,Male,5.2,8.7,42.7,9.9,Negative,<1:40,124.8,27.3,57.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P10126,19,Male,10.5,11.7,63.0,23.0,Negative,<1:40,95.0,28.3,51.0,1,3,No,Positive,Ankylosing Spondylitis,0
+P10127,63,Female,144.9,191.5,29.0,21.3,Positive,<1:40,146.1,26.4,59.0,16,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10128,27,Male,1.0,9.0,21.5,4.0,Negative,<1:40,131.0,30.3,30.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10129,37,Male,7.0,11.2,35.3,10.4,Negative,<1:40,95.0,25.2,53.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10130,24,Male,2.2,8.0,48.9,31.0,Negative,<1:40,125.0,22.4,35.0,3,3,No,Positive,Reactive Arthritis,0
+P10131,40,Female,47.8,13.2,58.1,7.5,Positive,1:320,115.4,21.6,10.0,3,2,No,Negative,Sjögren's Syndrome,0
+P10132,30,Female,53.4,11.7,40.9,3.1,Negative,1:160,103.9,22.9,27.0,2,0,Yes,Negative,Sjögren's Syndrome,0
+P10133,64,Female,41.3,66.5,62.3,16.8,Positive,<1:40,122.7,21.9,69.0,11,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10134,51,Female,12.4,9.0,30.2,12.1,Negative,<1:40,105.2,26.6,63.0,7,3,No,Negative,Psoriatic Arthritis,0
+P10135,34,Male,5.2,9.5,71.3,16.3,Negative,<1:40,122.0,26.2,27.0,6,5,No,Positive,Reactive Arthritis,0
+P10136,38,Male,3.1,1.0,24.2,17.8,Negative,<1:40,138.3,37.2,42.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10137,18,Male,2.2,5.0,20.0,22.1,Negative,<1:40,167.9,27.1,32.0,4,5,No,Positive,Reactive Arthritis,0
+P10138,32,Female,53.7,14.0,36.7,8.3,Positive,<1:40,136.2,23.2,38.0,2,1,No,Negative,Sjögren's Syndrome,0
+P10139,31,Male,2.0,7.4,66.6,7.5,Positive,1:320,42.5,6.4,30.0,2,1,No,Negative,Systemic Lupus Erythematosus,0
+P10140,31,Female,31.5,1.0,71.0,4.2,Positive,1:640,79.0,7.5,43.0,6,3,No,Negative,Systemic Lupus Erythematosus,0
+P10141,34,Female,4.3,3.0,5.8,1.3,Negative,<1:40,114.4,24.9,3.0,0,0,No,Negative,Normal,0
+P10142,26,Female,8.9,8.0,35.6,26.1,Negative,<1:40,115.4,37.0,48.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10143,34,Male,3.2,5.3,40.6,12.9,Negative,<1:40,117.7,24.5,54.0,1,3,No,Negative,Psoriatic Arthritis,0
+P10144,41,Female,46.9,2.0,20.8,5.1,Positive,1:160,127.3,26.1,28.0,2,2,No,Negative,Sjögren's Syndrome,0
+P10145,28,Female,8.4,5.7,34.1,13.8,Negative,<1:40,138.3,23.7,32.0,6,3,No,Positive,Reactive Arthritis,0
+P10146,31,Female,9.7,5.5,28.3,37.9,Negative,<1:40,147.9,31.4,49.0,2,5,No,Negative,Reactive Arthritis,0
+P10147,31,Male,10.4,3.3,26.1,15.7,Negative,<1:40,122.9,29.1,40.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10148,34,Female,7.6,14.8,10.6,3.2,Negative,<1:40,139.7,24.5,2.0,0,0,No,Negative,Normal,0
+P10149,37,Female,21.2,4.5,32.8,5.8,Positive,1:1280,59.3,8.9,46.0,3,0,No,Negative,Systemic Lupus Erythematosus,0
+P10150,41,Male,7.1,8.6,22.9,20.9,Negative,<1:40,106.3,21.2,20.0,2,1,No,Negative,Psoriatic Arthritis,0
+P10151,26,Male,5.3,3.2,20.0,39.5,Negative,<1:40,140.9,25.4,25.0,1,4,No,Positive,Reactive Arthritis,0
+P10152,37,Female,8.1,5.5,6.2,3.5,Negative,<1:40,140.6,31.1,0.0,0,0,No,Negative,Normal,0
+P10153,22,Male,6.0,7.2,34.5,12.8,Negative,<1:40,142.5,23.6,46.0,4,3,No,Negative,Reactive Arthritis,0
+P10154,53,Female,2.0,7.0,22.0,1.0,Positive,1:1280,60.6,9.8,21.0,4,1,No,Negative,Systemic Lupus Erythematosus,0
+P10155,27,Female,28.7,1.0,50.6,7.1,Positive,1:640,65.8,6.1,15.0,5,0,No,Negative,Systemic Lupus Erythematosus,0
+P10156,32,Male,2.1,7.2,57.3,24.5,Negative,<1:40,119.1,24.4,27.0,2,3,No,Negative,Reactive Arthritis,0
+P10157,23,Male,10.8,6.1,28.0,17.1,Negative,<1:40,158.9,20.3,44.0,3,4,No,Positive,Reactive Arthritis,0
+P10158,48,Female,9.1,8.3,14.5,2.3,Negative,<1:40,138.5,22.8,4.0,0,0,No,Negative,Normal,0
+P10159,51,Female,52.1,6.0,42.1,5.7,Positive,1:160,115.3,24.2,15.0,6,0,No,Negative,Sjögren's Syndrome,0
+P10160,38,Male,2.0,8.4,13.1,1.1,Negative,<1:40,134.2,31.7,1.0,0,0,No,Negative,Normal,0
+P10161,54,Male,29.9,1.0,33.9,3.2,Positive,1:640,44.3,9.7,36.0,2,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10162,47,Female,4.7,5.7,27.5,10.1,Positive,<1:40,124.6,22.8,20.0,9,3,No,Negative,Psoriatic Arthritis,0
+P10163,49,Male,3.9,7.7,14.8,5.3,Negative,<1:40,133.3,20.1,33.0,6,3,No,Positive,Psoriatic Arthritis,0
+P10164,36,Male,5.2,3.2,41.3,10.5,Negative,<1:40,127.3,30.5,45.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10165,27,Male,6.9,4.1,58.3,17.3,Negative,<1:40,112.9,30.8,31.0,3,2,No,Positive,Reactive Arthritis,0
+P10166,32,Male,9.2,7.5,36.6,20.4,Negative,<1:40,145.3,23.0,48.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10167,47,Female,29.2,120.5,37.2,4.5,Negative,<1:40,141.4,17.7,70.0,10,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10168,46,Female,15.5,8.6,44.7,4.2,Positive,1:640,70.9,6.7,15.0,3,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10169,64,Female,57.5,8.3,22.2,4.6,Negative,1:320,88.0,29.4,27.0,2,1,Yes,Negative,Sjögren's Syndrome,0
+P10170,46,Female,14.2,5.8,48.0,5.4,Positive,1:320,112.1,11.0,19.0,3,1,Yes,Negative,Sjögren's Syndrome,0
+P10171,47,Female,172.6,45.0,28.2,4.5,Negative,1:80,137.3,26.3,73.0,12,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10172,45,Female,43.5,42.7,31.0,29.6,Negative,<1:40,119.6,26.4,86.0,13,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10173,57,Male,5.0,1.4,10.7,2.7,Negative,<1:40,152.1,17.3,4.0,0,0,No,Negative,Normal,0
+P10174,40,Female,21.5,5.7,18.0,9.6,Negative,1:320,106.5,28.6,28.0,1,0,Yes,Negative,Sjögren's Syndrome,0
+P10175,48,Female,16.6,16.0,37.4,1.0,Positive,1:1280,75.7,8.4,66.0,5,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10176,58,Female,50.8,16.6,38.2,6.1,Positive,1:160,102.3,31.7,25.0,1,0,Yes,Negative,Sjögren's Syndrome,0
+P10177,23,Female,7.6,11.2,16.3,17.4,Negative,<1:40,116.9,25.0,39.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10178,18,Male,8.7,1.7,37.0,24.9,Negative,<1:40,153.2,26.3,31.0,1,3,No,Positive,Reactive Arthritis,0
+P10179,23,Male,8.3,4.1,21.1,8.0,Negative,<1:40,133.6,28.8,27.0,3,5,No,Positive,Reactive Arthritis,0
+P10180,25,Female,6.3,10.8,60.3,2.0,Positive,1:1280,58.2,5.9,15.0,5,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10181,53,Female,10.3,4.4,35.3,7.6,Negative,<1:40,96.1,29.0,65.0,3,1,No,Negative,Psoriatic Arthritis,0
+P10182,43,Female,6.3,8.9,37.1,13.4,Positive,<1:40,131.1,27.9,70.0,5,3,No,Negative,Psoriatic Arthritis,0
+P10183,52,Male,48.8,9.1,36.1,7.7,Negative,1:160,131.8,20.3,10.0,1,1,Yes,Negative,Sjögren's Syndrome,0
+P10184,69,Male,8.3,1.0,47.3,18.2,Negative,<1:40,123.6,29.4,29.0,4,4,No,Negative,Psoriatic Arthritis,0
+P10185,23,Male,5.5,11.4,36.8,15.8,Negative,<1:40,124.8,22.3,67.0,3,1,No,Negative,Ankylosing Spondylitis,0
+P10186,58,Female,2.7,5.7,56.9,23.4,Negative,<1:40,127.9,16.3,61.0,2,5,No,Negative,Psoriatic Arthritis,0
+P10187,51,Male,8.3,2.3,38.6,4.8,Negative,<1:40,110.7,26.8,81.0,2,1,No,Negative,Psoriatic Arthritis,0
+P10188,34,Female,34.4,4.1,87.8,6.5,Positive,1:1280,69.8,9.8,52.0,1,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10189,36,Female,7.6,5.5,11.7,2.3,Negative,<1:40,137.4,27.0,7.0,0,0,No,Negative,Normal,0
+P10190,32,Female,93.7,259.2,53.7,10.8,Negative,1:160,157.0,30.0,58.0,15,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10191,57,Male,7.6,5.2,13.4,2.8,Negative,<1:40,147.4,13.7,3.0,0,0,No,Negative,Normal,0
+P10192,31,Male,5.3,3.3,55.6,22.2,Negative,<1:40,136.4,30.8,16.0,3,4,No,Positive,Reactive Arthritis,0
+P10193,21,Female,3.5,4.8,64.3,27.1,Negative,<1:40,137.2,28.5,44.0,5,2,No,Positive,Reactive Arthritis,0
+P10194,47,Female,135.0,92.0,37.2,14.0,Negative,<1:40,113.1,16.9,68.0,7,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10195,49,Female,33.8,8.1,30.3,6.0,Positive,1:1280,88.0,8.0,32.0,6,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10196,65,Female,70.1,98.7,58.9,18.6,Negative,1:80,141.6,18.4,81.0,9,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10197,40,Male,6.6,6.7,27.6,25.4,Negative,<1:40,143.3,24.3,47.0,3,2,No,Negative,Reactive Arthritis,0
+P10198,41,Female,3.1,9.2,11.5,2.5,Negative,<1:40,118.4,12.0,9.0,0,0,No,Negative,Normal,0
+P10199,32,Male,6.9,3.5,26.1,16.3,Negative,<1:40,99.6,38.0,20.0,4,5,No,Negative,Psoriatic Arthritis,0
+P10200,36,Male,6.1,4.9,12.8,1.6,Negative,<1:40,135.2,29.6,7.0,0,0,No,Negative,Normal,0
+P10201,43,Male,7.4,1.0,7.3,2.2,Negative,<1:40,106.9,24.3,7.0,0,0,No,Negative,Normal,0
+P10202,56,Female,3.3,11.3,30.5,8.0,Positive,<1:40,142.9,22.3,41.0,6,2,No,Negative,Psoriatic Arthritis,0
+P10203,47,Female,55.1,10.5,27.7,2.3,Positive,1:160,145.9,19.2,10.0,4,2,No,Negative,Sjögren's Syndrome,0
+P10204,52,Female,30.4,172.9,48.3,17.0,Positive,<1:40,137.8,21.0,111.0,13,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10205,37,Male,7.5,2.1,39.9,13.7,Negative,<1:40,103.7,26.6,43.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10206,32,Male,34.4,16.2,42.0,1.0,Positive,1:320,65.8,9.8,32.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10207,59,Male,6.6,9.2,38.9,12.5,Positive,<1:40,132.1,26.4,46.0,4,5,No,Negative,Psoriatic Arthritis,0
+P10208,72,Female,21.2,9.5,54.6,5.7,Positive,1:320,112.3,16.6,30.0,3,1,No,Negative,Sjögren's Syndrome,0
+P10209,21,Male,7.1,4.4,14.5,2.8,Negative,<1:40,144.6,35.2,10.0,0,0,No,Negative,Normal,0
+P10210,27,Male,10.1,4.2,23.6,23.4,Negative,<1:40,120.6,22.9,37.0,3,3,No,Negative,Reactive Arthritis,0
+P10211,43,Female,9.4,12.7,29.8,16.5,Negative,<1:40,123.4,14.9,51.0,5,3,No,Negative,Psoriatic Arthritis,0
+P10212,24,Female,4.3,10.6,40.8,31.3,Negative,<1:40,128.8,26.1,52.0,6,3,No,Positive,Reactive Arthritis,0
+P10213,51,Female,21.0,10.7,28.7,4.5,Positive,1:640,67.6,6.6,55.0,5,3,No,Negative,Systemic Lupus Erythematosus,0
+P10214,22,Female,5.6,5.7,44.1,24.8,Negative,<1:40,116.7,18.7,45.0,6,3,No,Positive,Reactive Arthritis,0
+P10215,29,Female,4.6,11.4,11.5,3.0,Negative,<1:40,125.1,28.5,0.0,0,0,No,Negative,Normal,0
+P10216,24,Female,10.5,8.2,40.0,6.5,Negative,<1:40,108.3,28.4,48.0,6,2,No,Negative,Psoriatic Arthritis,0
+P10217,46,Male,6.4,7.7,19.3,18.2,Negative,<1:40,133.6,22.2,57.0,4,2,No,Positive,Psoriatic Arthritis,0
+P10218,50,Female,36.5,11.0,18.0,4.5,Positive,1:160,120.1,13.1,35.0,6,1,No,Negative,Sjögren's Syndrome,0
+P10219,26,Male,9.2,7.8,35.4,14.3,Negative,<1:40,145.6,27.7,90.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10220,34,Male,2.8,9.1,8.3,2.1,Negative,<1:40,120.3,29.1,0.0,0,0,No,Negative,Normal,0
+P10221,41,Male,4.3,2.7,11.8,0.6,Negative,<1:40,110.1,20.9,0.0,0,0,No,Negative,Normal,0
+P10222,75,Male,8.0,9.7,28.1,10.0,Negative,1:160,160.0,21.5,26.0,1,0,Yes,Negative,Sjögren's Syndrome,0
+P10223,18,Female,19.6,7.6,82.0,4.8,Positive,1:320,57.9,8.5,35.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10224,52,Female,35.6,7.6,47.8,4.3,Positive,1:320,152.5,22.0,41.0,5,0,Yes,Negative,Sjögren's Syndrome,0
+P10225,63,Female,28.4,9.3,50.4,12.4,Negative,1:160,145.4,18.4,10.0,4,0,Yes,Negative,Sjögren's Syndrome,0
+P10226,31,Female,5.1,12.9,11.4,2.7,Negative,<1:40,123.2,19.3,0.0,0,0,No,Negative,Normal,0
+P10227,32,Male,7.9,8.9,29.4,25.3,Negative,<1:40,120.7,25.2,75.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P10228,35,Male,4.3,2.9,30.2,6.4,Negative,<1:40,130.3,33.9,57.0,1,3,No,Positive,Ankylosing Spondylitis,0
+P10229,21,Female,1.6,3.4,20.7,29.0,Negative,<1:40,144.2,23.9,55.0,3,2,No,Positive,Reactive Arthritis,0
+P10230,44,Female,84.7,122.0,16.4,16.0,Negative,<1:40,140.1,24.5,73.0,10,12,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10231,55,Female,29.4,20.7,21.1,5.1,Positive,1:320,107.1,25.3,12.0,3,2,No,Negative,Sjögren's Syndrome,0
+P10232,52,Female,10.3,8.6,27.2,9.7,Negative,<1:40,97.8,14.1,28.0,2,3,No,Negative,Psoriatic Arthritis,0
+P10233,46,Female,55.9,10.7,18.6,8.7,Positive,1:160,97.8,20.1,17.0,5,1,Yes,Negative,Sjögren's Syndrome,0
+P10234,54,Female,5.8,5.7,10.9,1.2,Negative,<1:40,147.1,28.7,2.0,0,0,No,Negative,Normal,0
+P10235,28,Female,29.5,11.3,81.4,3.0,Positive,1:1280,57.4,9.0,27.0,1,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10236,24,Male,5.2,5.0,33.5,29.7,Negative,<1:40,110.6,26.5,39.0,5,4,No,Negative,Reactive Arthritis,0
+P10237,49,Male,3.6,17.9,26.0,11.5,Negative,<1:40,108.0,34.2,33.0,4,3,No,Negative,Psoriatic Arthritis,0
+P10238,42,Male,30.0,8.4,43.8,6.4,Negative,1:320,152.7,21.3,55.0,6,0,No,Negative,Sjögren's Syndrome,0
+P10239,60,Female,194.6,37.3,15.0,31.7,Negative,<1:40,120.7,21.5,56.0,7,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10240,19,Male,5.1,3.6,25.7,40.5,Negative,<1:40,117.5,31.0,30.0,4,2,No,Positive,Reactive Arthritis,0
+P10241,44,Female,38.3,74.2,48.4,11.1,Negative,1:160,115.3,17.4,81.0,11,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10242,62,Female,7.9,4.9,7.5,0.2,Negative,<1:40,132.3,34.1,6.0,0,0,No,Negative,Normal,0
+P10243,28,Male,3.2,7.4,47.6,28.4,Negative,<1:40,138.7,33.9,36.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10244,29,Female,37.6,4.4,35.5,3.2,Positive,1:1280,55.2,6.6,60.0,3,5,Yes,Negative,Systemic Lupus Erythematosus,0
+P10245,30,Female,4.2,11.7,55.0,8.3,Negative,<1:40,108.2,27.5,49.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10246,29,Male,5.9,1.0,42.6,20.1,Negative,<1:40,150.1,31.9,45.0,3,1,No,Negative,Ankylosing Spondylitis,0
+P10247,34,Female,6.0,2.4,51.1,25.4,Negative,<1:40,130.9,32.7,43.0,3,5,No,Positive,Reactive Arthritis,0
+P10248,21,Male,6.2,9.4,3.7,1.3,Negative,<1:40,102.0,27.8,0.0,0,0,No,Negative,Normal,0
+P10249,46,Female,28.9,10.4,40.8,11.1,Positive,<1:40,108.0,28.2,35.0,4,2,No,Negative,Sjögren's Syndrome,0
+P10250,30,Male,7.9,7.0,13.8,1.2,Negative,<1:40,132.9,27.7,0.0,0,0,No,Negative,Normal,0
+P10251,45,Male,3.9,7.0,29.7,17.1,Negative,<1:40,131.5,22.0,109.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10252,40,Female,4.1,7.1,39.4,5.2,Positive,1:320,64.8,7.9,17.0,2,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10253,48,Female,140.5,50.3,25.1,17.8,Positive,<1:40,155.8,28.7,35.0,12,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10254,29,Male,5.5,6.5,22.7,37.4,Negative,<1:40,131.3,28.5,40.0,3,5,No,Negative,Reactive Arthritis,0
+P10255,45,Female,23.5,6.5,54.9,2.0,Positive,1:640,62.7,9.8,16.0,7,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10256,48,Female,26.0,13.4,43.3,1.2,Negative,1:160,122.8,19.0,38.0,4,4,Yes,Negative,Sjögren's Syndrome,0
+P10257,44,Female,71.8,13.7,52.9,7.8,Positive,1:160,119.5,20.8,53.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10258,36,Male,5.9,15.8,50.8,5.2,Negative,<1:40,141.8,31.1,52.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10259,56,Female,55.6,230.4,33.0,4.5,Positive,<1:40,136.2,20.3,70.0,8,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10260,38,Male,18.1,3.7,84.7,9.2,Positive,1:320,66.8,6.3,36.0,1,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10261,36,Male,6.9,2.9,15.3,0.2,Negative,<1:40,156.6,30.0,6.0,0,0,No,Negative,Normal,0
+P10262,77,Female,51.3,80.5,19.2,13.8,Positive,<1:40,110.3,25.7,100.0,11,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10263,45,Female,24.1,7.7,44.0,4.7,Positive,1:1280,54.2,9.8,34.0,1,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10264,38,Female,2.6,4.2,58.3,4.5,Positive,1:1280,72.7,2.4,60.0,6,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10265,58,Male,7.4,4.6,12.3,2.1,Negative,<1:40,144.4,28.6,6.0,0,0,No,Negative,Normal,0
+P10266,37,Male,7.8,5.1,31.9,19.4,Negative,<1:40,134.4,27.0,39.0,3,4,No,Negative,Psoriatic Arthritis,0
+P10267,27,Female,12.2,15.3,21.8,10.8,Negative,<1:40,120.0,28.7,68.0,2,3,No,Negative,Psoriatic Arthritis,0
+P10268,30,Female,8.7,10.3,20.0,25.5,Negative,<1:40,136.5,21.3,44.0,1,3,No,Positive,Reactive Arthritis,0
+P10269,35,Male,135.5,85.2,70.2,10.4,Negative,1:160,99.6,16.3,119.0,13,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10270,19,Male,8.7,6.6,39.3,8.0,Negative,<1:40,117.8,33.9,55.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10271,46,Male,4.5,8.4,14.4,2.3,Negative,<1:40,141.7,25.8,4.0,0,0,No,Negative,Normal,0
+P10272,35,Male,8.6,10.7,30.7,21.2,Negative,<1:40,124.8,23.9,53.0,2,5,No,Negative,Reactive Arthritis,0
+P10273,56,Female,51.3,8.0,37.4,3.6,Positive,1:160,131.7,24.7,25.0,0,1,Yes,Negative,Sjögren's Syndrome,0
+P10274,55,Female,4.7,12.7,30.2,16.3,Negative,<1:40,122.1,33.6,51.0,8,4,No,Positive,Psoriatic Arthritis,0
+P10275,54,Female,10.7,11.3,37.8,20.1,Negative,<1:40,134.8,16.1,57.0,6,3,No,Positive,Psoriatic Arthritis,0
+P10276,27,Female,93.2,278.0,74.7,19.4,Positive,1:80,144.9,21.6,60.0,13,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10277,27,Male,4.8,7.7,20.0,8.0,Negative,<1:40,121.4,30.3,25.0,3,1,No,Negative,Reactive Arthritis,0
+P10278,31,Male,7.7,5.3,22.2,8.7,Negative,<1:40,132.1,25.2,71.0,5,1,No,Negative,Ankylosing Spondylitis,0
+P10279,33,Female,6.2,10.3,25.2,20.0,Negative,<1:40,95.0,22.4,42.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P10280,18,Female,17.6,6.7,47.0,2.7,Positive,1:320,74.1,9.8,52.0,5,1,No,Negative,Systemic Lupus Erythematosus,0
+P10281,31,Male,4.7,8.4,34.7,11.6,Negative,<1:40,125.4,32.1,15.0,1,3,No,Negative,Reactive Arthritis,0
+P10282,64,Female,72.1,115.5,47.5,9.0,Positive,1:160,132.3,18.4,91.0,14,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10283,77,Female,87.1,45.2,63.3,4.5,Positive,<1:40,126.7,32.0,105.0,10,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10284,29,Male,8.1,7.7,40.3,26.0,Negative,<1:40,118.4,19.6,42.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10285,26,Female,5.1,9.5,13.3,1.2,Negative,<1:40,119.6,22.8,4.0,0,0,No,Negative,Normal,0
+P10286,22,Female,6.9,13.0,56.1,1.0,Positive,1:640,69.5,9.8,47.0,4,3,No,Negative,Systemic Lupus Erythematosus,0
+P10287,24,Male,4.8,4.2,45.2,14.8,Negative,<1:40,133.1,24.1,38.0,5,2,No,Positive,Reactive Arthritis,0
+P10288,34,Female,38.7,5.9,47.1,1.6,Positive,<1:40,139.3,21.0,22.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10289,27,Male,1.0,1.0,12.4,2.0,Negative,<1:40,116.3,27.0,8.0,0,0,No,Negative,Normal,0
+P10290,43,Female,1.3,1.0,36.7,19.1,Negative,<1:40,148.5,24.7,27.0,4,4,No,Negative,Psoriatic Arthritis,0
+P10291,34,Male,3.8,2.4,65.3,27.1,Negative,<1:40,138.0,28.1,15.0,1,3,No,Negative,Reactive Arthritis,0
+P10292,37,Male,5.1,6.0,14.9,0.2,Negative,<1:40,108.0,24.1,6.0,0,0,No,Negative,Normal,0
+P10293,18,Male,7.5,7.7,29.2,14.4,Negative,<1:40,146.9,23.6,34.0,3,2,No,Negative,Reactive Arthritis,0
+P10294,38,Male,6.8,7.4,31.2,11.8,Negative,<1:40,141.9,28.1,51.0,1,4,No,Negative,Psoriatic Arthritis,0
+P10295,47,Male,9.1,6.0,34.4,18.2,Positive,<1:40,133.9,21.9,44.0,1,2,No,Positive,Psoriatic Arthritis,0
+P10296,32,Female,57.4,2.0,57.4,8.9,Negative,1:160,96.1,28.5,36.0,6,2,Yes,Negative,Sjögren's Syndrome,0
+P10297,42,Female,4.7,8.7,49.6,22.6,Negative,<1:40,150.1,32.3,15.0,2,3,No,Negative,Reactive Arthritis,0
+P10298,62,Male,6.4,1.4,6.8,1.9,Negative,<1:40,135.7,31.3,3.0,0,0,No,Negative,Normal,0
+P10299,27,Male,8.1,8.8,55.6,16.3,Negative,<1:40,117.2,15.6,23.0,5,4,No,Positive,Reactive Arthritis,0
+P10300,59,Female,51.6,13.1,20.2,8.1,Positive,1:160,134.7,13.7,21.0,2,4,No,Negative,Sjögren's Syndrome,0
+P10301,20,Female,15.5,4.1,50.2,3.3,Positive,1:320,54.7,6.6,64.0,2,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10302,33,Male,1.0,7.8,33.8,21.3,Negative,<1:40,135.0,20.5,48.0,4,3,No,Positive,Reactive Arthritis,0
+P10303,53,Female,54.0,16.0,48.8,1.4,Positive,<1:40,93.3,27.2,38.0,1,1,No,Negative,Sjögren's Syndrome,0
+P10304,37,Male,8.5,5.8,41.1,20.1,Negative,<1:40,127.0,27.5,73.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10305,48,Female,23.5,8.1,22.0,3.9,Positive,1:320,63.5,6.4,78.0,5,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10306,32,Female,15.1,4.6,56.4,7.5,Positive,1:320,82.1,8.2,53.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10307,31,Female,9.3,17.0,22.2,7.0,Negative,<1:40,112.3,25.8,52.0,5,3,No,Positive,Psoriatic Arthritis,0
+P10308,20,Male,8.4,9.0,40.7,47.6,Negative,<1:40,122.4,24.1,46.0,3,4,No,Positive,Reactive Arthritis,0
+P10309,48,Female,4.2,12.1,10.2,0.6,Negative,<1:40,132.1,29.1,5.0,0,0,No,Negative,Normal,0
+P10310,53,Female,35.1,11.1,59.5,2.2,Positive,1:1280,56.3,8.7,56.0,3,2,No,Negative,Systemic Lupus Erythematosus,0
+P10311,55,Female,9.3,3.1,11.5,1.6,Negative,<1:40,101.8,27.4,3.0,0,0,No,Negative,Normal,0
+P10312,46,Female,5.2,11.7,23.5,17.8,Negative,<1:40,153.1,21.4,23.0,7,4,No,Positive,Psoriatic Arthritis,0
+P10313,46,Female,72.6,43.4,22.4,11.0,Negative,<1:40,137.6,26.8,128.0,11,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10314,36,Female,3.4,8.0,33.1,15.8,Negative,<1:40,144.0,22.2,57.0,3,4,No,Negative,Reactive Arthritis,0
+P10315,45,Female,3.8,5.0,25.4,9.0,Negative,<1:40,124.8,27.6,49.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10316,55,Male,1.0,6.7,45.4,5.2,Negative,<1:40,124.6,22.2,48.0,4,3,No,Negative,Psoriatic Arthritis,0
+P10317,62,Male,100.1,49.0,47.4,7.9,Positive,<1:40,104.9,12.0,88.0,13,11,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10318,50,Male,7.4,9.6,53.0,22.2,Negative,<1:40,140.7,28.3,25.0,7,4,No,Negative,Psoriatic Arthritis,0
+P10319,25,Male,1.1,1.0,31.5,14.6,Negative,<1:40,124.5,18.1,44.0,4,1,No,Positive,Ankylosing Spondylitis,0
+P10320,48,Female,2.1,10.0,41.3,3.5,Positive,1:320,63.5,5.7,39.0,9,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10321,37,Male,8.0,7.0,3.0,1.5,Negative,<1:40,133.7,29.2,5.0,0,0,No,Negative,Normal,0
+P10322,25,Male,10.6,5.1,10.6,1.6,Negative,<1:40,104.1,20.0,8.0,0,0,No,Negative,Normal,0
+P10323,32,Female,1.9,10.9,43.5,6.3,Negative,<1:40,104.2,19.8,51.0,0,2,No,Positive,Ankylosing Spondylitis,0
+P10324,30,Female,31.4,8.0,47.3,6.1,Positive,1:320,43.8,6.6,51.0,3,1,No,Negative,Systemic Lupus Erythematosus,0
+P10325,62,Male,9.1,9.5,29.4,12.0,Negative,<1:40,127.6,23.0,44.0,4,2,No,Negative,Psoriatic Arthritis,0
+P10326,39,Female,40.2,10.5,41.4,3.0,Positive,1:160,127.2,16.6,15.0,2,0,Yes,Negative,Sjögren's Syndrome,0
+P10327,39,Male,10.8,3.2,37.6,14.4,Negative,<1:40,117.7,33.8,30.0,0,1,No,Negative,Ankylosing Spondylitis,0
+P10328,56,Female,6.1,4.9,9.0,1.5,Negative,<1:40,147.8,26.0,0.0,0,0,No,Negative,Normal,0
+P10329,63,Male,4.9,9.4,7.4,0.2,Negative,<1:40,135.5,21.7,1.0,0,0,No,Negative,Normal,0
+P10330,62,Female,29.4,37.3,43.8,16.8,Negative,1:80,148.3,22.8,73.0,16,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10331,44,Female,7.9,5.3,25.8,13.7,Negative,<1:40,153.6,36.0,32.0,2,3,No,Negative,Psoriatic Arthritis,0
+P10332,39,Female,7.8,1.2,42.6,1.7,Positive,1:320,69.5,8.5,26.0,1,5,Yes,Negative,Systemic Lupus Erythematosus,0
+P10333,35,Male,6.7,6.0,60.0,20.1,Negative,<1:40,130.7,24.1,33.0,2,3,No,Negative,Reactive Arthritis,0
+P10334,30,Male,9.5,7.0,26.4,27.9,Negative,<1:40,157.5,21.7,71.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P10335,70,Male,265.9,137.3,52.5,26.0,Positive,<1:40,101.0,21.9,56.0,12,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10336,42,Female,4.1,3.7,39.9,9.8,Negative,<1:40,95.0,28.1,80.0,3,1,No,Negative,Psoriatic Arthritis,0
+P10337,40,Male,8.0,9.3,24.3,23.1,Negative,<1:40,106.3,20.8,86.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10338,40,Male,8.4,6.0,37.9,7.5,Negative,<1:40,115.0,29.4,51.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10339,51,Male,5.6,6.7,54.4,8.9,Negative,<1:40,125.4,21.6,50.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10340,25,Female,3.2,2.3,82.4,20.2,Negative,<1:40,136.0,22.5,42.0,6,4,No,Positive,Reactive Arthritis,0
+P10341,56,Female,168.7,138.2,43.2,16.1,Positive,1:80,175.0,14.0,101.0,15,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10342,33,Female,3.9,3.1,10.6,0.7,Negative,<1:40,121.2,29.5,1.0,0,0,No,Negative,Normal,0
+P10343,26,Male,4.0,11.3,20.0,14.4,Negative,<1:40,162.3,25.8,24.0,4,2,No,Positive,Reactive Arthritis,0
+P10344,32,Female,4.7,9.0,29.2,15.4,Negative,<1:40,138.1,23.1,58.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10345,20,Female,27.5,16.7,91.3,4.7,Positive,1:640,62.4,7.2,15.0,7,2,No,Negative,Systemic Lupus Erythematosus,0
+P10346,73,Female,69.1,60.6,35.7,4.5,Negative,1:160,120.9,24.3,91.0,10,7,No,Negative,Rheumatoid Arthritis (RA),1
+P10347,29,Male,6.9,7.0,16.6,2.3,Negative,<1:40,108.5,23.1,3.0,0,0,No,Negative,Normal,0
+P10348,50,Female,43.3,2.8,36.3,9.4,Positive,1:320,99.0,16.7,38.0,0,0,No,Negative,Sjögren's Syndrome,0
+P10349,44,Male,8.4,2.3,38.3,4.0,Positive,<1:40,127.8,25.2,46.0,3,2,No,Positive,Psoriatic Arthritis,0
+P10350,53,Male,7.6,4.6,35.8,6.1,Positive,<1:40,122.9,29.1,59.0,3,2,No,Negative,Psoriatic Arthritis,0
+P10351,48,Female,73.0,211.4,59.4,20.4,Positive,1:80,102.1,38.0,121.0,11,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10352,45,Male,116.5,141.0,44.8,34.2,Negative,<1:40,117.7,25.2,73.0,8,8,No,Negative,Rheumatoid Arthritis (RA),1
+P10353,30,Female,10.9,7.1,62.4,5.7,Positive,1:1280,54.1,8.8,47.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10354,28,Female,9.1,1.0,37.6,9.9,Negative,<1:40,127.2,22.4,99.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10355,37,Male,10.2,7.0,59.3,13.2,Negative,<1:40,124.3,20.2,63.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10356,45,Female,18.8,8.1,97.7,1.0,Positive,1:320,59.4,6.8,69.0,8,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10357,22,Female,10.2,1.0,39.3,8.3,Negative,<1:40,134.8,14.0,88.0,4,1,No,Positive,Ankylosing Spondylitis,0
+P10358,33,Female,13.1,18.0,69.2,1.0,Positive,1:320,72.5,4.9,48.0,5,5,Yes,Negative,Systemic Lupus Erythematosus,0
+P10359,66,Male,9.8,2.1,35.7,12.9,Negative,<1:40,132.9,27.7,41.0,2,1,No,Negative,Psoriatic Arthritis,0
+P10360,74,Male,7.6,10.1,15.5,1.7,Negative,<1:40,116.0,18.7,9.0,0,0,No,Negative,Normal,0
+P10361,36,Female,15.7,2.4,27.0,7.4,Positive,1:320,54.4,5.9,53.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10362,35,Female,31.5,1.0,74.9,5.7,Positive,1:320,58.8,8.2,30.0,3,4,Yes,Negative,Systemic Lupus Erythematosus,0
+P10363,29,Female,8.0,8.4,35.2,24.4,Negative,<1:40,114.5,25.2,47.0,3,2,No,Negative,Ankylosing Spondylitis,0
+P10364,32,Male,4.3,6.2,49.7,11.8,Negative,<1:40,143.1,27.6,46.0,3,1,No,Negative,Reactive Arthritis,0
+P10365,29,Male,9.9,13.8,19.7,15.6,Positive,<1:40,164.3,18.5,48.0,6,2,No,Negative,Psoriatic Arthritis,0
+P10366,38,Female,6.5,7.5,16.5,1.8,Negative,<1:40,137.6,25.6,13.0,0,0,No,Negative,Normal,0
+P10367,23,Male,7.7,3.0,42.0,8.0,Negative,<1:40,136.2,25.6,21.0,2,2,No,Positive,Reactive Arthritis,0
+P10368,50,Female,25.7,220.8,40.7,15.3,Negative,<1:40,124.3,24.2,86.0,9,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10369,46,Female,1.1,2.5,46.7,4.0,Negative,<1:40,123.8,23.5,61.0,5,2,No,Negative,Psoriatic Arthritis,0
+P10370,45,Male,4.8,9.9,40.4,10.2,Negative,<1:40,138.3,29.6,64.0,3,2,No,Negative,Psoriatic Arthritis,0
+P10371,24,Female,5.2,3.8,53.7,8.0,Negative,<1:40,102.3,40.0,25.0,1,5,No,Positive,Reactive Arthritis,0
+P10372,26,Male,2.0,9.3,51.2,1.0,Positive,1:640,63.8,6.2,46.0,1,2,No,Negative,Systemic Lupus Erythematosus,0
+P10373,30,Male,4.9,7.4,28.1,25.2,Negative,<1:40,147.1,29.3,28.0,2,3,No,Positive,Reactive Arthritis,0
+P10374,55,Female,8.0,10.5,38.6,4.2,Positive,1:160,112.0,26.8,23.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10375,22,Female,20.2,12.7,48.1,5.7,Positive,1:640,63.3,6.6,53.0,3,2,No,Negative,Systemic Lupus Erythematosus,0
+P10376,55,Female,49.3,229.6,77.4,15.0,Negative,<1:40,131.1,28.9,64.0,9,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10377,38,Male,4.2,10.6,13.7,1.8,Negative,<1:40,104.9,19.0,0.0,0,0,No,Negative,Normal,0
+P10378,46,Female,2.6,4.7,17.0,2.3,Negative,<1:40,116.1,24.5,5.0,0,0,No,Negative,Normal,0
+P10379,50,Male,8.0,6.9,50.0,17.6,Negative,<1:40,129.1,22.9,20.0,3,4,No,Negative,Psoriatic Arthritis,0
+P10380,36,Female,53.7,10.4,42.8,6.3,Positive,1:160,135.6,22.1,19.0,3,1,Yes,Negative,Sjögren's Syndrome,0
+P10381,56,Female,8.1,2.6,6.7,1.6,Negative,<1:40,115.3,29.7,0.0,0,0,No,Negative,Normal,0
+P10382,43,Female,32.1,15.6,82.2,11.4,Positive,1:640,57.2,9.8,49.0,2,0,No,Negative,Systemic Lupus Erythematosus,0
+P10383,46,Male,20.2,16.1,51.3,8.2,Positive,1:320,63.3,9.8,15.0,1,3,No,Negative,Systemic Lupus Erythematosus,0
+P10384,30,Female,4.0,4.7,62.8,23.4,Negative,<1:40,135.1,25.2,24.0,3,5,No,Negative,Reactive Arthritis,0
+P10385,52,Female,57.7,6.6,46.8,2.1,Positive,1:160,105.6,20.2,12.0,4,1,No,Negative,Sjögren's Syndrome,0
+P10386,41,Male,8.9,5.1,21.9,9.2,Positive,<1:40,129.7,24.0,58.0,5,3,No,Negative,Psoriatic Arthritis,0
+P10387,33,Male,2.9,6.1,31.9,23.9,Negative,<1:40,147.0,29.1,75.0,1,3,No,Positive,Reactive Arthritis,0
+P10388,43,Female,12.7,3.5,18.0,8.0,Negative,<1:40,133.1,21.5,55.0,4,4,No,Positive,Psoriatic Arthritis,0
+P10389,54,Female,62.3,143.0,47.3,17.5,Negative,1:80,113.1,26.6,75.0,11,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10390,48,Male,6.5,5.7,3.3,2.1,Negative,<1:40,130.9,21.7,0.0,0,0,No,Negative,Normal,0
+P10391,73,Female,6.5,1.0,5.6,0.2,Negative,<1:40,126.8,30.0,5.0,0,0,No,Negative,Normal,0
+P10392,56,Female,54.9,15.8,50.8,6.4,Positive,1:320,129.6,23.8,46.0,3,4,Yes,Negative,Sjögren's Syndrome,0
+P10393,28,Female,29.9,7.8,44.1,4.6,Positive,1:640,67.6,8.6,35.0,3,3,No,Negative,Systemic Lupus Erythematosus,0
+P10394,44,Female,152.4,118.2,30.5,6.9,Negative,<1:40,138.7,19.2,35.0,15,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10395,24,Female,38.6,7.1,48.6,2.9,Positive,1:640,61.8,7.2,34.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10396,31,Female,2.0,1.3,59.4,6.2,Positive,1:1280,68.1,6.8,43.0,1,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10397,41,Female,3.3,4.4,69.2,3.5,Positive,1:640,53.2,9.8,15.0,7,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10398,61,Female,65.8,11.3,35.5,3.5,Positive,1:160,129.4,27.9,14.0,2,1,No,Negative,Sjögren's Syndrome,0
+P10399,29,Male,8.6,6.3,42.5,23.6,Negative,<1:40,135.4,31.9,41.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10400,54,Female,68.2,6.2,50.1,6.9,Positive,<1:40,141.5,25.5,46.0,4,2,No,Negative,Sjögren's Syndrome,0
+P10401,59,Female,25.1,11.1,37.7,7.2,Positive,1:160,102.9,11.0,30.0,4,4,No,Negative,Sjögren's Syndrome,0
+P10402,58,Male,6.1,1.0,6.6,1.9,Negative,<1:40,125.7,27.6,4.0,0,0,No,Negative,Normal,0
+P10403,38,Female,34.4,1.6,28.5,4.8,Positive,1:320,88.0,7.4,44.0,4,2,No,Negative,Systemic Lupus Erythematosus,0
+P10404,54,Male,6.0,3.4,49.2,9.4,Negative,<1:40,111.5,17.9,43.0,1,1,No,Negative,Psoriatic Arthritis,0
+P10405,53,Male,8.3,8.1,2.0,2.5,Negative,<1:40,127.0,28.1,7.0,0,0,No,Negative,Normal,0
+P10406,36,Male,6.1,2.4,35.2,15.6,Negative,<1:40,119.2,23.1,65.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10407,54,Female,8.9,8.3,40.9,21.2,Negative,<1:40,144.8,26.6,64.0,7,5,No,Negative,Psoriatic Arthritis,0
+P10408,20,Female,15.8,8.7,52.3,6.4,Positive,1:640,88.0,6.7,36.0,3,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10409,32,Male,7.0,7.7,80.9,31.6,Negative,<1:40,134.5,20.1,26.0,2,5,No,Negative,Reactive Arthritis,0
+P10410,38,Male,5.2,10.6,23.3,16.8,Negative,<1:40,113.0,26.8,54.0,3,3,No,Negative,Psoriatic Arthritis,0
+P10411,53,Male,58.5,4.6,18.0,5.1,Positive,1:320,109.3,20.1,13.0,2,1,Yes,Negative,Sjögren's Syndrome,0
+P10412,24,Male,3.9,9.5,20.0,34.7,Negative,<1:40,168.7,32.3,20.0,3,2,No,Positive,Reactive Arthritis,0
+P10413,34,Male,6.9,7.6,32.8,15.1,Negative,<1:40,134.6,24.7,63.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10414,59,Male,35.7,108.6,61.7,10.3,Negative,<1:40,120.3,20.1,57.0,14,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10415,72,Female,103.5,98.5,58.0,14.1,Negative,<1:40,125.0,23.3,65.0,15,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10416,44,Male,8.3,4.6,12.0,13.2,Negative,<1:40,130.5,26.8,87.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10417,27,Male,2.7,13.1,12.5,0.9,Negative,<1:40,140.5,22.2,6.0,0,0,No,Negative,Normal,0
+P10418,25,Female,4.5,5.1,44.0,33.0,Negative,<1:40,123.2,25.9,57.0,3,2,No,Positive,Reactive Arthritis,0
+P10419,36,Male,3.2,7.7,19.1,13.2,Negative,<1:40,139.1,31.0,30.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10420,51,Male,4.7,2.0,4.7,1.1,Negative,<1:40,144.2,23.3,3.0,0,0,No,Negative,Normal,0
+P10421,50,Female,11.0,8.0,3.6,2.1,Negative,<1:40,121.6,21.0,4.0,0,0,No,Negative,Normal,0
+P10422,45,Male,2.3,2.6,36.8,14.5,Negative,<1:40,124.7,19.6,87.0,4,4,No,Negative,Psoriatic Arthritis,0
+P10423,30,Female,26.4,8.3,50.3,1.8,Positive,1:320,88.0,9.8,15.0,6,4,No,Negative,Systemic Lupus Erythematosus,0
+P10424,19,Male,3.1,5.5,49.1,30.7,Negative,<1:40,137.0,34.8,20.0,3,1,No,Negative,Reactive Arthritis,0
+P10425,35,Female,8.7,5.2,26.2,18.4,Negative,<1:40,120.7,23.9,81.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10426,70,Female,28.3,44.1,42.0,4.5,Positive,1:160,111.3,29.0,70.0,11,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10427,54,Male,8.1,9.3,29.3,4.3,Negative,<1:40,111.9,23.6,43.0,7,2,No,Negative,Psoriatic Arthritis,0
+P10428,67,Male,1.0,14.3,50.5,14.6,Negative,<1:40,132.7,38.0,51.0,4,4,No,Negative,Psoriatic Arthritis,0
+P10429,29,Female,8.7,5.6,57.1,16.7,Negative,<1:40,127.4,29.4,35.0,3,2,No,Negative,Reactive Arthritis,0
+P10430,46,Female,29.3,3.1,39.2,2.9,Positive,1:640,88.0,3.2,27.0,2,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10431,46,Male,6.5,10.5,4.8,2.0,Negative,<1:40,155.5,24.5,7.0,0,0,No,Negative,Normal,0
+P10432,39,Female,4.6,7.5,13.3,2.7,Negative,<1:40,111.3,20.2,4.0,0,0,No,Negative,Normal,0
+P10433,46,Female,7.7,8.1,14.0,10.4,Negative,<1:40,131.8,28.7,53.0,5,2,No,Negative,Psoriatic Arthritis,0
+P10434,40,Female,7.5,10.1,8.8,0.2,Negative,<1:40,127.5,19.5,6.0,0,0,No,Negative,Normal,0
+P10435,58,Female,49.5,10.4,23.9,5.5,Positive,1:160,109.9,22.6,45.0,1,2,No,Negative,Sjögren's Syndrome,0
+P10436,39,Male,2.7,5.7,12.0,10.0,Negative,<1:40,121.0,22.7,46.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10437,23,Female,7.0,8.2,30.7,11.1,Negative,<1:40,157.3,31.9,63.0,2,1,No,Negative,Ankylosing Spondylitis,0
+P10438,63,Female,8.0,2.0,22.0,5.7,Positive,<1:40,119.4,19.2,13.0,1,1,Yes,Negative,Sjögren's Syndrome,0
+P10439,48,Female,6.3,7.8,12.9,2.7,Negative,<1:40,117.6,19.2,5.0,0,0,No,Negative,Normal,0
+P10440,21,Female,33.5,16.6,41.6,3.7,Positive,1:1280,58.1,6.5,47.0,5,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10441,44,Female,50.7,10.9,46.0,8.3,Positive,1:320,97.5,20.7,27.0,1,1,Yes,Negative,Sjögren's Syndrome,0
+P10442,46,Female,7.9,13.6,17.5,24.2,Negative,<1:40,118.9,31.3,59.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10443,46,Male,9.0,1.0,30.7,29.0,Negative,<1:40,106.8,16.1,30.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P10444,19,Male,7.1,2.6,32.0,24.6,Negative,<1:40,136.2,27.2,37.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10445,18,Male,2.8,7.1,31.1,4.8,Positive,1:320,58.3,7.0,40.0,6,3,No,Negative,Systemic Lupus Erythematosus,0
+P10446,55,Female,25.8,68.1,24.1,15.9,Positive,<1:40,135.4,31.2,71.0,8,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10447,49,Female,19.7,15.0,55.3,6.2,Positive,1:640,55.3,6.7,53.0,1,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10448,29,Male,9.7,8.5,53.4,13.9,Negative,<1:40,116.1,29.0,46.0,4,3,No,Positive,Psoriatic Arthritis,0
+P10449,44,Male,1.0,7.0,4.5,0.9,Negative,<1:40,133.4,22.4,4.0,0,0,No,Negative,Normal,0
+P10450,47,Male,4.4,5.6,32.8,4.0,Negative,<1:40,115.7,27.4,63.0,2,3,No,Negative,Psoriatic Arthritis,0
+P10451,45,Male,3.6,11.3,14.8,4.0,Negative,<1:40,120.8,27.5,53.0,6,3,No,Negative,Psoriatic Arthritis,0
+P10452,35,Male,9.4,5.9,54.6,14.8,Negative,<1:40,127.6,33.3,68.0,2,5,No,Negative,Psoriatic Arthritis,0
+P10453,62,Male,12.5,6.9,22.5,18.7,Negative,<1:40,135.4,27.7,63.0,4,7,No,Negative,Psoriatic Arthritis,0
+P10454,49,Female,2.9,14.0,33.7,8.0,Negative,<1:40,146.5,25.8,55.0,2,3,No,Negative,Psoriatic Arthritis,0
+P10455,45,Female,4.1,5.3,14.0,28.4,Negative,<1:40,107.5,31.3,90.0,8,5,No,Negative,Psoriatic Arthritis,0
+P10456,30,Male,5.9,8.1,63.0,17.9,Negative,<1:40,140.0,28.5,40.0,2,4,No,Positive,Reactive Arthritis,0
+P10457,28,Male,6.1,1.6,30.1,17.5,Negative,<1:40,137.9,16.5,57.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10458,22,Female,15.1,1.0,71.4,1.0,Positive,1:1280,78.6,7.9,59.0,2,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10459,41,Female,56.1,10.6,60.3,2.7,Positive,1:320,104.7,26.5,29.0,4,0,No,Negative,Sjögren's Syndrome,0
+P10460,42,Female,3.4,10.1,8.5,1.2,Negative,<1:40,127.1,20.4,2.0,0,0,No,Negative,Normal,0
+P10461,27,Female,9.3,9.0,10.0,0.9,Negative,<1:40,119.1,32.2,0.0,0,0,No,Negative,Normal,0
+P10462,44,Male,14.7,9.9,38.5,2.6,Positive,1:160,88.0,19.8,13.0,2,1,Yes,Negative,Sjögren's Syndrome,0
+P10463,53,Male,39.5,4.0,36.5,5.5,Negative,1:320,115.3,24.9,43.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10464,27,Female,3.5,11.7,45.2,12.5,Negative,<1:40,137.2,33.7,23.0,3,1,No,Positive,Reactive Arthritis,0
+P10465,18,Male,5.6,8.7,56.0,16.5,Negative,<1:40,143.7,30.4,33.0,2,2,No,Negative,Reactive Arthritis,0
+P10466,39,Female,6.7,4.4,13.1,3.3,Negative,<1:40,140.1,31.5,9.0,0,0,No,Negative,Normal,0
+P10467,51,Male,8.1,8.7,24.9,12.1,Negative,<1:40,110.5,17.8,69.0,2,5,No,Negative,Psoriatic Arthritis,0
+P10468,31,Female,5.0,3.6,16.7,2.3,Negative,<1:40,163.1,17.0,6.0,0,0,No,Negative,Normal,0
+P10469,30,Male,11.6,6.7,44.8,8.6,Negative,<1:40,150.5,35.8,59.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P10470,28,Female,19.7,8.6,37.4,1.0,Positive,1:320,58.6,5.5,89.0,5,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10471,24,Male,7.6,6.7,28.8,4.0,Negative,<1:40,120.7,25.4,63.0,5,1,No,Negative,Psoriatic Arthritis,0
+P10472,36,Female,24.9,15.6,50.1,1.6,Positive,1:640,61.8,9.8,57.0,4,3,No,Negative,Systemic Lupus Erythematosus,0
+P10473,19,Male,6.1,6.0,31.4,21.8,Negative,<1:40,149.1,25.1,82.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10474,61,Female,147.6,100.9,23.6,7.5,Negative,<1:40,103.4,21.2,47.0,13,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10475,33,Male,9.4,10.3,25.2,16.0,Negative,<1:40,124.5,25.1,30.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10476,18,Male,7.6,1.0,10.8,2.1,Negative,<1:40,121.9,20.7,6.0,0,0,No,Negative,Normal,0
+P10477,51,Female,174.7,49.8,67.6,15.3,Negative,<1:40,129.1,14.8,38.0,11,4,No,Negative,Rheumatoid Arthritis (RA),1
+P10478,52,Female,65.5,50.2,43.5,17.2,Negative,1:80,112.8,26.5,127.0,11,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10479,56,Male,4.6,6.9,34.1,22.0,Negative,<1:40,159.4,17.5,47.0,5,1,No,Negative,Psoriatic Arthritis,0
+P10480,39,Female,58.0,149.8,40.3,12.5,Negative,<1:40,127.4,31.0,75.0,6,12,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10481,36,Female,15.7,8.1,71.6,4.7,Positive,1:1280,76.5,7.5,40.0,4,2,No,Negative,Systemic Lupus Erythematosus,0
+P10482,60,Male,96.5,103.6,15.0,16.4,Positive,1:80,138.8,20.4,84.0,14,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10483,40,Female,6.9,5.7,9.0,2.3,Negative,<1:40,116.8,38.0,11.0,0,0,No,Negative,Normal,0
+P10484,56,Male,5.5,6.7,5.3,1.9,Negative,<1:40,118.7,18.3,6.0,0,0,No,Negative,Normal,0
+P10485,19,Female,6.4,8.6,45.6,14.6,Negative,<1:40,121.2,23.3,68.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10486,43,Female,72.9,9.0,43.7,3.0,Negative,1:320,88.0,21.3,21.0,0,1,Yes,Negative,Sjögren's Syndrome,0
+P10487,27,Male,3.3,8.0,55.9,13.6,Negative,<1:40,134.4,29.2,21.0,4,5,No,Positive,Reactive Arthritis,0
+P10488,53,Female,26.3,11.8,48.1,4.3,Positive,1:160,123.1,11.0,29.0,2,4,Yes,Negative,Sjögren's Syndrome,0
+P10489,58,Male,8.3,6.6,8.7,2.0,Negative,<1:40,130.7,22.2,6.0,0,0,No,Negative,Normal,0
+P10490,30,Male,7.7,15.3,25.9,4.1,Negative,<1:40,144.8,30.6,34.0,3,6,No,Negative,Psoriatic Arthritis,0
+P10491,30,Male,8.1,12.2,35.9,10.1,Negative,<1:40,137.6,21.9,90.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P10492,42,Male,5.6,9.9,37.4,14.3,Negative,<1:40,124.9,27.0,89.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P10493,61,Male,39.6,362.0,15.0,23.4,Negative,<1:40,134.8,28.0,57.0,11,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10494,38,Male,7.7,5.2,43.4,3.0,Negative,<1:40,146.5,26.1,55.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10495,19,Female,5.4,1.4,13.7,21.7,Negative,<1:40,124.3,32.0,91.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10496,28,Male,6.6,4.4,20.0,28.8,Negative,<1:40,138.3,28.8,21.0,3,1,No,Positive,Reactive Arthritis,0
+P10497,29,Female,31.8,8.7,38.3,4.9,Positive,1:320,64.4,9.2,31.0,2,3,No,Negative,Systemic Lupus Erythematosus,0
+P10498,66,Female,52.3,52.3,22.1,17.9,Positive,<1:40,136.6,29.3,93.0,3,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10499,67,Female,16.5,14.9,18.0,9.5,Positive,1:320,113.2,22.3,30.0,1,0,Yes,Negative,Sjögren's Syndrome,0
+P10500,24,Male,6.7,9.9,53.0,14.3,Negative,<1:40,116.1,27.5,36.0,4,1,No,Positive,Reactive Arthritis,0
+P10501,65,Female,54.9,17.0,41.0,1.2,Positive,1:320,113.1,22.9,31.0,2,0,No,Negative,Sjögren's Syndrome,0
+P10502,45,Female,34.1,146.8,53.4,9.2,Negative,<1:40,147.5,21.5,35.0,4,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10503,50,Female,3.6,9.5,14.3,2.0,Negative,<1:40,106.6,28.7,10.0,0,0,No,Negative,Normal,0
+P10504,23,Female,7.9,4.6,76.8,23.2,Negative,<1:40,112.5,24.7,17.0,3,3,No,Negative,Reactive Arthritis,0
+P10505,33,Male,7.3,6.1,35.0,15.3,Negative,<1:40,165.9,15.5,74.0,0,0,No,Negative,Ankylosing Spondylitis,0
+P10506,41,Female,28.0,9.2,43.4,1.0,Positive,1:640,67.0,6.0,48.0,5,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10507,39,Male,6.4,5.4,37.4,15.7,Negative,<1:40,129.8,22.5,73.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10508,35,Male,9.5,3.3,18.1,11.6,Negative,<1:40,121.2,24.9,31.0,1,2,No,Negative,Ankylosing Spondylitis,0
+P10509,32,Male,5.6,3.3,2.0,1.0,Negative,<1:40,92.0,20.7,11.0,0,0,No,Negative,Normal,0
+P10510,39,Female,28.1,7.5,79.1,1.0,Positive,1:640,70.3,9.1,46.0,6,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10511,28,Female,2.3,7.6,12.3,10.2,Negative,<1:40,146.8,19.6,74.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10512,43,Female,6.8,10.7,15.6,1.8,Negative,<1:40,122.9,25.0,12.0,0,0,No,Negative,Normal,0
+P10513,35,Female,7.2,3.0,56.7,27.9,Negative,<1:40,135.9,34.0,49.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10514,45,Female,8.0,9.3,54.2,1.2,Positive,1:320,106.6,18.3,35.0,2,1,Yes,Negative,Sjögren's Syndrome,0
+P10515,29,Male,6.0,10.6,52.7,14.8,Negative,<1:40,115.8,27.3,24.0,2,4,No,Positive,Reactive Arthritis,0
+P10516,47,Female,8.2,8.5,13.2,0.4,Negative,<1:40,110.8,30.5,5.0,0,0,No,Negative,Normal,0
+P10517,53,Female,5.2,6.7,10.3,1.1,Negative,<1:40,132.5,27.1,9.0,0,0,No,Negative,Normal,0
+P10518,29,Female,5.1,4.8,43.0,25.6,Negative,<1:40,134.9,29.0,60.0,2,4,No,Positive,Reactive Arthritis,0
+P10519,22,Female,5.7,5.5,13.7,1.9,Negative,<1:40,126.3,21.4,3.0,0,0,No,Negative,Normal,0
+P10520,38,Female,35.5,7.3,37.6,5.9,Positive,1:640,63.8,8.7,15.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10521,43,Female,31.9,10.1,23.6,1.3,Positive,1:160,107.2,28.8,10.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10522,66,Female,166.8,111.7,27.6,18.9,Negative,<1:40,113.4,23.8,114.0,6,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10523,41,Female,23.1,10.7,18.0,6.6,Positive,<1:40,128.0,12.7,53.0,4,2,No,Negative,Sjögren's Syndrome,0
+P10524,39,Female,26.1,4.2,22.0,5.3,Positive,1:320,54.7,8.5,51.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10525,46,Female,7.6,5.6,44.4,13.4,Negative,<1:40,113.8,24.0,62.0,1,3,No,Positive,Ankylosing Spondylitis,0
+P10526,56,Female,54.4,463.1,15.0,4.5,Positive,1:80,124.5,24.4,137.0,7,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10527,29,Female,9.5,6.2,58.6,8.0,Negative,<1:40,132.5,30.9,25.0,2,1,No,Positive,Reactive Arthritis,0
+P10528,59,Female,3.1,14.1,41.2,4.6,Negative,<1:40,119.4,22.5,62.0,4,4,No,Negative,Psoriatic Arthritis,0
+P10529,62,Male,89.9,71.1,18.2,21.2,Negative,1:80,163.9,25.5,114.0,10,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10530,28,Female,7.7,9.1,59.7,8.9,Negative,<1:40,155.0,28.0,43.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10531,63,Female,40.4,202.5,36.1,15.9,Negative,1:160,113.2,28.0,35.0,9,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10532,60,Female,64.6,11.7,18.2,9.3,Positive,1:320,114.6,19.8,44.0,1,0,No,Negative,Sjögren's Syndrome,0
+P10533,19,Female,9.4,6.6,66.6,13.6,Negative,<1:40,145.3,28.6,34.0,2,2,No,Negative,Reactive Arthritis,0
+P10534,47,Female,20.0,10.6,22.0,2.8,Positive,1:1280,75.4,4.8,33.0,3,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10535,28,Female,4.6,6.4,30.0,18.7,Negative,<1:40,127.7,31.8,25.0,1,2,No,Negative,Reactive Arthritis,0
+P10536,38,Male,3.3,6.6,9.9,0.2,Negative,<1:40,144.1,20.2,4.0,0,0,No,Negative,Normal,0
+P10537,50,Female,9.3,6.5,23.9,11.7,Negative,<1:40,133.6,30.1,45.0,3,8,No,Negative,Psoriatic Arthritis,0
+P10538,57,Female,4.1,4.6,12.4,1.4,Negative,<1:40,123.5,22.9,8.0,0,0,No,Negative,Normal,0
+P10539,41,Male,5.6,7.4,8.6,3.1,Negative,<1:40,130.0,13.6,6.0,0,0,No,Negative,Normal,0
+P10540,24,Male,2.0,1.4,63.3,13.8,Negative,<1:40,129.1,28.9,79.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10541,22,Female,5.3,6.4,17.1,25.1,Negative,<1:40,143.2,30.8,54.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10542,55,Female,4.8,6.4,83.7,1.0,Positive,1:640,51.2,9.8,40.0,3,1,No,Negative,Systemic Lupus Erythematosus,0
+P10543,26,Male,7.6,14.1,19.1,8.0,Negative,<1:40,138.4,29.3,51.0,2,3,No,Positive,Ankylosing Spondylitis,0
+P10544,50,Female,63.7,5.6,37.8,4.9,Positive,1:320,121.7,14.6,12.0,0,1,Yes,Negative,Sjögren's Syndrome,0
+P10545,45,Female,54.9,6.6,18.0,1.2,Positive,1:160,103.3,28.5,16.0,2,1,No,Negative,Sjögren's Syndrome,0
+P10546,31,Female,18.0,6.3,48.2,4.5,Positive,1:640,47.2,8.0,51.0,4,6,Yes,Negative,Systemic Lupus Erythematosus,0
+P10547,67,Female,8.0,9.2,48.4,6.7,Positive,1:160,123.0,11.0,32.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P10548,25,Male,5.4,10.3,70.2,20.1,Negative,<1:40,138.0,23.7,15.0,4,5,No,Negative,Reactive Arthritis,0
+P10549,20,Female,2.1,6.7,62.1,20.1,Negative,<1:40,103.8,17.3,19.0,1,3,No,Positive,Reactive Arthritis,0
+P10550,44,Male,4.4,14.6,38.3,3.7,Positive,1:640,69.1,7.4,41.0,3,2,No,Negative,Systemic Lupus Erythematosus,0
+P10551,30,Male,1.7,1.0,48.7,14.1,Negative,<1:40,111.1,28.5,80.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10552,59,Female,58.3,13.0,36.9,6.8,Negative,1:320,127.2,26.5,28.0,1,0,No,Negative,Sjögren's Syndrome,0
+P10553,47,Female,22.4,2.3,31.4,1.6,Positive,1:320,122.3,24.8,13.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P10554,55,Female,12.6,5.6,21.4,12.3,Negative,<1:40,140.2,23.4,35.0,3,1,No,Negative,Psoriatic Arthritis,0
+P10555,38,Female,22.9,9.9,34.2,5.8,Positive,1:160,98.7,31.8,28.0,1,0,No,Negative,Sjögren's Syndrome,0
+P10556,53,Female,111.5,800.0,40.1,17.5,Negative,<1:40,135.4,21.9,82.0,10,5,No,Negative,Rheumatoid Arthritis (RA),1
+P10557,31,Male,8.5,4.5,72.5,40.8,Negative,<1:40,119.7,22.6,36.0,3,5,No,Positive,Reactive Arthritis,0
+P10558,38,Female,7.3,11.4,34.3,25.5,Negative,<1:40,130.4,31.1,44.0,5,3,No,Positive,Psoriatic Arthritis,0
+P10559,22,Female,7.4,8.2,30.5,23.2,Negative,<1:40,116.9,29.1,54.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10560,45,Male,5.9,6.9,30.6,8.9,Negative,<1:40,141.5,24.4,41.0,4,5,No,Negative,Psoriatic Arthritis,0
+P10561,53,Female,30.2,3.8,44.7,9.2,Positive,<1:40,130.1,27.5,14.0,3,1,Yes,Negative,Sjögren's Syndrome,0
+P10562,18,Female,22.5,7.3,22.0,3.5,Positive,1:1280,76.5,9.8,52.0,7,3,No,Negative,Systemic Lupus Erythematosus,0
+P10563,54,Female,25.0,9.3,18.0,6.2,Negative,<1:40,110.1,28.7,24.0,1,1,No,Negative,Sjögren's Syndrome,0
+P10564,33,Female,29.5,9.0,22.0,4.5,Positive,1:320,56.1,5.1,28.0,4,1,No,Negative,Systemic Lupus Erythematosus,0
+P10565,60,Male,35.5,109.5,36.1,15.9,Negative,<1:40,132.0,15.3,54.0,15,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10566,42,Female,3.9,11.3,5.1,1.9,Negative,<1:40,122.0,29.8,0.0,0,0,No,Negative,Normal,0
+P10567,41,Female,1.5,4.8,39.0,19.8,Negative,<1:40,109.6,26.8,33.0,2,1,No,Negative,Psoriatic Arthritis,0
+P10568,52,Female,5.6,7.1,26.1,4.0,Negative,<1:40,133.8,29.8,28.0,3,3,No,Negative,Psoriatic Arthritis,0
+P10569,27,Female,31.9,11.1,77.6,3.8,Positive,1:320,70.3,8.3,19.0,7,2,No,Negative,Systemic Lupus Erythematosus,0
+P10570,48,Male,4.4,10.8,17.1,2.5,Negative,<1:40,130.7,22.6,5.0,0,0,No,Negative,Normal,0
+P10571,43,Male,5.4,3.5,31.4,6.6,Negative,<1:40,123.9,24.6,34.0,5,2,No,Negative,Psoriatic Arthritis,0
+P10572,71,Female,5.7,12.4,4.9,1.7,Negative,<1:40,120.9,27.1,5.0,0,0,No,Negative,Normal,0
+P10573,26,Male,4.9,9.3,37.0,6.3,Negative,<1:40,129.1,21.5,41.0,5,3,No,Negative,Psoriatic Arthritis,0
+P10574,29,Female,8.1,1.0,53.0,19.3,Negative,<1:40,103.9,23.0,91.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P10575,31,Female,3.5,7.1,37.9,25.8,Negative,<1:40,128.8,30.7,45.0,1,4,No,Negative,Reactive Arthritis,0
+P10576,19,Male,1.2,3.4,43.7,11.4,Negative,<1:40,110.4,28.2,31.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10577,42,Female,139.7,87.9,16.7,18.7,Positive,<1:40,93.3,19.9,90.0,7,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10578,48,Female,27.7,142.3,56.8,4.5,Negative,1:80,126.2,18.5,114.0,11,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10579,32,Male,6.6,5.1,33.4,13.9,Negative,<1:40,140.2,29.0,56.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10580,36,Male,3.1,7.8,23.6,34.6,Negative,<1:40,143.6,25.4,15.0,5,5,No,Positive,Reactive Arthritis,0
+P10581,57,Female,2.1,9.2,23.8,12.0,Negative,<1:40,150.9,15.1,23.0,6,7,No,Negative,Psoriatic Arthritis,0
+P10582,40,Male,8.5,5.7,8.9,1.5,Negative,<1:40,117.4,26.4,5.0,0,0,No,Negative,Normal,0
+P10583,31,Male,1.4,4.9,36.1,14.3,Negative,<1:40,148.9,38.0,83.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10584,53,Female,16.8,4.5,34.1,3.7,Positive,1:160,122.5,28.2,34.0,1,1,Yes,Negative,Sjögren's Syndrome,0
+P10585,55,Female,191.2,182.4,53.6,18.0,Negative,<1:40,104.5,25.1,78.0,13,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10586,21,Male,7.4,3.9,41.1,39.4,Negative,<1:40,144.6,31.4,56.0,4,3,No,Positive,Reactive Arthritis,0
+P10587,56,Female,65.2,8.3,20.6,2.3,Negative,1:320,104.1,19.3,10.0,1,2,Yes,Negative,Sjögren's Syndrome,0
+P10588,21,Female,13.4,8.2,61.5,7.9,Positive,1:320,70.4,8.6,40.0,2,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10589,67,Male,40.1,9.3,49.5,1.2,Negative,1:160,119.4,20.1,14.0,2,0,Yes,Negative,Sjögren's Syndrome,0
+P10590,38,Male,8.6,9.5,32.3,14.8,Positive,<1:40,151.3,21.9,50.0,3,3,No,Positive,Psoriatic Arthritis,0
+P10591,28,Male,5.2,6.5,12.9,1.2,Negative,<1:40,153.1,31.3,5.0,0,0,No,Negative,Normal,0
+P10592,22,Male,5.6,3.9,46.3,9.0,Negative,<1:40,139.7,24.1,30.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10593,58,Female,73.1,88.3,35.3,13.8,Negative,<1:40,142.1,19.9,35.0,11,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10594,29,Female,5.5,7.2,29.6,14.9,Negative,<1:40,95.0,16.9,72.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10595,42,Male,14.9,7.9,44.5,2.2,Positive,1:320,68.4,8.8,37.0,3,1,No,Negative,Systemic Lupus Erythematosus,0
+P10596,50,Male,131.5,140.6,75.2,13.6,Positive,1:160,131.8,24.3,58.0,8,5,No,Negative,Rheumatoid Arthritis (RA),1
+P10597,52,Male,38.6,168.9,50.0,15.8,Positive,<1:40,121.9,23.2,96.0,7,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10598,27,Female,5.4,4.0,28.5,16.7,Negative,<1:40,110.3,24.0,59.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10599,45,Female,128.2,349.4,61.8,11.7,Positive,<1:40,99.7,24.4,95.0,11,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10600,57,Female,6.9,15.3,14.0,4.4,Negative,<1:40,125.9,28.6,48.0,2,3,No,Negative,Psoriatic Arthritis,0
+P10601,33,Male,11.3,9.7,32.0,22.2,Negative,<1:40,138.0,15.1,49.0,0,2,No,Positive,Ankylosing Spondylitis,0
+P10602,57,Male,30.8,93.5,46.9,14.6,Positive,1:80,97.1,22.5,69.0,11,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10603,51,Female,21.0,8.1,27.2,6.0,Positive,1:320,88.0,22.3,25.0,6,4,Yes,Negative,Sjögren's Syndrome,0
+P10604,44,Female,45.4,6.5,46.0,7.3,Positive,1:160,143.7,29.3,19.0,6,3,Yes,Negative,Sjögren's Syndrome,0
+P10605,54,Male,60.2,532.1,64.6,25.2,Positive,<1:40,150.8,16.9,69.0,7,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10606,54,Female,10.1,5.9,19.5,4.1,Positive,<1:40,142.8,20.6,63.0,5,1,No,Negative,Psoriatic Arthritis,0
+P10607,31,Female,7.3,3.8,39.8,26.5,Negative,<1:40,126.5,26.3,23.0,5,2,No,Positive,Reactive Arthritis,0
+P10608,33,Female,310.6,39.9,27.6,17.8,Negative,<1:40,143.8,30.5,74.0,12,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10609,44,Male,6.6,3.5,11.3,2.1,Negative,<1:40,121.6,27.3,10.0,0,0,No,Negative,Normal,0
+P10610,30,Female,29.9,16.7,54.9,4.5,Positive,1:1280,65.0,8.5,56.0,7,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10611,40,Male,4.4,7.6,6.0,0.8,Negative,<1:40,139.6,29.4,5.0,0,0,No,Negative,Normal,0
+P10612,64,Female,8.5,13.7,42.2,15.2,Negative,<1:40,152.8,20.8,74.0,3,3,No,Negative,Psoriatic Arthritis,0
+P10613,42,Female,51.5,12.0,18.0,4.0,Negative,1:160,127.3,24.7,40.0,2,1,No,Negative,Sjögren's Syndrome,0
+P10614,48,Female,31.6,6.2,92.3,3.4,Positive,1:1280,61.4,2.7,63.0,4,2,No,Negative,Systemic Lupus Erythematosus,0
+P10615,57,Female,8.0,13.2,36.9,1.2,Negative,<1:40,110.7,19.7,23.0,5,3,No,Negative,Sjögren's Syndrome,0
+P10616,28,Female,17.1,12.1,31.3,4.7,Positive,1:1280,65.9,7.4,49.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10617,63,Female,7.6,6.9,8.8,1.3,Negative,<1:40,135.0,27.3,9.0,0,0,No,Negative,Normal,0
+P10618,18,Male,6.9,7.6,79.2,29.1,Negative,<1:40,119.4,20.6,21.0,4,2,No,Negative,Reactive Arthritis,0
+P10619,25,Female,3.2,7.7,12.8,2.2,Negative,<1:40,127.2,22.9,7.0,0,0,No,Negative,Normal,0
+P10620,77,Female,171.6,156.5,32.3,10.9,Negative,1:80,128.0,24.5,118.0,6,2,No,Negative,Rheumatoid Arthritis (RA),1
+P10621,34,Male,26.0,92.2,43.9,14.2,Negative,<1:40,107.1,38.0,95.0,9,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10622,54,Female,8.0,11.2,35.2,5.9,Positive,1:160,102.1,24.4,10.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P10623,48,Female,75.1,170.7,59.2,24.3,Positive,1:80,151.4,29.8,72.0,16,11,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10624,29,Male,8.6,9.3,53.8,9.6,Negative,<1:40,131.5,27.7,40.0,1,1,No,Negative,Ankylosing Spondylitis,0
+P10625,38,Male,7.8,10.3,31.3,16.1,Negative,<1:40,155.0,15.4,68.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P10626,36,Female,16.0,7.9,50.5,7.0,Positive,1:1280,50.0,9.8,21.0,3,0,No,Negative,Systemic Lupus Erythematosus,0
+P10627,56,Female,4.2,8.4,51.9,13.3,Negative,<1:40,122.2,25.8,61.0,3,1,No,Negative,Psoriatic Arthritis,0
+P10628,61,Female,27.6,10.8,21.5,4.6,Positive,1:160,131.4,26.9,10.0,1,2,No,Negative,Sjögren's Syndrome,0
+P10629,36,Female,123.9,114.4,23.1,18.8,Positive,<1:40,149.6,19.4,57.0,7,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10630,43,Female,42.0,50.0,50.6,23.8,Negative,1:80,141.5,19.7,44.0,7,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10631,49,Female,10.1,2.8,20.5,4.0,Negative,<1:40,119.8,28.5,65.0,3,1,No,Negative,Psoriatic Arthritis,0
+P10632,24,Female,4.0,7.6,24.5,16.1,Positive,<1:40,141.8,24.0,20.0,7,6,No,Negative,Psoriatic Arthritis,0
+P10633,32,Female,5.7,11.0,41.3,14.2,Negative,<1:40,125.4,25.6,30.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10634,53,Female,7.0,9.2,39.7,14.6,Negative,<1:40,124.1,22.9,67.0,4,2,No,Positive,Psoriatic Arthritis,0
+P10635,55,Male,84.8,240.2,35.1,13.7,Positive,<1:40,132.2,30.9,67.0,11,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10636,20,Male,22.8,1.0,44.3,2.8,Positive,1:1280,59.6,9.2,44.0,2,3,No,Negative,Systemic Lupus Erythematosus,0
+P10637,32,Male,4.1,1.9,49.2,23.9,Negative,<1:40,130.9,27.8,32.0,2,5,No,Positive,Reactive Arthritis,0
+P10638,41,Male,4.8,6.1,26.4,30.2,Negative,<1:40,158.6,22.8,42.0,4,4,No,Negative,Reactive Arthritis,0
+P10639,74,Female,60.8,12.0,19.5,14.1,Negative,1:320,118.5,25.6,31.0,5,1,No,Negative,Sjögren's Syndrome,0
+P10640,57,Female,45.3,2.8,59.1,9.5,Negative,1:160,118.3,27.6,22.0,3,2,Yes,Negative,Sjögren's Syndrome,0
+P10641,64,Female,246.2,415.8,37.4,10.0,Negative,<1:40,102.6,12.7,60.0,7,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10642,43,Female,44.6,295.7,51.7,13.5,Positive,<1:40,136.0,28.6,46.0,11,12,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10643,44,Male,11.7,4.8,36.8,14.5,Negative,<1:40,119.2,21.6,41.0,1,1,No,Positive,Psoriatic Arthritis,0
+P10644,67,Female,83.5,36.2,60.5,21.7,Negative,<1:40,129.2,20.3,84.0,6,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10645,34,Female,7.1,6.3,24.0,22.0,Negative,<1:40,122.3,26.2,20.0,4,2,No,Negative,Reactive Arthritis,0
+P10646,70,Female,26.0,437.3,62.0,22.5,Negative,<1:40,104.3,17.3,52.0,13,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10647,24,Female,2.6,14.8,45.4,5.2,Positive,1:320,62.0,8.7,20.0,4,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10648,52,Female,23.8,4.6,39.4,3.2,Positive,1:160,100.8,14.6,19.0,7,0,No,Negative,Sjögren's Syndrome,0
+P10649,44,Female,21.9,9.0,22.0,4.8,Positive,1:320,69.0,8.6,44.0,3,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10650,51,Female,27.6,73.4,30.1,12.9,Positive,<1:40,122.8,21.6,82.0,14,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10651,30,Male,10.2,6.0,24.8,12.7,Negative,<1:40,150.6,21.1,51.0,2,0,No,Negative,Ankylosing Spondylitis,0
+P10652,33,Female,11.2,6.6,29.3,11.8,Negative,<1:40,106.8,27.3,59.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P10653,36,Female,49.6,9.2,37.7,7.1,Positive,1:1280,82.7,2.2,28.0,5,4,Yes,Negative,Systemic Lupus Erythematosus,0
+P10654,30,Male,26.5,9.1,22.8,9.2,Positive,1:160,160.0,26.1,45.0,2,1,No,Negative,Sjögren's Syndrome,0
+P10655,26,Male,5.1,7.1,44.3,20.3,Negative,<1:40,125.1,17.8,39.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10656,40,Female,147.5,191.6,51.7,14.8,Positive,<1:40,109.3,19.2,83.0,13,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10657,73,Female,38.8,10.5,62.5,8.8,Positive,<1:40,114.3,31.3,47.0,6,0,No,Negative,Sjögren's Syndrome,0
+P10658,36,Male,6.0,11.1,42.3,6.1,Negative,<1:40,161.1,19.3,41.0,4,2,No,Positive,Psoriatic Arthritis,0
+P10659,53,Female,104.3,238.9,49.3,20.0,Positive,<1:40,125.9,28.2,86.0,9,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10660,34,Female,19.9,1.3,39.3,1.0,Positive,1:320,54.5,6.3,83.0,2,5,Yes,Negative,Systemic Lupus Erythematosus,0
+P10661,18,Male,9.0,2.0,5.7,1.9,Negative,<1:40,92.0,22.1,11.0,0,0,No,Negative,Normal,0
+P10662,33,Female,8.1,9.3,4.9,1.6,Negative,<1:40,149.2,26.5,5.0,0,0,No,Negative,Normal,0
+P10663,67,Female,64.6,13.8,50.2,2.9,Positive,1:320,97.1,21.4,30.0,6,1,No,Negative,Sjögren's Syndrome,0
+P10664,46,Male,5.4,4.4,8.7,3.1,Negative,<1:40,146.6,26.0,0.0,0,0,No,Negative,Normal,0
+P10665,30,Female,9.4,6.7,57.2,3.0,Negative,<1:40,144.5,25.4,54.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10666,49,Female,6.7,11.3,6.5,0.8,Negative,<1:40,136.3,18.3,4.0,0,0,No,Negative,Normal,0
+P10667,26,Male,6.5,6.6,50.9,8.0,Negative,<1:40,130.8,21.6,39.0,1,1,No,Negative,Reactive Arthritis,0
+P10668,34,Male,8.1,1.0,39.5,14.2,Negative,<1:40,104.8,27.5,70.0,2,3,No,Positive,Ankylosing Spondylitis,0
+P10669,29,Male,3.7,9.8,24.4,12.1,Negative,<1:40,129.8,26.7,62.0,2,3,No,Positive,Ankylosing Spondylitis,0
+P10670,39,Male,7.6,2.9,49.0,25.4,Negative,<1:40,116.1,23.1,15.0,3,4,No,Positive,Reactive Arthritis,0
+P10671,31,Female,6.3,10.3,35.7,13.0,Negative,<1:40,137.2,22.5,51.0,8,2,No,Negative,Psoriatic Arthritis,0
+P10672,38,Male,7.0,17.6,42.4,14.3,Negative,<1:40,140.8,24.2,108.0,0,2,No,Positive,Ankylosing Spondylitis,0
+P10673,67,Female,49.4,162.5,32.4,21.0,Negative,1:80,148.9,26.3,102.0,17,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10674,49,Male,3.7,1.0,8.2,0.8,Negative,<1:40,105.9,24.9,0.0,0,0,No,Negative,Normal,0
+P10675,61,Female,41.9,8.5,28.0,1.5,Positive,1:320,122.2,23.9,23.0,2,1,Yes,Negative,Sjögren's Syndrome,0
+P10676,39,Male,7.1,1.0,24.2,3.0,Negative,<1:40,138.1,32.1,56.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10677,52,Male,9.9,3.6,19.5,3.0,Negative,<1:40,131.0,32.9,10.0,0,0,No,Negative,Normal,0
+P10678,28,Male,6.6,9.8,50.8,24.8,Negative,<1:40,148.1,23.2,49.0,2,2,No,Negative,Reactive Arthritis,0
+P10679,33,Male,81.0,155.8,45.2,12.4,Negative,<1:40,148.1,26.9,54.0,10,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10680,54,Male,30.1,89.6,45.7,10.7,Positive,<1:40,114.2,26.4,110.0,11,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10681,47,Male,44.3,11.8,44.4,4.8,Positive,1:320,107.8,26.1,38.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P10682,76,Male,110.7,64.0,37.1,11.4,Negative,<1:40,127.2,30.9,57.0,8,7,No,Negative,Rheumatoid Arthritis (RA),1
+P10683,24,Female,6.5,8.4,56.7,25.5,Negative,<1:40,118.5,31.1,23.0,3,1,No,Positive,Reactive Arthritis,0
+P10684,44,Male,6.6,9.4,44.7,4.5,Positive,1:640,65.4,4.1,38.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10685,50,Female,23.1,5.4,62.0,1.0,Positive,1:640,70.8,5.0,24.0,4,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10686,57,Female,8.0,9.1,59.5,10.1,Positive,1:320,119.2,19.9,43.0,1,1,No,Negative,Sjögren's Syndrome,0
+P10687,28,Male,5.8,1.4,50.8,28.5,Negative,<1:40,125.7,25.9,17.0,5,3,No,Positive,Reactive Arthritis,0
+P10688,59,Female,10.3,8.3,23.8,16.7,Negative,<1:40,123.8,29.2,74.0,1,1,No,Negative,Psoriatic Arthritis,0
+P10689,68,Male,5.2,5.9,25.2,7.7,Negative,<1:40,119.6,17.7,76.0,6,6,No,Positive,Psoriatic Arthritis,0
+P10690,67,Female,42.6,121.2,70.0,14.0,Negative,<1:40,109.8,24.7,89.0,9,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10691,32,Female,34.7,105.4,54.0,14.4,Negative,<1:40,167.0,25.8,97.0,8,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10692,29,Female,6.5,5.8,23.8,19.3,Negative,<1:40,142.0,25.4,49.0,1,3,No,Positive,Reactive Arthritis,0
+P10693,38,Female,59.3,79.7,61.4,23.7,Negative,1:80,154.1,23.8,82.0,8,2,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10694,46,Female,10.4,12.0,22.0,1.7,Positive,1:320,79.3,3.3,51.0,7,3,No,Negative,Systemic Lupus Erythematosus,0
+P10695,47,Female,48.5,5.7,52.9,4.9,Positive,1:160,118.6,16.9,31.0,1,2,No,Negative,Sjögren's Syndrome,0
+P10696,65,Female,8.7,10.5,10.2,1.8,Negative,<1:40,163.6,25.2,5.0,0,0,No,Negative,Normal,0
+P10697,26,Female,6.6,4.8,49.8,11.4,Negative,<1:40,129.1,33.0,41.0,5,1,No,Negative,Reactive Arthritis,0
+P10698,51,Female,22.0,7.1,72.5,3.7,Positive,1:640,78.2,2.0,19.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10699,49,Male,56.5,11.4,40.5,3.6,Positive,1:160,122.1,20.9,11.0,6,1,Yes,Negative,Sjögren's Syndrome,0
+P10700,45,Female,84.5,14.3,37.3,5.3,Positive,1:160,89.3,22.0,24.0,3,2,No,Negative,Sjögren's Syndrome,0
+P10701,24,Female,8.6,9.6,47.7,22.6,Negative,<1:40,103.4,29.3,36.0,5,3,No,Negative,Reactive Arthritis,0
+P10702,39,Female,28.8,6.4,33.7,3.6,Positive,1:320,71.8,8.7,48.0,5,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10703,54,Female,2.7,1.0,16.0,2.9,Negative,<1:40,136.0,19.4,0.0,0,0,No,Negative,Normal,0
+P10704,36,Female,10.2,6.2,21.8,4.0,Negative,<1:40,145.1,23.6,35.0,3,1,No,Positive,Psoriatic Arthritis,0
+P10705,62,Male,4.2,14.1,34.3,4.0,Negative,<1:40,137.4,24.1,46.0,7,5,No,Negative,Psoriatic Arthritis,0
+P10706,39,Male,32.8,97.0,43.2,23.1,Negative,1:160,143.6,15.0,59.0,9,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10707,44,Female,22.0,9.8,33.2,1.6,Positive,1:320,131.3,23.4,35.0,6,2,Yes,Negative,Sjögren's Syndrome,0
+P10708,59,Female,3.4,5.5,35.2,12.2,Positive,<1:40,110.3,31.7,66.0,4,2,No,Negative,Psoriatic Arthritis,0
+P10709,52,Male,5.4,15.9,38.6,23.5,Negative,<1:40,127.0,19.1,42.0,6,1,No,Negative,Psoriatic Arthritis,0
+P10710,25,Female,3.0,4.2,48.1,18.3,Negative,<1:40,167.7,25.2,40.0,3,4,No,Positive,Reactive Arthritis,0
+P10711,47,Male,129.2,76.6,42.6,16.5,Negative,<1:40,129.8,27.2,102.0,11,8,No,Negative,Rheumatoid Arthritis (RA),1
+P10712,35,Male,8.8,6.9,20.3,13.7,Negative,<1:40,111.5,33.0,33.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10713,50,Female,5.9,8.7,54.2,14.4,Negative,<1:40,95.0,21.1,49.0,2,3,No,Negative,Psoriatic Arthritis,0
+P10714,31,Female,6.5,3.5,53.7,7.1,Negative,<1:40,121.7,20.3,65.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P10715,26,Female,1.0,3.0,12.0,3.7,Negative,<1:40,109.4,32.9,62.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10716,50,Female,202.4,69.7,67.4,17.7,Negative,<1:40,107.4,22.9,63.0,11,8,No,Negative,Rheumatoid Arthritis (RA),1
+P10717,18,Female,7.1,6.3,19.5,2.2,Negative,<1:40,155.1,23.7,10.0,0,0,No,Negative,Normal,0
+P10718,29,Male,8.6,2.9,12.0,8.2,Negative,<1:40,111.2,34.0,47.0,2,1,No,Negative,Ankylosing Spondylitis,0
+P10719,67,Female,209.7,57.0,60.7,31.7,Negative,<1:40,125.1,19.5,63.0,10,11,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10720,34,Male,4.9,4.4,4.0,2.1,Negative,<1:40,142.3,29.0,4.0,0,0,No,Negative,Normal,0
+P10721,38,Female,4.5,5.6,44.8,6.6,Negative,<1:40,136.4,17.5,49.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10722,39,Female,7.3,13.2,9.3,1.6,Negative,<1:40,156.8,22.5,5.0,0,0,No,Negative,Normal,0
+P10723,54,Male,112.8,178.3,23.7,8.3,Positive,<1:40,149.9,25.8,81.0,14,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10724,31,Female,2.0,13.4,47.5,5.8,Positive,1:320,88.0,5.6,49.0,5,1,No,Negative,Systemic Lupus Erythematosus,0
+P10725,35,Female,36.9,2.0,18.0,3.5,Positive,1:320,113.4,16.8,51.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P10726,35,Male,5.7,1.0,38.4,5.7,Negative,<1:40,124.0,28.7,62.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10727,31,Female,4.7,12.7,80.6,7.2,Positive,1:320,69.3,4.9,36.0,4,0,No,Negative,Systemic Lupus Erythematosus,0
+P10728,29,Male,1.0,3.9,50.3,12.0,Negative,<1:40,114.5,20.1,100.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10729,54,Female,5.0,1.0,37.6,14.2,Negative,<1:40,120.7,21.3,29.0,2,2,No,Negative,Psoriatic Arthritis,0
+P10730,30,Male,8.6,2.7,61.6,21.3,Negative,<1:40,106.3,25.6,15.0,6,2,No,Positive,Reactive Arthritis,0
+P10731,30,Female,19.3,3.9,66.3,6.2,Positive,1:320,78.1,9.5,55.0,5,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10732,36,Female,17.8,15.0,93.6,2.9,Positive,1:1280,65.3,6.7,46.0,6,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10733,49,Female,13.5,8.3,45.1,1.8,Negative,1:320,105.7,17.9,10.0,5,3,Yes,Negative,Sjögren's Syndrome,0
+P10734,50,Female,2.6,12.0,15.2,2.3,Negative,<1:40,105.1,16.6,6.0,0,0,No,Negative,Normal,0
+P10735,36,Female,136.5,40.1,46.1,31.8,Positive,1:160,124.6,29.0,81.0,13,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10736,37,Female,17.6,1.0,35.6,3.7,Positive,1:640,66.6,9.8,19.0,1,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10737,19,Female,9.1,3.0,56.1,25.6,Negative,<1:40,116.0,19.7,32.0,2,1,No,Positive,Reactive Arthritis,0
+P10738,52,Female,5.6,5.2,15.9,1.9,Negative,<1:40,150.0,25.9,2.0,0,0,No,Negative,Normal,0
+P10739,60,Female,23.2,3.7,35.9,3.6,Positive,1:160,119.6,23.6,22.0,3,2,Yes,Negative,Sjögren's Syndrome,0
+P10740,36,Male,2.0,10.7,33.4,8.1,Positive,1:320,79.9,9.8,19.0,2,0,No,Negative,Systemic Lupus Erythematosus,0
+P10741,43,Male,91.9,186.8,24.6,15.5,Negative,<1:40,129.4,22.8,81.0,11,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10742,44,Female,10.4,8.9,5.2,1.5,Negative,<1:40,144.8,25.7,0.0,0,0,No,Negative,Normal,0
+P10743,48,Female,24.0,10.9,47.3,3.0,Negative,1:320,100.3,17.8,42.0,4,2,Yes,Negative,Sjögren's Syndrome,0
+P10744,29,Male,9.9,5.5,19.5,1.2,Negative,<1:40,153.9,29.9,10.0,0,0,No,Negative,Normal,0
+P10745,54,Male,7.2,6.2,42.6,4.7,Negative,<1:40,95.0,31.9,20.0,5,1,No,Positive,Psoriatic Arthritis,0
+P10746,42,Male,5.4,3.9,29.7,19.3,Negative,<1:40,124.1,22.0,62.0,3,2,No,Negative,Reactive Arthritis,0
+P10747,54,Female,8.0,9.6,38.3,10.1,Positive,1:160,112.1,21.7,47.0,1,1,No,Negative,Sjögren's Syndrome,0
+P10748,38,Female,7.9,4.3,5.9,2.4,Negative,<1:40,124.1,23.6,5.0,0,0,No,Negative,Normal,0
+P10749,59,Male,123.4,158.3,46.8,17.8,Positive,1:80,140.3,25.0,45.0,13,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10750,58,Male,7.8,8.8,12.4,1.4,Negative,<1:40,131.5,31.2,6.0,0,0,No,Negative,Normal,0
+P10751,52,Female,25.6,11.6,24.3,2.2,Positive,<1:40,132.0,27.7,20.0,7,1,No,Negative,Sjögren's Syndrome,0
+P10752,34,Female,10.6,7.1,48.1,14.1,Negative,<1:40,125.4,35.8,75.0,5,2,No,Positive,Reactive Arthritis,0
+P10753,28,Male,7.1,9.5,41.1,19.7,Negative,<1:40,135.0,38.0,39.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P10754,39,Male,1.2,9.2,65.0,12.4,Negative,<1:40,128.9,26.2,28.0,4,4,No,Negative,Psoriatic Arthritis,0
+P10755,40,Female,7.5,4.9,32.2,17.1,Negative,<1:40,149.0,25.9,32.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P10756,58,Female,6.9,3.5,15.2,1.9,Negative,<1:40,111.4,28.1,3.0,0,0,No,Negative,Normal,0
+P10757,28,Female,11.4,1.0,51.2,20.0,Negative,<1:40,102.7,17.6,50.0,2,1,No,Positive,Reactive Arthritis,0
+P10758,27,Female,7.0,8.3,55.8,23.7,Negative,<1:40,141.6,32.5,44.0,4,3,No,Negative,Reactive Arthritis,0
+P10759,31,Male,10.1,4.2,20.6,11.1,Negative,<1:40,113.1,27.1,75.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10760,40,Female,9.7,9.5,72.4,21.0,Negative,<1:40,145.7,23.1,28.0,3,1,No,Positive,Reactive Arthritis,0
+P10761,28,Female,2.6,12.2,16.0,18.7,Negative,<1:40,154.7,31.0,30.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10762,42,Male,3.9,11.2,11.6,2.3,Negative,<1:40,120.4,24.0,2.0,0,0,No,Negative,Normal,0
+P10763,53,Male,9.7,9.9,37.5,7.8,Negative,<1:40,134.0,24.1,62.0,2,6,No,Negative,Psoriatic Arthritis,0
+P10764,60,Female,76.7,92.4,86.3,4.5,Positive,1:80,152.1,20.2,68.0,14,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10765,20,Female,25.6,6.1,61.3,3.8,Positive,1:640,73.0,7.2,36.0,9,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10766,37,Male,6.4,8.2,56.8,8.0,Negative,<1:40,146.9,25.4,28.0,2,2,No,Positive,Reactive Arthritis,0
+P10767,52,Female,12.7,10.8,14.9,4.0,Negative,<1:40,131.2,23.0,65.0,1,1,No,Negative,Psoriatic Arthritis,0
+P10768,25,Male,5.8,6.4,32.9,21.9,Negative,<1:40,110.1,31.9,27.0,3,4,No,Positive,Reactive Arthritis,0
+P10769,64,Female,7.9,3.8,14.2,1.4,Negative,<1:40,127.9,26.5,0.0,0,0,No,Negative,Normal,0
+P10770,30,Female,17.4,9.6,33.0,8.3,Positive,1:320,88.0,9.3,39.0,8,1,No,Negative,Systemic Lupus Erythematosus,0
+P10771,48,Female,9.5,10.4,49.9,1.7,Positive,1:640,74.2,7.1,41.0,1,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10772,28,Male,3.0,2.9,48.3,15.2,Negative,<1:40,136.6,31.4,59.0,4,2,No,Negative,Reactive Arthritis,0
+P10773,39,Male,8.0,6.3,29.4,14.4,Negative,<1:40,134.3,23.2,60.0,4,2,No,Positive,Ankylosing Spondylitis,0
+P10774,60,Female,12.4,5.6,33.7,18.3,Negative,<1:40,160.0,27.0,57.0,1,4,No,Negative,Psoriatic Arthritis,0
+P10775,33,Male,9.2,15.7,24.4,25.4,Negative,<1:40,135.7,28.5,30.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10776,18,Male,7.9,6.5,15.2,1.5,Negative,<1:40,119.8,23.4,4.0,0,0,No,Negative,Normal,0
+P10777,35,Female,6.0,2.5,11.7,1.1,Negative,<1:40,116.6,24.0,3.0,0,0,No,Negative,Normal,0
+P10778,36,Male,5.9,10.7,19.3,20.1,Negative,<1:40,112.2,28.9,72.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10779,62,Female,137.8,407.3,66.5,12.1,Positive,1:80,127.6,33.7,97.0,8,3,No,Negative,Rheumatoid Arthritis (RA),1
+P10780,46,Female,92.1,92.5,35.6,17.1,Negative,<1:40,114.4,22.2,39.0,13,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10781,34,Male,9.1,11.0,12.2,2.2,Negative,<1:40,153.8,30.9,8.0,0,0,No,Negative,Normal,0
+P10782,50,Female,31.3,5.0,42.6,6.5,Positive,<1:40,96.7,18.0,30.0,1,1,Yes,Negative,Sjögren's Syndrome,0
+P10783,20,Male,8.4,8.0,20.0,34.2,Negative,<1:40,117.5,20.5,39.0,2,3,No,Negative,Reactive Arthritis,0
+P10784,48,Female,5.0,11.3,57.0,4.0,Negative,<1:40,139.0,26.0,67.0,4,2,No,Positive,Psoriatic Arthritis,0
+P10785,25,Male,3.6,9.8,27.5,22.7,Negative,<1:40,137.1,23.7,39.0,4,3,No,Positive,Reactive Arthritis,0
+P10786,61,Female,71.9,79.3,34.4,4.5,Positive,1:160,138.7,23.4,85.0,11,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10787,33,Male,4.3,7.4,26.9,16.0,Negative,<1:40,138.0,21.5,24.0,5,2,No,Positive,Reactive Arthritis,0
+P10788,25,Female,5.3,3.5,61.7,2.7,Positive,1:640,51.8,5.4,61.0,3,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10789,34,Female,6.3,10.0,50.3,20.8,Negative,<1:40,118.9,36.1,43.0,2,3,No,Positive,Reactive Arthritis,0
+P10790,39,Female,24.9,3.4,79.8,3.4,Positive,1:1280,88.0,4.7,22.0,4,5,No,Negative,Systemic Lupus Erythematosus,0
+P10791,41,Female,3.4,6.0,8.6,2.9,Negative,<1:40,134.6,37.3,7.0,0,0,No,Negative,Normal,0
+P10792,32,Female,30.3,1.0,74.2,5.3,Positive,1:1280,59.1,9.8,48.0,5,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10793,51,Male,6.5,5.2,23.7,9.0,Negative,<1:40,104.7,28.3,55.0,4,2,No,Negative,Psoriatic Arthritis,0
+P10794,38,Female,8.6,2.1,64.8,19.4,Negative,<1:40,130.0,31.4,107.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10795,39,Male,5.2,4.7,38.4,17.3,Negative,<1:40,140.4,23.7,52.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10796,59,Female,84.3,55.4,39.8,18.2,Negative,1:80,143.2,20.5,62.0,8,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10797,43,Male,4.0,10.5,38.5,19.8,Negative,<1:40,127.5,32.0,60.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10798,50,Female,9.7,8.2,5.7,1.2,Negative,<1:40,144.7,24.1,3.0,0,0,No,Negative,Normal,0
+P10799,35,Female,15.6,14.4,22.0,3.2,Positive,1:320,64.3,9.8,48.0,7,0,No,Negative,Systemic Lupus Erythematosus,0
+P10800,46,Male,9.3,6.7,4.2,1.1,Negative,<1:40,137.6,21.6,10.0,0,0,No,Negative,Normal,0
+P10801,42,Female,29.6,38.1,37.1,20.1,Negative,1:160,126.0,12.0,82.0,8,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10802,50,Male,18.9,12.2,32.9,6.7,Negative,1:160,136.0,22.4,30.0,8,0,No,Negative,Sjögren's Syndrome,0
+P10803,52,Male,4.0,5.2,9.4,1.4,Negative,<1:40,123.5,27.1,0.0,0,0,No,Negative,Normal,0
+P10804,34,Female,8.1,8.9,18.9,21.7,Negative,<1:40,141.4,29.7,26.0,8,1,No,Negative,Psoriatic Arthritis,0
+P10805,18,Female,1.0,7.3,55.8,15.7,Negative,<1:40,128.8,32.7,18.0,5,2,No,Positive,Reactive Arthritis,0
+P10806,75,Female,46.1,133.0,29.6,20.4,Negative,<1:40,121.5,31.1,54.0,6,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10807,34,Female,28.5,8.2,62.2,10.9,Positive,1:640,62.9,5.8,38.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10808,62,Female,70.2,41.2,45.4,16.5,Negative,<1:40,115.8,14.7,67.0,7,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10809,51,Female,8.9,14.3,37.6,4.0,Negative,<1:40,118.9,33.7,20.0,4,2,No,Negative,Psoriatic Arthritis,0
+P10810,35,Female,17.8,11.9,37.8,7.7,Positive,1:640,66.5,5.9,62.0,7,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10811,41,Female,21.9,6.4,29.7,3.7,Positive,<1:40,111.1,24.8,40.0,2,0,No,Negative,Sjögren's Syndrome,0
+P10812,44,Female,54.0,72.8,60.0,12.2,Negative,<1:40,140.7,29.1,72.0,10,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10813,52,Male,3.4,7.4,7.0,0.8,Negative,<1:40,143.2,33.5,7.0,0,0,No,Negative,Normal,0
+P10814,59,Female,49.7,45.9,15.0,14.7,Negative,<1:40,132.7,22.1,76.0,11,12,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10815,37,Male,9.0,3.6,42.1,21.8,Negative,<1:40,141.3,30.6,20.0,4,2,No,Negative,Psoriatic Arthritis,0
+P10816,65,Female,9.1,12.0,48.1,1.2,Positive,1:160,134.0,12.9,27.0,2,0,No,Negative,Sjögren's Syndrome,0
+P10817,34,Female,11.7,12.9,63.7,5.1,Positive,1:320,47.3,6.4,49.0,4,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10818,19,Female,6.6,8.6,39.0,22.9,Negative,<1:40,133.0,21.9,30.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10819,54,Female,32.9,54.7,47.6,10.1,Negative,<1:40,110.4,17.9,77.0,9,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10820,40,Female,5.9,4.4,44.3,4.0,Negative,<1:40,152.3,31.0,29.0,2,4,No,Negative,Psoriatic Arthritis,0
+P10821,57,Female,67.0,97.9,73.3,19.6,Negative,<1:40,107.3,21.9,79.0,9,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10822,35,Male,7.4,10.8,16.9,16.1,Negative,<1:40,111.4,24.6,73.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10823,45,Male,9.1,9.6,35.0,10.0,Positive,<1:40,99.4,22.4,69.0,3,3,No,Negative,Psoriatic Arthritis,0
+P10824,29,Female,9.3,3.3,32.4,13.0,Negative,<1:40,127.5,26.2,62.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10825,26,Female,10.4,9.5,7.6,0.9,Negative,<1:40,150.3,25.8,3.0,0,0,No,Negative,Normal,0
+P10826,36,Male,5.2,8.3,43.7,39.5,Negative,<1:40,122.9,16.4,15.0,3,2,No,Negative,Reactive Arthritis,0
+P10827,18,Male,9.2,14.7,36.3,8.9,Positive,1:320,71.3,7.6,53.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10828,42,Male,7.5,5.5,60.2,23.0,Negative,<1:40,101.8,25.9,56.0,2,1,No,Negative,Psoriatic Arthritis,0
+P10829,25,Female,5.2,2.4,35.5,16.7,Negative,<1:40,112.4,30.6,30.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10830,40,Female,16.2,1.0,55.8,2.8,Positive,1:320,45.7,7.1,43.0,5,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10831,64,Female,3.4,1.0,8.3,1.2,Negative,<1:40,112.2,25.9,0.0,0,0,No,Negative,Normal,0
+P10832,35,Male,4.2,6.7,29.0,22.6,Negative,<1:40,111.8,28.2,33.0,4,1,No,Positive,Ankylosing Spondylitis,0
+P10833,33,Female,36.5,4.8,55.5,2.8,Positive,1:320,61.7,8.4,29.0,5,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10834,55,Female,227.2,69.0,62.9,14.4,Negative,1:80,129.0,33.4,77.0,12,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10835,63,Male,52.6,86.1,15.0,13.3,Positive,<1:40,155.0,22.5,68.0,8,6,No,Negative,Rheumatoid Arthritis (RA),1
+P10836,34,Female,2.0,2.1,41.1,1.0,Positive,1:1280,50.5,6.5,33.0,3,4,No,Negative,Systemic Lupus Erythematosus,0
+P10837,63,Female,185.5,72.1,15.0,21.5,Positive,<1:40,129.8,27.9,73.0,7,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10838,36,Female,6.4,8.8,42.7,10.9,Negative,<1:40,136.1,27.5,23.0,1,5,No,Negative,Psoriatic Arthritis,0
+P10839,22,Male,5.7,3.7,12.5,2.7,Negative,<1:40,142.0,23.7,6.0,0,0,No,Negative,Normal,0
+P10840,77,Male,6.0,9.6,8.4,1.3,Negative,<1:40,140.8,29.4,10.0,0,0,No,Negative,Normal,0
+P10841,65,Female,40.8,445.3,28.5,8.9,Negative,<1:40,90.0,17.9,96.0,5,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10842,50,Male,12.3,8.3,21.1,14.6,Positive,<1:40,138.0,28.7,40.0,3,1,No,Negative,Psoriatic Arthritis,0
+P10843,41,Female,73.3,6.9,44.6,3.3,Negative,1:320,140.8,22.0,26.0,2,1,No,Negative,Sjögren's Syndrome,0
+P10844,45,Female,143.1,67.9,40.0,16.2,Negative,1:80,99.7,18.1,80.0,5,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10845,39,Male,27.0,5.1,65.4,5.2,Positive,1:320,86.5,2.7,49.0,3,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10846,34,Male,9.9,7.7,65.2,22.9,Negative,<1:40,139.5,21.4,15.0,2,3,No,Positive,Reactive Arthritis,0
+P10847,40,Male,5.3,7.8,16.2,3.0,Negative,<1:40,133.7,36.7,7.0,0,0,No,Negative,Normal,0
+P10848,36,Female,2.0,7.5,66.9,1.9,Positive,1:1280,58.8,6.9,18.0,4,5,No,Negative,Systemic Lupus Erythematosus,0
+P10849,68,Female,37.4,184.4,41.6,11.5,Positive,<1:40,117.6,28.6,106.0,12,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10850,40,Male,3.6,8.0,52.2,16.1,Negative,<1:40,115.3,28.6,34.0,3,5,No,Positive,Reactive Arthritis,0
+P10851,25,Male,3.6,5.2,31.0,7.0,Positive,1:640,68.4,8.9,48.0,4,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10852,51,Male,32.0,9.1,53.3,4.5,Positive,1:160,118.2,18.0,36.0,3,3,No,Negative,Sjögren's Syndrome,0
+P10853,56,Female,53.8,8.9,32.9,1.2,Positive,1:320,151.7,16.7,31.0,5,1,Yes,Negative,Sjögren's Syndrome,0
+P10854,53,Female,4.6,10.7,39.9,18.4,Negative,<1:40,133.9,27.4,47.0,4,7,No,Negative,Psoriatic Arthritis,0
+P10855,48,Male,5.5,6.8,14.3,13.1,Negative,<1:40,137.8,34.4,48.0,2,0,No,Negative,Ankylosing Spondylitis,0
+P10856,39,Female,72.1,13.8,62.6,2.5,Positive,1:160,110.6,24.6,33.0,0,0,Yes,Negative,Sjögren's Syndrome,0
+P10857,48,Female,5.8,11.7,66.8,20.1,Negative,<1:40,144.2,26.7,57.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10858,52,Male,52.1,105.5,34.7,16.8,Negative,<1:40,161.8,25.7,74.0,12,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10859,73,Female,29.7,95.4,28.3,13.0,Negative,1:80,118.7,16.8,68.0,17,9,No,Negative,Rheumatoid Arthritis (RA),1
+P10860,24,Male,3.7,3.3,26.2,22.9,Negative,<1:40,139.8,20.1,42.0,4,5,No,Negative,Reactive Arthritis,0
+P10861,44,Male,4.3,6.6,30.0,14.8,Negative,<1:40,142.8,17.5,32.0,4,3,No,Negative,Psoriatic Arthritis,0
+P10862,24,Male,2.4,7.4,57.9,20.9,Negative,<1:40,134.0,26.6,16.0,4,4,No,Negative,Reactive Arthritis,0
+P10863,67,Female,33.7,76.1,17.6,10.0,Negative,<1:40,112.8,20.5,44.0,10,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10864,63,Female,40.6,38.8,38.7,6.0,Negative,<1:40,151.0,26.1,86.0,11,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10865,42,Male,69.3,12.8,44.2,3.0,Positive,1:160,139.4,25.8,19.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P10866,36,Female,204.0,42.9,15.0,11.6,Negative,1:80,140.5,24.2,35.0,9,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10867,22,Female,138.2,86.3,28.1,21.5,Positive,<1:40,158.2,27.5,103.0,14,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10868,38,Female,30.4,10.7,58.8,4.5,Positive,1:1280,79.6,7.5,62.0,2,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10869,18,Male,3.5,11.9,59.0,8.0,Negative,<1:40,128.4,25.2,41.0,2,1,No,Positive,Reactive Arthritis,0
+P10870,23,Male,5.8,10.3,40.6,23.7,Negative,<1:40,151.9,14.3,27.0,2,5,No,Positive,Reactive Arthritis,0
+P10871,49,Female,5.2,1.1,4.1,1.6,Negative,<1:40,133.0,20.4,6.0,0,0,No,Negative,Normal,0
+P10872,38,Male,15.1,2.7,22.0,7.9,Positive,1:320,77.5,7.8,56.0,4,2,No,Negative,Systemic Lupus Erythematosus,0
+P10873,28,Female,26.7,19.1,23.7,3.4,Positive,1:640,67.6,9.8,78.0,3,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10874,61,Female,67.6,126.3,15.4,14.8,Positive,1:80,117.7,20.4,94.0,14,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10875,51,Female,2.8,4.0,7.8,2.4,Negative,<1:40,111.7,27.7,8.0,0,0,No,Negative,Normal,0
+P10876,41,Male,10.5,8.5,59.6,21.4,Negative,<1:40,127.6,26.3,50.0,2,2,No,Negative,Reactive Arthritis,0
+P10877,44,Male,63.8,214.9,27.2,15.8,Positive,1:80,111.6,12.0,97.0,9,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10878,29,Female,4.4,6.9,32.6,29.5,Negative,<1:40,136.2,24.3,24.0,1,5,No,Negative,Reactive Arthritis,0
+P10879,32,Male,11.6,10.4,42.7,20.8,Negative,<1:40,111.3,30.7,56.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P10880,61,Female,20.1,7.6,72.8,1.0,Positive,1:640,50.9,7.7,52.0,8,0,No,Negative,Systemic Lupus Erythematosus,0
+P10881,49,Male,10.0,9.4,37.5,12.4,Negative,<1:40,128.2,24.3,25.0,4,3,No,Positive,Psoriatic Arthritis,0
+P10882,55,Female,7.9,11.4,14.2,1.3,Negative,<1:40,123.4,26.6,8.0,0,0,No,Negative,Normal,0
+P10883,34,Male,10.2,4.6,18.5,3.0,Negative,<1:40,126.8,19.7,61.0,1,3,No,Positive,Ankylosing Spondylitis,0
+P10884,60,Female,56.4,10.2,18.0,1.7,Positive,1:320,120.7,22.8,30.0,1,0,No,Negative,Sjögren's Syndrome,0
+P10885,69,Female,40.4,14.0,36.3,3.7,Positive,<1:40,112.5,22.5,42.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10886,55,Male,4.7,4.4,6.2,1.3,Negative,<1:40,97.1,22.6,3.0,0,0,No,Negative,Normal,0
+P10887,31,Female,29.0,5.8,87.3,3.6,Positive,1:320,76.8,2.0,41.0,7,8,Yes,Negative,Systemic Lupus Erythematosus,0
+P10888,27,Male,10.2,4.0,24.7,19.3,Negative,<1:40,120.8,21.7,48.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P10889,62,Female,239.0,190.6,51.8,23.1,Positive,<1:40,115.5,26.0,59.0,5,7,No,Negative,Rheumatoid Arthritis (RA),1
+P10890,38,Female,13.5,4.1,33.6,22.4,Negative,<1:40,132.7,29.1,54.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10891,37,Female,19.8,10.2,22.0,4.9,Positive,1:640,60.6,7.6,33.0,4,2,No,Negative,Systemic Lupus Erythematosus,0
+P10892,27,Female,4.4,6.5,34.2,3.0,Negative,<1:40,107.9,27.7,45.0,3,3,No,Negative,Ankylosing Spondylitis,0
+P10893,33,Female,8.3,6.3,42.2,34.1,Negative,<1:40,126.0,27.8,23.0,1,1,No,Positive,Reactive Arthritis,0
+P10894,41,Male,40.2,51.8,40.3,21.1,Negative,<1:40,112.4,31.9,69.0,13,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10895,56,Male,395.2,132.3,46.8,12.4,Negative,1:80,136.2,24.7,88.0,12,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10896,62,Female,7.6,3.8,14.3,0.4,Negative,<1:40,134.8,24.6,10.0,0,0,No,Negative,Normal,0
+P10897,26,Male,9.8,9.5,13.5,2.8,Negative,<1:40,96.5,30.3,4.0,0,0,No,Negative,Normal,0
+P10898,36,Male,7.9,6.1,35.0,17.4,Negative,<1:40,138.3,30.4,40.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P10899,47,Male,7.6,6.9,24.0,9.3,Negative,<1:40,125.8,27.2,38.0,2,4,No,Negative,Psoriatic Arthritis,0
+P10900,43,Female,6.3,11.0,43.3,18.3,Negative,<1:40,133.0,23.8,62.0,2,2,No,Negative,Psoriatic Arthritis,0
+P10901,26,Female,26.9,15.0,52.4,6.6,Positive,1:640,47.4,3.9,84.0,4,0,No,Negative,Systemic Lupus Erythematosus,0
+P10902,45,Female,53.0,213.8,62.8,7.6,Positive,1:80,134.7,31.1,93.0,6,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10903,18,Male,4.0,3.6,55.2,8.0,Negative,<1:40,154.7,26.6,56.0,2,3,No,Positive,Reactive Arthritis,0
+P10904,44,Female,6.2,13.0,49.6,16.5,Negative,<1:40,122.9,27.0,58.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P10905,23,Male,5.6,6.8,45.9,28.1,Negative,<1:40,133.6,16.0,15.0,3,2,No,Positive,Reactive Arthritis,0
+P10906,58,Male,4.3,4.5,26.2,13.3,Negative,<1:40,141.2,17.6,49.0,3,6,No,Positive,Psoriatic Arthritis,0
+P10907,18,Male,8.1,9.7,23.9,20.1,Negative,<1:40,131.9,21.2,63.0,2,2,No,Negative,Reactive Arthritis,0
+P10908,70,Female,8.3,7.8,6.3,2.9,Negative,<1:40,120.9,30.1,5.0,0,0,No,Negative,Normal,0
+P10909,38,Male,7.4,12.1,30.3,3.0,Negative,<1:40,134.0,26.6,53.0,2,2,No,Negative,Ankylosing Spondylitis,0
+P10910,37,Female,9.7,8.4,40.2,13.6,Negative,<1:40,126.4,17.7,55.0,4,2,No,Positive,Reactive Arthritis,0
+P10911,73,Female,56.8,8.2,36.7,7.4,Positive,1:320,131.6,20.8,51.0,1,0,Yes,Negative,Sjögren's Syndrome,0
+P10912,33,Male,4.1,1.0,12.0,14.2,Negative,<1:40,119.9,20.0,60.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10913,24,Male,4.9,13.0,15.1,3.3,Negative,<1:40,146.1,20.4,6.0,0,0,No,Negative,Normal,0
+P10914,49,Female,47.0,77.2,37.5,4.5,Negative,1:80,103.3,23.0,54.0,14,5,No,Negative,Rheumatoid Arthritis (RA),1
+P10915,40,Female,21.0,8.7,37.7,9.6,Positive,1:160,99.8,21.6,21.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P10916,51,Male,5.6,4.6,7.2,1.4,Negative,<1:40,119.8,25.6,3.0,0,0,No,Negative,Normal,0
+P10917,55,Female,8.6,12.7,35.3,2.5,Negative,<1:40,116.2,19.3,59.0,2,0,No,Negative,Sjögren's Syndrome,0
+P10918,29,Male,4.0,6.9,55.1,26.7,Negative,<1:40,127.1,35.6,55.0,3,5,No,Positive,Reactive Arthritis,0
+P10919,64,Male,5.5,3.8,10.5,2.4,Negative,<1:40,125.2,21.4,1.0,0,0,No,Negative,Normal,0
+P10920,24,Female,34.0,1.0,34.0,3.2,Positive,1:320,74.0,5.7,52.0,2,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10921,33,Male,7.8,8.5,65.1,19.0,Negative,<1:40,123.7,20.3,32.0,3,5,No,Positive,Reactive Arthritis,0
+P10922,42,Female,53.0,9.4,47.9,2.8,Negative,1:160,120.7,22.2,31.0,3,1,No,Negative,Sjögren's Syndrome,0
+P10923,60,Female,53.9,10.7,36.8,9.2,Positive,1:320,129.5,16.7,18.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P10924,66,Female,28.3,137.1,46.7,11.7,Positive,<1:40,142.9,28.5,110.0,9,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10925,48,Female,9.2,4.6,28.7,20.2,Negative,<1:40,122.1,33.4,20.0,6,3,No,Negative,Psoriatic Arthritis,0
+P10926,23,Female,9.0,4.2,62.3,1.0,Positive,1:320,80.7,8.2,22.0,3,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P10927,66,Male,5.8,7.8,35.1,16.5,Negative,<1:40,147.5,19.5,45.0,4,4,No,Negative,Psoriatic Arthritis,0
+P10928,24,Male,1.3,15.1,62.8,6.2,Negative,<1:40,129.9,19.6,60.0,0,3,No,Negative,Ankylosing Spondylitis,0
+P10929,41,Female,55.7,5.7,21.2,8.6,Positive,1:160,88.0,16.8,23.0,0,0,No,Negative,Sjögren's Syndrome,0
+P10930,47,Female,56.2,4.5,25.3,1.2,Positive,<1:40,100.2,16.1,20.0,3,2,Yes,Negative,Sjögren's Syndrome,0
+P10931,36,Female,5.9,5.3,2.0,0.2,Negative,<1:40,133.2,18.6,5.0,0,0,No,Negative,Normal,0
+P10932,46,Male,38.5,5.1,51.7,6.1,Positive,<1:40,146.0,29.4,25.0,3,1,Yes,Negative,Sjögren's Syndrome,0
+P10933,37,Female,2.0,12.7,38.1,1.0,Positive,1:320,88.0,5.6,15.0,7,4,No,Negative,Systemic Lupus Erythematosus,0
+P10934,45,Male,10.0,8.2,37.7,9.0,Negative,<1:40,155.6,35.7,77.0,2,1,No,Negative,Ankylosing Spondylitis,0
+P10935,34,Female,25.1,1.0,22.0,7.4,Positive,1:320,75.4,4.7,47.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10936,65,Male,158.2,209.3,20.9,21.1,Positive,<1:40,145.0,28.0,122.0,10,6,No,Negative,Rheumatoid Arthritis (RA),1
+P10937,46,Male,8.0,14.7,10.9,2.1,Negative,<1:40,153.3,24.3,8.0,0,0,No,Negative,Normal,0
+P10938,30,Male,5.0,3.8,55.3,8.0,Negative,<1:40,127.4,33.6,31.0,4,3,No,Positive,Reactive Arthritis,0
+P10939,35,Female,22.7,1.0,110.0,2.5,Positive,1:640,79.6,6.8,15.0,4,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P10940,42,Male,13.0,12.2,22.9,7.3,Negative,<1:40,103.1,32.2,49.0,4,5,No,Negative,Psoriatic Arthritis,0
+P10941,58,Female,108.0,70.7,38.3,27.6,Positive,<1:40,99.3,28.2,45.0,7,10,No,Negative,Rheumatoid Arthritis (RA),1
+P10942,40,Male,1.1,6.4,13.2,3.2,Negative,<1:40,119.3,20.0,0.0,0,0,No,Negative,Normal,0
+P10943,53,Female,13.3,10.3,54.5,7.2,Positive,<1:40,113.4,15.1,36.0,4,0,Yes,Negative,Sjögren's Syndrome,0
+P10944,56,Female,119.6,140.2,66.2,21.6,Negative,<1:40,139.2,26.5,53.0,15,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10945,39,Female,9.2,7.8,41.9,4.2,Positive,1:640,63.0,5.7,33.0,5,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10946,42,Female,87.1,6.7,38.0,4.4,Positive,1:320,116.1,25.7,37.0,5,1,No,Negative,Sjögren's Syndrome,0
+P10947,37,Male,1.9,12.5,58.7,12.4,Negative,<1:40,139.8,20.8,20.0,5,1,No,Negative,Psoriatic Arthritis,0
+P10948,54,Male,10.2,12.7,28.7,3.1,Positive,1:160,117.8,17.4,33.0,3,3,Yes,Negative,Sjögren's Syndrome,0
+P10949,38,Male,4.6,3.3,12.7,2.1,Negative,<1:40,115.7,19.5,11.0,0,0,No,Negative,Normal,0
+P10950,59,Female,72.7,53.5,50.1,10.1,Negative,1:160,141.0,26.0,51.0,5,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10951,71,Male,2.8,8.8,20.5,16.0,Positive,<1:40,133.0,25.1,53.0,6,1,No,Negative,Psoriatic Arthritis,0
+P10952,28,Female,7.2,2.0,49.2,18.4,Negative,<1:40,127.1,24.0,34.0,5,3,No,Positive,Reactive Arthritis,0
+P10953,48,Female,8.6,7.1,16.4,0.2,Negative,<1:40,131.3,23.0,8.0,0,0,No,Negative,Normal,0
+P10954,59,Male,37.7,8.4,41.7,2.5,Positive,1:160,101.9,28.1,10.0,3,0,No,Negative,Sjögren's Syndrome,0
+P10955,47,Female,37.1,12.2,34.0,1.4,Positive,1:640,82.2,7.2,19.0,6,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P10956,36,Male,8.8,3.1,39.4,17.6,Negative,<1:40,112.2,27.6,33.0,4,2,No,Positive,Reactive Arthritis,0
+P10957,43,Male,3.6,1.7,5.5,2.3,Negative,<1:40,124.4,24.6,3.0,0,0,No,Negative,Normal,0
+P10958,18,Male,9.7,9.4,38.4,25.3,Negative,<1:40,142.2,26.9,28.0,2,3,No,Positive,Reactive Arthritis,0
+P10959,31,Male,3.3,8.7,30.1,10.0,Negative,<1:40,175.0,31.3,44.0,4,2,No,Positive,Reactive Arthritis,0
+P10960,64,Female,226.4,195.7,62.3,33.0,Negative,1:80,143.6,31.6,57.0,4,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10961,35,Male,7.7,9.9,59.5,13.4,Negative,<1:40,139.7,23.1,109.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P10962,35,Female,12.8,13.4,22.0,33.7,Negative,<1:40,95.0,24.4,30.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P10963,53,Female,21.7,12.2,58.9,8.0,Positive,1:640,61.5,9.8,54.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10964,55,Female,128.8,79.6,31.1,13.8,Positive,<1:40,124.5,38.0,63.0,8,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10965,40,Male,1.0,5.9,35.8,14.5,Negative,<1:40,131.4,29.4,63.0,8,3,No,Negative,Psoriatic Arthritis,0
+P10966,48,Male,25.4,114.4,37.8,13.0,Negative,1:80,111.9,25.9,116.0,11,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10967,40,Male,27.7,3.8,58.9,2.3,Positive,1:320,66.8,6.0,66.0,3,1,No,Negative,Systemic Lupus Erythematosus,0
+P10968,54,Female,16.2,1.7,40.7,1.6,Positive,1:320,62.5,6.5,15.0,2,4,No,Negative,Systemic Lupus Erythematosus,0
+P10969,62,Female,7.2,11.5,30.3,22.0,Negative,<1:40,156.6,31.7,79.0,6,4,No,Negative,Psoriatic Arthritis,0
+P10970,34,Female,5.7,7.1,43.7,21.6,Negative,<1:40,140.4,27.4,40.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P10971,21,Male,5.9,13.8,61.9,22.7,Negative,<1:40,153.3,29.5,18.0,4,5,No,Negative,Reactive Arthritis,0
+P10972,33,Female,23.3,9.7,53.3,2.6,Positive,1:640,72.2,6.7,58.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P10973,40,Female,42.0,3.3,25.3,6.2,Negative,1:320,135.2,24.5,38.0,1,1,No,Negative,Sjögren's Syndrome,0
+P10974,63,Male,7.9,6.5,13.4,1.6,Negative,<1:40,130.4,17.8,4.0,0,0,No,Negative,Normal,0
+P10975,42,Male,5.8,1.9,50.8,32.5,Negative,<1:40,110.8,27.8,19.0,2,2,No,Positive,Reactive Arthritis,0
+P10976,37,Female,38.1,6.7,54.4,7.8,Positive,1:320,72.5,7.4,47.0,4,2,No,Negative,Systemic Lupus Erythematosus,0
+P10977,26,Female,5.2,4.4,13.5,4.2,Negative,<1:40,113.8,28.2,6.0,0,0,No,Negative,Normal,0
+P10978,73,Female,44.6,12.3,19.1,8.2,Positive,1:160,116.4,16.3,16.0,8,3,No,Negative,Sjögren's Syndrome,0
+P10979,52,Female,11.0,2.0,30.4,1.2,Positive,1:160,112.7,13.4,36.0,3,1,No,Negative,Sjögren's Syndrome,0
+P10980,68,Male,4.8,11.0,24.3,12.3,Negative,<1:40,115.2,25.0,31.0,7,4,No,Negative,Psoriatic Arthritis,0
+P10981,33,Male,3.0,8.2,4.6,3.1,Negative,<1:40,119.7,23.1,8.0,0,0,No,Negative,Normal,0
+P10982,38,Female,8.8,6.4,31.4,19.9,Negative,<1:40,112.8,22.5,41.0,1,5,No,Negative,Psoriatic Arthritis,0
+P10983,28,Male,10.7,7.6,13.5,3.2,Negative,<1:40,133.9,37.9,5.0,0,0,No,Negative,Normal,0
+P10984,81,Female,139.7,247.3,46.2,11.3,Negative,<1:40,130.7,18.1,110.0,11,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10985,31,Male,6.9,6.8,39.0,4.0,Negative,<1:40,134.5,24.0,56.0,7,4,No,Negative,Psoriatic Arthritis,0
+P10986,22,Male,7.8,9.5,66.9,15.3,Negative,<1:40,146.7,24.3,58.0,4,3,No,Positive,Reactive Arthritis,0
+P10987,38,Female,6.2,6.3,12.0,3.8,Negative,<1:40,123.7,19.4,76.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10988,37,Female,6.7,5.7,68.6,22.7,Negative,<1:40,100.7,38.3,36.0,2,3,No,Positive,Reactive Arthritis,0
+P10989,36,Male,1.5,5.5,16.2,12.8,Negative,<1:40,139.0,20.0,76.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P10990,64,Female,3.4,9.8,8.1,0.2,Negative,<1:40,145.6,14.8,14.0,0,0,No,Negative,Normal,0
+P10991,49,Male,104.6,45.2,45.3,4.5,Negative,<1:40,99.7,19.7,70.0,8,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P10992,31,Female,2.0,4.2,35.2,4.5,Positive,1:1280,55.2,4.9,59.0,10,2,No,Negative,Systemic Lupus Erythematosus,0
+P10993,19,Female,9.4,10.4,18.9,28.5,Negative,<1:40,118.2,29.5,38.0,3,3,No,Positive,Ankylosing Spondylitis,0
+P10994,46,Female,31.9,5.4,51.9,3.9,Positive,1:320,88.1,25.2,23.0,4,0,No,Negative,Sjögren's Syndrome,0
+P10995,62,Female,57.8,8.2,32.6,2.4,Positive,1:320,105.7,26.0,22.0,2,1,No,Negative,Sjögren's Syndrome,0
+P10996,34,Male,6.4,11.0,11.4,1.4,Negative,<1:40,139.8,22.8,5.0,0,0,No,Negative,Normal,0
+P10997,35,Female,6.5,7.5,5.7,1.0,Negative,<1:40,116.3,15.5,10.0,0,0,No,Negative,Normal,0
+P10998,26,Male,7.0,5.3,59.5,13.3,Negative,<1:40,95.5,19.7,47.0,1,2,No,Positive,Reactive Arthritis,0
+P10999,51,Female,5.3,2.1,37.3,15.9,Negative,<1:40,116.6,23.5,42.0,5,5,No,Positive,Psoriatic Arthritis,0
+P11000,30,Female,9.7,2.5,31.9,17.7,Negative,<1:40,128.1,30.0,52.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P11001,46,Male,71.7,76.2,43.3,25.2,Positive,1:80,123.2,21.6,57.0,11,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11002,22,Male,3.1,6.0,24.4,21.7,Negative,<1:40,165.9,23.5,38.0,5,2,No,Positive,Reactive Arthritis,0
+P11003,54,Female,133.2,251.8,53.4,25.9,Negative,<1:40,105.7,13.3,83.0,6,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11004,41,Female,6.4,10.4,31.4,15.8,Negative,<1:40,123.6,25.4,20.0,2,4,No,Negative,Psoriatic Arthritis,0
+P11005,43,Female,65.6,8.1,34.7,10.4,Negative,1:320,124.1,24.1,29.0,2,2,No,Negative,Sjögren's Syndrome,0
+P11006,52,Female,9.7,7.4,75.3,3.7,Positive,1:1280,67.6,4.7,48.0,9,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11007,38,Female,30.0,14.5,38.3,6.5,Positive,1:160,142.2,21.3,37.0,2,1,No,Negative,Sjögren's Syndrome,0
+P11008,46,Female,168.8,143.0,24.7,24.4,Negative,1:80,136.8,38.0,100.0,11,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11009,39,Male,8.3,8.3,12.0,10.5,Negative,<1:40,148.0,22.0,56.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P11010,30,Female,40.0,11.1,18.0,4.2,Positive,1:160,122.7,22.6,32.0,6,0,No,Negative,Sjögren's Syndrome,0
+P11011,36,Male,5.3,7.3,2.7,2.0,Negative,<1:40,130.0,20.1,7.0,0,0,No,Negative,Normal,0
+P11012,51,Female,4.5,5.5,17.9,0.8,Negative,<1:40,131.0,16.5,1.0,0,0,No,Negative,Normal,0
+P11013,65,Female,8.0,5.8,37.7,4.7,Positive,1:160,109.6,29.1,10.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P11014,26,Female,3.3,5.0,23.4,32.2,Negative,<1:40,121.3,20.6,38.0,2,1,No,Negative,Reactive Arthritis,0
+P11015,43,Male,6.9,1.0,14.2,20.3,Negative,<1:40,103.9,25.0,83.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P11016,35,Female,6.2,9.8,57.7,1.7,Positive,1:320,57.7,7.7,15.0,4,1,No,Negative,Systemic Lupus Erythematosus,0
+P11017,45,Male,20.5,8.0,35.9,7.8,Positive,1:640,50.8,8.5,15.0,5,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11018,37,Male,6.0,3.7,16.9,10.0,Negative,<1:40,128.1,20.7,60.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P11019,36,Male,6.1,10.5,35.1,12.0,Negative,<1:40,135.2,22.1,33.0,2,5,No,Positive,Psoriatic Arthritis,0
+P11020,35,Male,8.1,8.6,39.0,14.6,Negative,<1:40,129.4,37.9,84.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P11021,56,Male,5.5,6.5,11.9,1.6,Negative,<1:40,127.2,24.2,7.0,0,0,No,Negative,Normal,0
+P11022,29,Male,4.6,1.1,44.9,36.8,Negative,<1:40,175.0,29.5,29.0,3,4,No,Negative,Reactive Arthritis,0
+P11023,53,Female,6.0,3.5,7.2,2.9,Negative,<1:40,113.2,26.7,10.0,0,0,No,Negative,Normal,0
+P11024,35,Male,8.3,7.1,76.5,34.7,Negative,<1:40,159.3,20.6,44.0,2,3,No,Positive,Reactive Arthritis,0
+P11025,51,Female,26.2,76.7,45.1,16.8,Positive,<1:40,152.9,25.0,76.0,10,6,No,Negative,Rheumatoid Arthritis (RA),1
+P11026,25,Female,6.1,8.8,44.5,24.9,Negative,<1:40,137.3,14.6,15.0,3,2,No,Positive,Reactive Arthritis,0
+P11027,57,Male,54.9,3.8,31.7,1.9,Positive,1:160,120.0,16.5,26.0,0,2,No,Negative,Sjögren's Syndrome,0
+P11028,56,Female,9.2,1.0,32.2,4.0,Negative,<1:40,109.7,20.0,33.0,4,3,No,Negative,Psoriatic Arthritis,0
+P11029,52,Female,79.9,63.3,22.2,25.6,Negative,1:160,113.8,27.7,119.0,11,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11030,61,Female,4.2,8.4,11.2,1.6,Negative,<1:40,127.1,22.2,6.0,0,0,No,Negative,Normal,0
+P11031,39,Female,4.7,2.1,14.0,0.8,Negative,<1:40,137.7,23.5,6.0,0,0,No,Negative,Normal,0
+P11032,57,Female,38.9,8.3,29.1,3.6,Positive,1:160,109.3,32.5,19.0,1,1,No,Negative,Sjögren's Syndrome,0
+P11033,31,Female,24.5,5.6,75.0,3.5,Positive,1:320,45.6,7.5,15.0,7,5,Yes,Negative,Systemic Lupus Erythematosus,0
+P11034,47,Female,35.9,5.8,39.3,2.7,Positive,1:160,138.6,20.8,20.0,3,2,No,Negative,Sjögren's Syndrome,0
+P11035,27,Male,5.6,3.5,55.9,22.3,Negative,<1:40,143.9,14.3,15.0,3,3,No,Positive,Reactive Arthritis,0
+P11036,20,Female,33.8,5.4,64.2,7.3,Positive,1:320,82.3,9.6,31.0,3,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11037,37,Female,15.4,8.5,35.9,4.9,Positive,1:1280,74.8,8.5,48.0,3,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11038,44,Female,7.7,6.3,49.1,15.8,Negative,<1:40,134.1,20.3,21.0,3,3,No,Negative,Psoriatic Arthritis,0
+P11039,26,Female,17.9,9.9,30.2,7.5,Positive,1:1280,47.9,8.3,27.0,3,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P11040,41,Female,31.6,6.8,30.0,4.7,Positive,1:320,96.1,22.4,42.0,4,2,No,Negative,Sjögren's Syndrome,0
+P11041,24,Male,5.3,6.1,15.2,2.6,Negative,<1:40,146.9,21.8,0.0,0,0,No,Negative,Normal,0
+P11042,49,Female,8.0,12.3,33.9,2.3,Positive,<1:40,125.1,17.0,37.0,5,1,No,Negative,Sjögren's Syndrome,0
+P11043,42,Female,44.5,39.1,15.0,13.3,Negative,1:80,133.8,16.6,104.0,12,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11044,44,Female,55.9,11.1,25.7,1.2,Positive,1:160,116.9,25.1,10.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P11045,68,Male,9.9,8.2,38.7,20.1,Negative,<1:40,118.6,21.3,54.0,3,4,No,Negative,Psoriatic Arthritis,0
+P11046,55,Female,53.5,41.4,54.2,15.4,Positive,<1:40,116.9,17.2,91.0,13,4,No,Negative,Rheumatoid Arthritis (RA),1
+P11047,30,Female,70.4,18.7,43.2,7.7,Positive,1:160,120.9,20.0,39.0,3,2,No,Negative,Sjögren's Syndrome,0
+P11048,47,Female,8.0,14.9,33.4,2.8,Positive,<1:40,124.1,21.3,27.0,5,0,Yes,Negative,Sjögren's Syndrome,0
+P11049,23,Male,7.8,5.4,41.6,6.5,Negative,<1:40,120.4,24.0,60.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P11050,25,Male,1.0,7.0,22.8,16.1,Negative,<1:40,110.9,30.2,101.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P11051,48,Female,38.7,12.2,33.9,8.6,Positive,1:160,124.3,13.6,10.0,3,0,No,Negative,Sjögren's Syndrome,0
+P11052,52,Female,8.6,8.0,36.2,12.0,Negative,<1:40,137.6,15.1,34.0,2,2,No,Negative,Psoriatic Arthritis,0
+P11053,39,Female,4.2,13.8,18.5,7.6,Negative,<1:40,116.5,32.5,51.0,7,5,No,Positive,Psoriatic Arthritis,0
+P11054,73,Female,1.6,10.4,39.6,11.6,Negative,<1:40,124.4,28.4,60.0,3,2,No,Negative,Psoriatic Arthritis,0
+P11055,62,Female,83.4,56.4,15.0,19.0,Positive,<1:40,123.4,30.6,57.0,7,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11056,59,Female,5.2,9.7,4.0,1.8,Negative,<1:40,129.9,23.5,11.0,0,0,No,Negative,Normal,0
+P11057,70,Male,5.7,5.7,47.4,20.7,Negative,<1:40,126.3,35.9,38.0,6,5,No,Negative,Psoriatic Arthritis,0
+P11058,39,Female,10.7,8.0,53.5,22.2,Negative,<1:40,136.5,21.5,37.0,4,3,No,Negative,Psoriatic Arthritis,0
+P11059,36,Female,45.4,3.9,39.5,4.6,Positive,1:160,140.8,16.6,10.0,4,4,No,Negative,Sjögren's Syndrome,0
+P11060,45,Male,132.3,155.4,34.0,18.1,Positive,<1:40,130.7,32.2,79.0,9,5,No,Negative,Rheumatoid Arthritis (RA),1
+P11061,29,Male,7.7,1.7,54.9,35.5,Negative,<1:40,99.0,30.7,32.0,6,1,No,Negative,Reactive Arthritis,0
+P11062,28,Male,9.0,2.1,32.5,8.5,Negative,<1:40,118.2,35.0,77.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P11063,24,Male,1.4,5.8,59.1,22.3,Negative,<1:40,134.6,24.0,29.0,2,2,No,Positive,Reactive Arthritis,0
+P11064,38,Male,9.7,5.1,9.4,3.0,Negative,<1:40,92.0,18.8,2.0,0,0,No,Negative,Normal,0
+P11065,45,Female,27.5,8.6,22.0,2.9,Positive,1:320,57.3,6.6,31.0,2,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11066,29,Female,4.8,4.7,65.7,24.6,Negative,<1:40,125.7,27.4,52.0,2,5,No,Positive,Reactive Arthritis,0
+P11067,60,Male,4.2,8.0,38.6,4.0,Negative,<1:40,144.4,14.0,20.0,4,3,No,Negative,Psoriatic Arthritis,0
+P11068,61,Male,8.1,10.6,17.9,1.7,Negative,<1:40,121.4,23.3,10.0,0,0,No,Negative,Normal,0
+P11069,36,Female,8.7,10.8,51.1,29.4,Negative,<1:40,124.7,26.5,52.0,3,3,No,Positive,Ankylosing Spondylitis,0
+P11070,19,Male,8.2,9.3,72.1,26.1,Negative,<1:40,115.4,24.4,34.0,5,2,No,Positive,Reactive Arthritis,0
+P11071,30,Male,3.7,1.0,35.5,3.0,Negative,<1:40,143.4,19.4,30.0,4,1,No,Positive,Ankylosing Spondylitis,0
+P11072,55,Female,96.4,45.0,67.4,6.3,Positive,1:80,121.2,20.8,72.0,9,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11073,30,Female,9.0,2.7,22.0,5.3,Positive,1:640,88.0,9.8,48.0,6,4,No,Negative,Systemic Lupus Erythematosus,0
+P11074,72,Female,65.5,92.3,58.2,16.5,Negative,1:80,145.3,17.1,37.0,11,4,No,Negative,Rheumatoid Arthritis (RA),1
+P11075,29,Female,7.7,5.9,30.9,23.7,Negative,<1:40,122.8,30.3,22.0,3,1,No,Positive,Reactive Arthritis,0
+P11076,71,Female,8.0,2.0,32.4,6.1,Positive,<1:40,104.8,26.8,50.0,1,3,No,Negative,Sjögren's Syndrome,0
+P11077,71,Female,9.1,7.2,35.0,16.1,Negative,<1:40,110.6,19.6,45.0,5,1,No,Positive,Psoriatic Arthritis,0
+P11078,44,Female,18.1,5.8,52.2,1.9,Positive,1:640,83.5,9.8,31.0,2,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P11079,45,Male,6.6,8.7,23.1,9.3,Negative,<1:40,147.0,22.2,46.0,5,7,No,Negative,Psoriatic Arthritis,0
+P11080,56,Female,26.4,6.6,24.8,3.9,Positive,1:320,102.5,32.7,49.0,4,0,Yes,Negative,Sjögren's Syndrome,0
+P11081,27,Male,3.6,1.7,43.9,21.2,Negative,<1:40,118.8,20.3,45.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P11082,28,Female,5.6,1.0,51.3,3.0,Positive,1:640,60.5,6.0,39.0,6,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11083,32,Male,3.3,5.5,12.0,23.7,Negative,<1:40,109.8,21.0,53.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P11084,70,Female,34.5,36.8,56.0,24.5,Negative,<1:40,93.3,22.4,93.0,14,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11085,53,Female,28.3,12.2,45.3,8.5,Positive,1:320,88.0,21.0,25.0,6,0,No,Negative,Sjögren's Syndrome,0
+P11086,49,Female,102.5,84.8,37.1,13.9,Positive,<1:40,127.4,20.1,101.0,8,15,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11087,60,Male,7.4,6.8,29.7,17.8,Negative,<1:40,125.9,22.8,61.0,6,2,No,Negative,Psoriatic Arthritis,0
+P11088,69,Male,4.2,7.4,53.2,6.6,Positive,<1:40,107.2,17.6,42.0,5,3,No,Negative,Psoriatic Arthritis,0
+P11089,52,Female,9.5,3.8,8.8,1.3,Negative,<1:40,166.8,18.6,2.0,0,0,No,Negative,Normal,0
+P11090,40,Female,6.9,7.6,30.2,4.6,Positive,1:320,59.7,9.8,90.0,8,2,No,Negative,Systemic Lupus Erythematosus,0
+P11091,56,Female,5.7,4.0,30.0,19.0,Negative,<1:40,123.7,20.9,68.0,8,4,No,Negative,Psoriatic Arthritis,0
+P11092,31,Female,16.6,3.4,52.8,4.7,Positive,1:320,72.7,9.8,28.0,5,1,No,Negative,Systemic Lupus Erythematosus,0
+P11093,52,Female,22.1,9.5,18.0,3.9,Positive,1:160,114.1,18.9,31.0,2,0,No,Negative,Sjögren's Syndrome,0
+P11094,24,Female,6.2,4.0,47.6,23.6,Negative,<1:40,150.8,18.0,34.0,4,3,No,Positive,Reactive Arthritis,0
+P11095,39,Male,4.9,8.4,47.6,16.5,Negative,<1:40,105.8,36.6,68.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P11096,60,Female,66.2,6.3,18.0,2.0,Negative,1:320,106.0,13.6,35.0,7,0,Yes,Negative,Sjögren's Syndrome,0
+P11097,41,Female,3.1,11.7,38.8,3.8,Positive,1:1280,43.4,6.3,16.0,6,1,No,Negative,Systemic Lupus Erythematosus,0
+P11098,54,Male,37.5,111.6,36.2,17.9,Negative,<1:40,111.4,29.8,76.0,10,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11099,66,Male,11.5,5.5,26.0,7.6,Negative,<1:40,146.3,19.7,20.0,8,4,No,Positive,Psoriatic Arthritis,0
+P11100,64,Female,10.0,12.4,25.8,13.2,Negative,<1:40,128.0,26.0,37.0,1,3,No,Negative,Psoriatic Arthritis,0
+P11101,64,Female,13.0,6.2,42.8,1.2,Positive,1:160,132.6,14.9,10.0,3,2,No,Negative,Sjögren's Syndrome,0
+P11102,50,Female,37.8,10.9,21.7,4.4,Positive,1:320,150.3,23.5,41.0,3,0,No,Negative,Sjögren's Syndrome,0
+P11103,34,Female,26.1,12.5,22.0,7.2,Positive,1:640,74.3,7.8,64.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11104,53,Female,5.5,2.6,11.5,2.6,Negative,<1:40,128.0,16.9,7.0,0,0,No,Negative,Normal,0
+P11105,45,Male,303.5,178.7,44.4,4.5,Negative,<1:40,131.5,28.5,112.0,7,11,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11106,64,Male,38.4,90.9,34.5,7.2,Negative,<1:40,130.4,14.1,75.0,11,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11107,49,Female,9.4,8.3,25.1,20.5,Negative,<1:40,121.0,21.7,50.0,2,5,No,Negative,Psoriatic Arthritis,0
+P11108,36,Male,5.5,8.6,14.0,16.2,Negative,<1:40,131.7,24.9,50.0,5,1,No,Negative,Psoriatic Arthritis,0
+P11109,49,Male,7.0,12.6,8.2,1.6,Negative,<1:40,126.3,30.7,10.0,0,0,No,Negative,Normal,0
+P11110,50,Female,157.5,300.8,43.7,4.5,Positive,<1:40,90.0,20.7,92.0,12,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11111,42,Male,1.0,5.7,28.6,28.0,Negative,<1:40,156.1,33.5,60.0,6,5,No,Positive,Psoriatic Arthritis,0
+P11112,35,Male,5.1,7.3,15.0,1.7,Negative,<1:40,127.5,24.8,10.0,0,0,No,Negative,Normal,0
+P11113,47,Female,49.2,3.9,22.3,2.3,Negative,<1:40,127.5,19.1,27.0,2,0,No,Negative,Sjögren's Syndrome,0
+P11114,44,Female,26.4,213.7,32.6,15.2,Negative,<1:40,105.1,23.0,98.0,15,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11115,25,Female,4.9,1.3,25.9,3.0,Negative,<1:40,121.8,31.5,56.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P11116,32,Male,28.9,9.3,43.9,5.9,Positive,1:640,49.5,7.8,44.0,5,3,No,Negative,Systemic Lupus Erythematosus,0
+P11117,24,Male,4.9,3.4,7.2,1.4,Negative,<1:40,144.0,31.0,4.0,0,0,No,Negative,Normal,0
+P11118,28,Male,4.8,5.1,43.9,8.0,Negative,<1:40,114.6,21.9,49.0,2,3,No,Positive,Reactive Arthritis,0
+P11119,26,Male,6.2,8.0,47.5,8.0,Negative,<1:40,126.4,23.4,37.0,2,3,No,Positive,Reactive Arthritis,0
+P11120,30,Female,28.5,7.7,37.7,5.7,Positive,1:1280,76.2,5.4,41.0,3,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11121,31,Female,2.3,8.9,43.6,21.5,Negative,<1:40,117.3,18.2,63.0,3,4,No,Positive,Reactive Arthritis,0
+P11122,38,Female,16.0,20.3,46.0,6.6,Positive,1:640,56.1,5.8,52.0,6,2,No,Negative,Systemic Lupus Erythematosus,0
+P11123,44,Male,181.0,90.5,31.8,19.4,Negative,1:80,129.8,23.3,86.0,6,12,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11124,59,Male,55.5,75.4,66.5,13.3,Negative,1:80,133.2,24.4,100.0,13,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11125,23,Female,6.1,5.0,70.1,14.5,Negative,<1:40,135.4,29.9,35.0,4,2,No,Positive,Reactive Arthritis,0
+P11126,30,Female,28.9,7.1,22.0,1.0,Positive,1:320,60.8,5.9,58.0,2,4,Yes,Negative,Systemic Lupus Erythematosus,0
+P11127,65,Male,24.2,2.0,44.8,6.3,Negative,1:160,133.5,22.6,10.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P11128,43,Female,5.7,5.3,71.8,21.7,Negative,<1:40,137.3,26.2,29.0,3,2,No,Negative,Reactive Arthritis,0
+P11129,37,Male,7.2,6.8,68.5,9.8,Negative,<1:40,151.1,18.9,28.0,5,2,No,Negative,Reactive Arthritis,0
+P11130,20,Female,2.5,7.7,36.1,13.3,Negative,<1:40,158.8,17.9,40.0,1,3,No,Negative,Reactive Arthritis,0
+P11131,46,Female,13.8,12.8,53.1,11.2,Negative,<1:40,128.6,18.4,53.0,5,3,No,Negative,Psoriatic Arthritis,0
+P11132,48,Female,5.4,5.9,12.9,2.3,Negative,<1:40,125.8,26.8,0.0,0,0,No,Negative,Normal,0
+P11133,27,Female,4.7,8.2,15.8,17.2,Negative,<1:40,124.7,26.1,74.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P11134,63,Female,22.6,5.6,57.8,9.7,Negative,1:160,88.0,21.5,24.0,6,2,Yes,Negative,Sjögren's Syndrome,0
+P11135,25,Male,1.0,9.8,77.6,19.7,Negative,<1:40,117.3,23.9,51.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P11136,63,Female,79.8,207.5,28.3,13.2,Negative,1:80,139.9,31.7,64.0,11,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11137,49,Female,31.4,12.9,48.2,1.0,Positive,1:1280,79.7,5.6,28.0,3,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11138,51,Female,6.6,5.9,5.8,0.7,Negative,<1:40,98.6,22.7,3.0,0,0,No,Negative,Normal,0
+P11139,19,Male,6.4,8.7,45.6,12.4,Negative,<1:40,134.3,24.4,75.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P11140,69,Female,35.9,238.0,32.9,10.4,Negative,<1:40,112.3,19.0,79.0,12,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11141,43,Female,37.5,14.2,38.8,4.1,Negative,1:320,108.2,24.9,23.0,5,0,Yes,Negative,Sjögren's Syndrome,0
+P11142,22,Male,10.0,6.0,70.5,22.4,Negative,<1:40,160.5,33.2,43.0,5,2,No,Positive,Reactive Arthritis,0
+P11143,26,Female,26.9,14.0,80.2,3.5,Positive,1:640,41.7,9.8,35.0,3,3,No,Negative,Systemic Lupus Erythematosus,0
+P11144,39,Male,4.9,6.3,64.3,37.8,Negative,<1:40,133.4,24.4,36.0,3,4,No,Positive,Reactive Arthritis,0
+P11145,48,Female,3.9,8.6,7.4,2.6,Negative,<1:40,149.9,35.1,4.0,0,0,No,Negative,Normal,0
+P11146,59,Female,18.2,4.4,22.5,5.9,Negative,1:160,143.6,26.4,42.0,2,0,Yes,Negative,Sjögren's Syndrome,0
+P11147,18,Female,5.5,3.1,13.0,2.9,Negative,<1:40,118.2,18.1,10.0,0,0,No,Negative,Normal,0
+P11148,45,Female,35.6,7.1,38.4,5.1,Negative,1:160,110.7,27.9,34.0,4,2,No,Negative,Sjögren's Syndrome,0
+P11149,24,Male,6.1,5.7,10.8,1.4,Negative,<1:40,118.1,14.3,2.0,0,0,No,Negative,Normal,0
+P11150,30,Female,7.8,4.1,46.2,23.3,Negative,<1:40,117.3,20.5,25.0,3,5,No,Positive,Reactive Arthritis,0
+P11151,30,Male,5.4,10.2,5.4,3.0,Negative,<1:40,143.9,31.9,4.0,0,0,No,Negative,Normal,0
+P11152,48,Male,1.6,5.3,36.3,14.5,Negative,<1:40,129.2,27.3,59.0,5,3,No,Negative,Psoriatic Arthritis,0
+P11153,53,Female,52.4,123.2,45.5,24.1,Negative,<1:40,122.2,22.9,72.0,12,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11154,50,Female,10.2,9.1,25.4,7.2,Negative,<1:40,136.1,32.9,20.0,8,5,No,Positive,Psoriatic Arthritis,0
+P11155,56,Male,10.3,10.2,39.4,8.3,Positive,<1:40,155.9,18.2,51.0,4,5,No,Negative,Psoriatic Arthritis,0
+P11156,37,Female,7.5,1.0,56.3,44.8,Negative,<1:40,144.2,24.7,18.0,2,1,No,Positive,Reactive Arthritis,0
+P11157,54,Male,7.7,1.0,26.6,11.9,Negative,<1:40,125.1,27.3,48.0,2,3,No,Negative,Psoriatic Arthritis,0
+P11158,51,Male,7.1,11.9,25.9,7.4,Negative,<1:40,142.1,22.5,60.0,6,4,No,Negative,Psoriatic Arthritis,0
+P11159,67,Female,81.1,249.5,28.0,18.7,Positive,<1:40,130.1,22.5,48.0,10,11,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11160,67,Female,6.5,3.4,11.2,2.8,Negative,<1:40,107.7,22.6,2.0,0,0,No,Negative,Normal,0
+P11161,18,Female,15.6,11.1,54.2,1.7,Positive,1:640,49.6,6.7,82.0,6,2,No,Negative,Systemic Lupus Erythematosus,0
+P11162,26,Male,7.8,4.5,39.8,13.7,Negative,<1:40,138.9,31.9,55.0,2,5,No,Negative,Reactive Arthritis,0
+P11163,24,Male,7.4,9.7,37.9,37.3,Negative,<1:40,137.9,23.6,41.0,4,2,No,Negative,Reactive Arthritis,0
+P11164,54,Female,48.8,87.2,31.8,4.5,Negative,<1:40,145.0,20.8,35.0,10,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11165,51,Female,34.0,1.0,50.3,1.0,Positive,1:640,65.9,5.4,40.0,5,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11166,25,Male,3.6,1.0,7.0,0.6,Negative,<1:40,135.9,25.6,0.0,0,0,No,Negative,Normal,0
+P11167,25,Female,5.8,4.9,45.1,32.8,Negative,<1:40,133.9,29.7,50.0,2,4,No,Positive,Reactive Arthritis,0
+P11168,67,Female,42.2,94.5,68.0,15.3,Negative,1:80,171.4,19.2,116.0,10,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11169,24,Female,51.6,58.4,36.8,28.2,Positive,<1:40,137.0,22.0,70.0,10,10,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11170,24,Female,41.3,4.9,28.0,5.7,Positive,1:640,79.3,9.8,32.0,4,4,Yes,Negative,Systemic Lupus Erythematosus,0
+P11171,34,Female,5.7,7.3,17.3,1.7,Negative,<1:40,115.9,23.6,6.0,0,0,No,Negative,Normal,0
+P11172,28,Male,7.4,11.7,25.7,18.6,Negative,<1:40,111.0,29.9,41.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P11173,59,Male,6.5,3.7,14.4,2.8,Negative,<1:40,144.6,29.0,7.0,0,0,No,Negative,Normal,0
+P11174,34,Male,9.6,1.0,54.8,29.0,Negative,<1:40,159.0,27.1,25.0,5,5,No,Positive,Reactive Arthritis,0
+P11175,38,Female,46.4,38.0,41.4,7.4,Negative,<1:40,133.7,22.7,93.0,11,7,No,Negative,Rheumatoid Arthritis (RA),1
+P11176,36,Male,4.8,9.0,66.3,23.2,Negative,<1:40,136.1,20.0,50.0,6,2,No,Positive,Reactive Arthritis,0
+P11177,29,Female,10.3,5.7,53.6,23.8,Negative,<1:40,152.9,22.6,35.0,5,2,No,Positive,Reactive Arthritis,0
+P11178,37,Female,30.0,4.8,49.2,4.3,Positive,1:640,88.0,2.0,62.0,2,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P11179,31,Male,10.8,8.7,44.4,32.0,Negative,<1:40,96.3,29.0,49.0,1,1,No,Negative,Ankylosing Spondylitis,0
+P11180,48,Female,3.3,8.1,34.3,15.0,Negative,<1:40,133.8,20.6,20.0,1,3,No,Negative,Psoriatic Arthritis,0
+P11181,61,Female,3.4,2.8,7.0,1.6,Negative,<1:40,134.6,15.2,2.0,0,0,No,Negative,Normal,0
+P11182,43,Female,9.6,4.9,20.8,4.0,Positive,<1:40,129.0,20.7,20.0,5,3,No,Positive,Psoriatic Arthritis,0
+P11183,40,Female,4.3,5.6,7.2,2.4,Negative,<1:40,125.6,24.6,0.0,0,0,No,Negative,Normal,0
+P11184,44,Female,59.3,11.3,38.7,1.2,Negative,1:320,88.5,23.4,56.0,6,1,No,Negative,Sjögren's Syndrome,0
+P11185,39,Female,1.0,12.7,30.4,7.8,Negative,<1:40,134.0,24.9,36.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P11186,26,Female,1.3,3.7,9.2,3.1,Negative,<1:40,139.3,16.8,5.0,0,0,No,Negative,Normal,0
+P11187,22,Male,6.1,6.5,24.9,3.0,Negative,<1:40,154.0,29.5,71.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P11188,77,Female,214.7,256.5,51.5,12.4,Positive,1:80,121.1,24.3,48.0,10,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11189,39,Female,9.2,8.4,69.2,3.1,Positive,1:320,64.3,7.6,15.0,8,0,No,Negative,Systemic Lupus Erythematosus,0
+P11190,69,Female,47.8,14.3,29.7,2.2,Negative,<1:40,119.6,19.9,40.0,4,1,No,Negative,Sjögren's Syndrome,0
+P11191,37,Female,5.9,2.3,10.0,0.2,Negative,<1:40,153.6,27.0,6.0,0,0,No,Negative,Normal,0
+P11192,60,Female,4.6,13.2,8.2,1.2,Negative,<1:40,125.9,25.1,13.0,0,0,No,Negative,Normal,0
+P11193,42,Female,16.8,5.8,43.1,8.2,Positive,1:640,79.4,7.4,60.0,3,4,No,Negative,Systemic Lupus Erythematosus,0
+P11194,61,Female,4.0,8.1,30.0,12.9,Negative,<1:40,136.9,24.8,82.0,4,4,No,Negative,Psoriatic Arthritis,0
+P11195,40,Male,27.2,9.8,50.8,9.5,Positive,1:1280,81.9,6.9,41.0,7,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P11196,54,Male,7.4,9.2,7.3,1.8,Negative,<1:40,103.6,28.9,4.0,0,0,No,Negative,Normal,0
+P11197,33,Male,8.4,5.7,56.1,17.3,Negative,<1:40,151.2,23.5,46.0,3,2,No,Negative,Reactive Arthritis,0
+P11198,53,Female,81.7,96.6,22.9,9.3,Negative,1:80,118.5,19.0,92.0,10,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11199,52,Female,18.4,12.3,31.6,3.1,Positive,1:320,55.8,9.8,23.0,3,3,No,Negative,Systemic Lupus Erythematosus,0
+P11200,51,Female,4.1,2.1,29.3,13.5,Positive,<1:40,143.6,19.9,49.0,3,3,No,Negative,Psoriatic Arthritis,0
+P11201,27,Female,6.4,13.7,2.0,2.2,Negative,<1:40,130.0,29.1,6.0,0,0,No,Negative,Normal,0
+P11202,33,Female,44.1,4.6,24.6,1.8,Positive,1:320,113.4,26.9,38.0,5,1,Yes,Negative,Sjögren's Syndrome,0
+P11203,42,Female,17.5,10.2,51.3,5.0,Positive,1:640,71.8,8.9,37.0,5,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11204,35,Female,119.5,78.5,27.3,11.2,Negative,<1:40,141.2,28.1,46.0,13,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11205,38,Female,7.7,6.7,27.9,19.3,Negative,<1:40,115.9,34.5,65.0,1,1,No,Negative,Reactive Arthritis,0
+P11206,51,Female,70.4,14.8,45.3,5.7,Negative,1:320,96.9,22.3,33.0,6,0,Yes,Negative,Sjögren's Syndrome,0
+P11207,65,Male,70.0,192.2,55.1,6.5,Positive,1:160,133.1,36.5,50.0,9,3,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11208,57,Female,69.0,2.8,54.1,4.6,Negative,1:320,112.1,16.5,18.0,3,1,No,Negative,Sjögren's Syndrome,0
+P11209,60,Female,1.0,4.3,30.3,21.5,Negative,<1:40,133.6,27.3,55.0,3,6,No,Negative,Psoriatic Arthritis,0
+P11210,60,Male,66.8,238.2,15.0,27.0,Negative,<1:40,119.3,34.4,38.0,6,7,No,Negative,Rheumatoid Arthritis (RA),1
+P11211,33,Female,3.0,6.7,27.8,16.3,Negative,<1:40,123.3,23.0,49.0,6,1,No,Negative,Psoriatic Arthritis,0
+P11212,35,Male,1.0,1.0,28.8,18.0,Negative,<1:40,114.5,24.4,30.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P11213,30,Male,9.7,6.3,18.6,3.0,Negative,<1:40,128.5,22.1,95.0,3,1,No,Positive,Ankylosing Spondylitis,0
+P11214,35,Male,6.2,1.4,9.0,2.1,Negative,<1:40,114.5,16.4,2.0,0,0,No,Negative,Normal,0
+P11215,55,Female,18.9,2.7,30.5,3.1,Positive,1:320,58.9,9.8,45.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11216,66,Male,49.5,127.7,52.9,13.8,Positive,<1:40,140.2,23.7,118.0,11,8,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11217,52,Female,11.6,2.2,2.5,2.3,Negative,<1:40,133.1,27.3,6.0,0,0,No,Negative,Normal,0
+P11218,35,Male,10.3,1.0,47.4,23.0,Negative,<1:40,120.6,24.0,85.0,4,1,No,Negative,Ankylosing Spondylitis,0
+P11219,51,Male,13.6,3.8,49.7,8.3,Negative,<1:40,151.0,26.4,72.0,3,6,No,Positive,Psoriatic Arthritis,0
+P11220,36,Male,1.0,4.4,43.2,21.2,Negative,<1:40,139.0,34.1,68.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P11221,31,Male,7.3,7.6,8.4,0.9,Negative,<1:40,122.6,28.5,5.0,0,0,No,Negative,Normal,0
+P11222,21,Male,6.0,9.8,15.0,1.8,Negative,<1:40,129.3,25.4,2.0,0,0,No,Negative,Normal,0
+P11223,28,Female,5.1,6.5,55.4,23.5,Negative,<1:40,122.0,26.0,43.0,1,2,No,Positive,Reactive Arthritis,0
+P11224,21,Male,10.1,6.7,72.1,3.0,Negative,<1:40,139.3,22.5,56.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P11225,57,Female,6.5,4.2,40.5,16.8,Positive,<1:40,142.1,24.7,36.0,4,2,No,Negative,Psoriatic Arthritis,0
+P11226,34,Male,9.5,13.7,38.3,18.1,Negative,<1:40,151.2,28.2,50.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P11227,42,Female,8.0,21.4,34.7,4.5,Negative,1:160,97.6,15.1,23.0,4,0,Yes,Negative,Sjögren's Syndrome,0
+P11228,41,Female,218.3,439.5,48.0,11.2,Positive,<1:40,142.1,17.9,71.0,9,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11229,76,Female,44.0,36.2,57.3,18.2,Negative,<1:40,156.7,23.7,106.0,10,7,No,Negative,Rheumatoid Arthritis (RA),1
+P11230,48,Female,54.6,2.0,18.0,6.0,Positive,1:160,125.0,25.9,10.0,3,2,Yes,Negative,Sjögren's Syndrome,0
+P11231,55,Female,2.7,5.5,11.2,2.6,Negative,<1:40,120.9,28.2,10.0,0,0,No,Negative,Normal,0
+P11232,47,Male,4.9,6.5,33.9,22.4,Negative,<1:40,102.8,26.9,29.0,4,1,No,Positive,Psoriatic Arthritis,0
+P11233,36,Female,6.7,9.0,14.2,1.9,Negative,<1:40,123.7,25.3,6.0,0,0,No,Negative,Normal,0
+P11234,46,Female,5.0,3.3,16.4,2.2,Negative,<1:40,138.0,23.4,0.0,0,0,No,Negative,Normal,0
+P11235,21,Female,12.7,18.6,65.6,1.0,Positive,1:1280,61.2,7.0,22.0,4,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11236,36,Male,7.3,6.4,28.7,14.9,Negative,<1:40,108.9,25.8,33.0,3,3,No,Positive,Reactive Arthritis,0
+P11237,42,Female,33.0,12.5,46.5,6.1,Positive,1:160,88.0,22.5,10.0,3,1,No,Negative,Sjögren's Syndrome,0
+P11238,44,Female,7.3,11.3,19.5,1.5,Negative,<1:40,142.0,34.3,0.0,0,0,No,Negative,Normal,0
+P11239,38,Male,6.9,5.0,41.8,3.0,Negative,<1:40,116.1,20.6,54.0,3,2,No,Positive,Ankylosing Spondylitis,0
+P11240,64,Female,29.0,5.7,40.5,5.5,Positive,<1:40,138.8,18.6,20.0,1,3,No,Negative,Sjögren's Syndrome,0
+P11241,54,Female,46.5,8.1,32.3,6.4,Positive,1:160,89.5,16.4,46.0,2,2,No,Negative,Sjögren's Syndrome,0
+P11242,43,Female,2.1,6.5,22.8,9.9,Negative,<1:40,143.5,23.6,23.0,1,3,No,Negative,Psoriatic Arthritis,0
+P11243,54,Female,26.7,2.0,31.7,7.1,Positive,1:160,111.8,26.0,38.0,4,0,Yes,Negative,Sjögren's Syndrome,0
+P11244,63,Female,36.3,8.0,45.0,4.4,Negative,1:160,105.1,23.7,42.0,2,1,No,Negative,Sjögren's Syndrome,0
+P11245,56,Female,1.5,15.1,12.7,0.4,Negative,<1:40,116.4,21.9,2.0,0,0,No,Negative,Normal,0
+P11246,34,Female,4.3,10.1,3.5,0.8,Negative,<1:40,102.0,26.0,6.0,0,0,No,Negative,Normal,0
+P11247,52,Female,76.7,10.2,30.8,1.3,Positive,1:320,103.9,27.9,10.0,2,0,No,Negative,Sjögren's Syndrome,0
+P11248,61,Female,27.9,10.5,38.3,4.7,Positive,1:160,106.6,14.1,39.0,4,0,Yes,Negative,Sjögren's Syndrome,0
+P11249,25,Male,1.9,7.0,53.7,8.0,Negative,<1:40,142.0,26.9,43.0,5,2,No,Negative,Reactive Arthritis,0
+P11250,18,Female,13.4,15.2,51.4,5.9,Positive,1:640,50.0,6.0,76.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11251,50,Female,36.3,2.6,55.7,2.8,Positive,1:160,139.7,14.5,50.0,8,3,No,Negative,Sjögren's Syndrome,0
+P11252,30,Female,10.8,7.3,32.5,5.9,Positive,1:320,88.0,8.8,41.0,2,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11253,38,Male,6.4,7.5,71.5,20.9,Negative,<1:40,138.9,33.0,54.0,1,2,No,Positive,Reactive Arthritis,0
+P11254,30,Female,5.5,2.0,50.5,19.5,Negative,<1:40,154.4,31.8,22.0,3,2,No,Positive,Reactive Arthritis,0
+P11255,32,Female,20.8,15.7,22.4,4.5,Positive,1:640,66.7,7.4,55.0,2,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11256,35,Male,9.3,8.2,21.3,11.2,Negative,<1:40,127.6,22.2,41.0,3,3,No,Negative,Reactive Arthritis,0
+P11257,40,Female,17.2,1.4,54.9,5.8,Positive,1:320,75.8,7.7,40.0,4,2,No,Negative,Systemic Lupus Erythematosus,0
+P11258,35,Male,11.2,7.8,46.5,27.0,Negative,<1:40,123.2,20.5,57.0,3,3,No,Positive,Reactive Arthritis,0
+P11259,35,Female,56.0,7.7,36.2,5.1,Negative,1:160,127.4,20.8,44.0,4,0,No,Negative,Sjögren's Syndrome,0
+P11260,34,Female,6.2,10.6,14.1,1.7,Negative,<1:40,149.7,24.1,6.0,0,0,No,Negative,Normal,0
+P11261,41,Male,27.3,11.1,41.2,2.6,Positive,1:640,83.2,7.9,36.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11262,42,Male,74.0,68.2,39.5,32.2,Positive,1:160,125.1,22.9,109.0,7,8,No,Negative,Rheumatoid Arthritis (RA),1
+P11263,32,Male,8.0,8.3,33.5,25.7,Negative,<1:40,133.0,19.3,41.0,4,2,No,Negative,Reactive Arthritis,0
+P11264,41,Female,16.7,18.2,44.0,8.6,Positive,1:320,44.5,6.9,42.0,5,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P11265,55,Female,6.8,9.0,13.0,1.8,Negative,<1:40,92.0,26.3,6.0,0,0,No,Negative,Normal,0
+P11266,57,Female,30.5,12.2,59.2,1.2,Positive,1:320,111.3,15.1,21.0,2,1,No,Negative,Sjögren's Syndrome,0
+P11267,58,Male,3.3,9.2,22.8,4.0,Negative,<1:40,143.6,20.4,21.0,2,3,No,Negative,Psoriatic Arthritis,0
+P11268,50,Female,2.7,1.0,28.5,17.5,Negative,<1:40,112.1,24.9,83.0,5,4,No,Negative,Psoriatic Arthritis,0
+P11269,34,Male,1.6,2.6,67.6,25.6,Negative,<1:40,147.4,22.8,18.0,4,2,No,Positive,Reactive Arthritis,0
+P11270,19,Female,6.9,7.6,18.8,7.9,Negative,<1:40,131.5,31.5,55.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P11271,32,Male,11.5,8.1,54.9,5.1,Negative,<1:40,147.3,37.8,52.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P11272,45,Female,9.7,9.5,38.7,8.6,Positive,1:160,142.7,24.4,53.0,7,1,Yes,Negative,Sjögren's Syndrome,0
+P11273,62,Female,8.4,6.4,14.0,9.7,Positive,<1:40,113.5,23.7,27.0,5,5,No,Positive,Psoriatic Arthritis,0
+P11274,37,Female,7.0,6.4,24.8,20.1,Negative,<1:40,131.2,26.9,43.0,2,2,No,Positive,Ankylosing Spondylitis,0
+P11275,57,Male,59.1,10.8,23.7,5.9,Positive,1:320,114.3,18.1,48.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P11276,33,Female,6.6,3.6,14.4,2.6,Negative,<1:40,128.4,31.3,7.0,0,0,No,Negative,Normal,0
+P11277,44,Female,6.1,1.1,13.6,2.6,Negative,<1:40,135.3,24.1,0.0,0,0,No,Negative,Normal,0
+P11278,35,Female,8.1,6.8,48.1,22.6,Negative,<1:40,142.6,14.8,58.0,4,5,No,Negative,Reactive Arthritis,0
+P11279,57,Female,31.8,10.2,34.9,3.9,Positive,<1:40,134.2,19.6,31.0,1,1,No,Negative,Sjögren's Syndrome,0
+P11280,42,Female,33.4,15.9,18.0,5.5,Positive,1:160,118.7,21.3,46.0,2,0,No,Negative,Sjögren's Syndrome,0
+P11281,47,Female,7.6,10.1,25.7,6.5,Negative,<1:40,109.9,15.2,20.0,6,4,No,Negative,Psoriatic Arthritis,0
+P11282,45,Female,24.1,15.4,59.1,1.2,Negative,1:160,88.2,20.8,34.0,1,4,No,Negative,Sjögren's Syndrome,0
+P11283,56,Female,70.6,8.0,42.9,10.9,Positive,<1:40,130.1,17.5,30.0,5,0,Yes,Negative,Sjögren's Syndrome,0
+P11284,37,Female,27.4,58.1,42.5,12.7,Negative,<1:40,137.4,35.9,36.0,14,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11285,62,Male,5.8,5.8,41.9,16.8,Negative,<1:40,135.8,31.5,31.0,3,2,No,Negative,Psoriatic Arthritis,0
+P11286,33,Female,2.0,11.9,31.6,4.2,Positive,1:640,65.0,8.6,15.0,3,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11287,53,Female,11.1,15.5,61.0,6.5,Positive,1:640,61.8,9.8,15.0,3,4,Yes,Negative,Systemic Lupus Erythematosus,0
+P11288,27,Female,8.6,9.2,25.7,21.1,Negative,<1:40,138.4,20.1,50.0,4,4,No,Positive,Reactive Arthritis,0
+P11289,28,Male,3.5,4.7,50.4,14.8,Negative,<1:40,122.2,31.3,37.0,2,3,No,Positive,Reactive Arthritis,0
+P11290,61,Female,7.3,5.7,35.0,9.8,Negative,<1:40,109.8,22.8,60.0,4,3,No,Negative,Psoriatic Arthritis,0
+P11291,74,Female,41.0,11.4,45.4,1.2,Positive,1:320,148.2,25.1,42.0,4,0,No,Negative,Sjögren's Syndrome,0
+P11292,23,Male,9.4,8.9,19.2,19.8,Negative,<1:40,115.6,29.5,82.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P11293,29,Female,37.2,100.0,62.2,19.1,Positive,<1:40,129.5,30.3,116.0,7,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11294,43,Male,3.8,5.1,38.9,23.9,Negative,<1:40,120.8,25.6,24.0,2,2,No,Positive,Reactive Arthritis,0
+P11295,47,Male,26.6,37.7,48.0,15.0,Negative,<1:40,90.0,13.8,65.0,9,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11296,27,Female,2.3,5.8,56.0,10.7,Negative,<1:40,157.7,21.6,15.0,5,3,No,Negative,Reactive Arthritis,0
+P11297,23,Male,5.2,10.0,31.1,14.2,Negative,<1:40,154.1,25.9,66.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P11298,38,Female,8.7,16.0,12.0,12.5,Negative,<1:40,148.8,30.9,111.0,0,2,No,Positive,Ankylosing Spondylitis,0
+P11299,24,Male,9.0,9.7,58.8,3.0,Negative,<1:40,112.0,29.3,38.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P11300,37,Female,2.0,13.5,56.9,1.0,Positive,1:320,72.7,9.1,23.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11301,37,Female,3.7,17.0,58.4,3.0,Negative,<1:40,123.3,38.0,49.0,6,2,No,Positive,Ankylosing Spondylitis,0
+P11302,34,Female,22.1,10.3,46.0,7.0,Positive,1:1280,59.9,3.1,21.0,8,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11303,33,Female,7.4,10.3,23.9,20.6,Negative,<1:40,154.0,29.7,42.0,4,4,No,Positive,Reactive Arthritis,0
+P11304,18,Female,7.9,5.2,64.9,25.3,Negative,<1:40,137.4,20.1,19.0,4,2,No,Positive,Reactive Arthritis,0
+P11305,50,Female,65.9,7.1,57.9,8.3,Positive,1:160,119.7,21.1,35.0,1,1,Yes,Negative,Sjögren's Syndrome,0
+P11306,22,Male,3.9,6.3,33.6,8.0,Negative,<1:40,149.2,17.6,44.0,3,5,No,Positive,Reactive Arthritis,0
+P11307,33,Female,12.7,1.0,70.0,3.2,Positive,1:320,69.9,2.8,40.0,2,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11308,68,Female,77.6,193.5,35.2,6.4,Negative,<1:40,133.0,23.2,75.0,9,11,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11309,51,Male,220.5,137.2,32.2,9.5,Positive,1:160,162.7,30.9,95.0,10,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11310,21,Female,8.2,8.9,66.3,27.0,Negative,<1:40,130.6,28.8,15.0,3,1,No,Negative,Reactive Arthritis,0
+P11311,28,Male,7.5,4.2,42.7,35.8,Negative,<1:40,126.1,26.6,36.0,1,2,No,Positive,Reactive Arthritis,0
+P11312,35,Female,14.8,3.3,31.0,6.4,Positive,1:640,49.5,8.7,45.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11313,23,Male,7.5,6.8,37.5,9.7,Negative,<1:40,122.4,31.2,92.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P11314,31,Female,65.5,52.2,42.8,11.2,Negative,<1:40,130.7,21.5,82.0,10,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11315,56,Female,41.7,8.9,29.9,1.2,Negative,<1:40,108.8,16.1,37.0,4,0,Yes,Negative,Sjögren's Syndrome,0
+P11316,29,Female,5.8,4.3,47.5,21.0,Negative,<1:40,150.6,21.7,70.0,2,0,No,Positive,Ankylosing Spondylitis,0
+P11317,30,Female,83.5,12.0,37.5,2.4,Negative,1:160,103.2,28.9,44.0,4,1,No,Negative,Sjögren's Syndrome,0
+P11318,42,Male,3.3,4.7,55.0,34.5,Negative,<1:40,123.6,14.0,45.0,1,5,No,Positive,Reactive Arthritis,0
+P11319,48,Male,10.1,6.1,25.3,9.6,Positive,<1:40,105.5,18.1,47.0,4,2,No,Positive,Psoriatic Arthritis,0
+P11320,36,Male,1.0,8.0,20.1,4.0,Negative,<1:40,131.8,33.0,55.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P11321,53,Male,8.0,9.0,45.2,2.8,Positive,<1:40,123.3,30.5,31.0,4,1,No,Negative,Sjögren's Syndrome,0
+P11322,28,Male,9.0,7.4,12.0,25.7,Negative,<1:40,136.6,32.1,30.0,3,0,No,Positive,Ankylosing Spondylitis,0
+P11323,25,Female,2.1,6.5,35.9,31.2,Negative,<1:40,152.8,22.6,43.0,6,3,No,Negative,Reactive Arthritis,0
+P11324,34,Male,1.3,9.1,11.2,0.2,Negative,<1:40,156.7,28.4,2.0,0,0,No,Negative,Normal,0
+P11325,34,Female,17.5,24.0,60.2,3.2,Positive,1:640,55.3,9.8,30.0,6,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11326,77,Male,7.5,9.4,8.6,1.8,Negative,<1:40,138.0,25.8,11.0,0,0,No,Negative,Normal,0
+P11327,54,Female,9.2,8.3,44.7,10.1,Negative,<1:40,139.1,16.3,42.0,11,8,No,Positive,Psoriatic Arthritis,0
+P11328,40,Male,11.1,7.9,41.0,11.6,Negative,<1:40,116.7,31.8,66.0,0,0,No,Positive,Ankylosing Spondylitis,0
+P11329,66,Male,12.0,4.1,45.6,14.3,Negative,<1:40,118.2,22.0,42.0,5,8,No,Negative,Psoriatic Arthritis,0
+P11330,38,Male,9.9,3.8,20.7,3.9,Negative,<1:40,122.8,25.6,65.0,1,2,No,Positive,Ankylosing Spondylitis,0
+P11331,38,Female,185.2,257.9,35.5,10.3,Positive,1:80,134.4,25.9,79.0,9,4,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11332,62,Female,62.1,5.2,18.0,4.2,Positive,<1:40,112.9,19.1,33.0,0,1,No,Negative,Sjögren's Syndrome,0
+P11333,42,Female,16.6,11.5,74.5,3.3,Positive,1:320,82.6,9.8,53.0,7,1,No,Negative,Systemic Lupus Erythematosus,0
+P11334,44,Female,39.4,13.7,39.0,7.4,Positive,1:160,141.6,19.9,16.0,0,0,Yes,Negative,Sjögren's Syndrome,0
+P11335,27,Male,8.9,6.3,47.9,28.2,Negative,<1:40,119.0,34.4,35.0,2,4,No,Negative,Reactive Arthritis,0
+P11336,42,Female,12.6,2.2,45.3,1.0,Positive,1:1280,63.3,4.1,42.0,4,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11337,31,Male,3.7,7.3,42.3,18.7,Negative,<1:40,128.6,26.0,23.0,4,5,No,Negative,Reactive Arthritis,0
+P11338,31,Female,7.3,7.8,42.1,24.0,Negative,<1:40,125.6,23.1,55.0,3,2,No,Positive,Reactive Arthritis,0
+P11339,20,Male,7.2,9.6,53.2,30.4,Negative,<1:40,103.1,26.2,29.0,1,5,No,Positive,Reactive Arthritis,0
+P11340,23,Male,6.4,7.5,32.3,6.4,Negative,<1:40,135.4,26.1,71.0,0,1,No,Positive,Ankylosing Spondylitis,0
+P11341,39,Female,159.1,193.1,38.4,20.5,Negative,<1:40,144.5,23.6,35.0,11,11,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11342,52,Male,38.7,6.9,48.7,1.2,Positive,1:160,111.3,12.1,19.0,6,0,Yes,Negative,Sjögren's Syndrome,0
+P11343,25,Female,12.5,12.0,43.9,2.4,Positive,1:1280,60.2,7.1,39.0,4,0,Yes,Negative,Systemic Lupus Erythematosus,0
+P11344,21,Male,6.8,3.7,6.3,1.6,Negative,<1:40,122.4,25.0,1.0,0,0,No,Negative,Normal,0
+P11345,49,Female,229.2,118.3,44.2,4.5,Positive,<1:40,90.0,21.0,71.0,14,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11346,50,Female,7.3,4.7,48.3,24.3,Negative,<1:40,137.1,22.6,49.0,3,2,No,Positive,Psoriatic Arthritis,0
+P11347,40,Female,2.0,2.3,50.9,5.8,Positive,1:320,70.0,5.6,35.0,3,3,Yes,Negative,Systemic Lupus Erythematosus,0
+P11348,47,Female,26.5,6.6,18.0,3.9,Positive,1:320,100.6,21.5,28.0,4,1,Yes,Negative,Sjögren's Syndrome,0
+P11349,37,Male,6.7,8.4,41.1,16.0,Negative,<1:40,122.4,23.4,36.0,2,1,No,Positive,Ankylosing Spondylitis,0
+P11350,57,Female,50.0,258.6,32.0,11.0,Negative,<1:40,118.6,26.2,90.0,15,9,No,Negative,Rheumatoid Arthritis (RA),1
+P11351,24,Male,6.5,11.3,18.9,9.3,Negative,<1:40,144.4,14.0,57.0,1,0,No,Positive,Ankylosing Spondylitis,0
+P11352,48,Female,8.0,7.7,48.2,4.7,Positive,1:160,100.2,19.5,29.0,0,1,No,Negative,Sjögren's Syndrome,0
+P11353,36,Male,6.8,7.8,52.3,13.5,Negative,<1:40,127.2,29.0,62.0,2,0,No,Negative,Ankylosing Spondylitis,0
+P11354,33,Male,5.0,5.0,8.7,1.2,Negative,<1:40,131.2,17.9,6.0,0,0,No,Negative,Normal,0
+P11355,43,Female,42.6,77.8,37.0,25.5,Negative,<1:40,155.1,21.1,88.0,9,5,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11356,36,Male,3.3,9.1,22.7,18.6,Negative,<1:40,106.3,29.0,46.0,5,3,No,Negative,Psoriatic Arthritis,0
+P11357,41,Female,172.6,112.1,49.8,8.1,Positive,1:80,134.1,20.8,55.0,6,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11358,55,Female,8.0,16.7,49.6,2.6,Positive,<1:40,111.9,18.1,10.0,3,1,Yes,Negative,Sjögren's Syndrome,0
+P11359,41,Male,6.5,6.3,35.3,22.7,Negative,<1:40,148.0,26.9,38.0,1,2,No,Positive,Reactive Arthritis,0
+P11360,51,Male,7.1,12.7,14.0,15.1,Positive,<1:40,127.8,24.6,47.0,5,3,No,Negative,Psoriatic Arthritis,0
+P11361,49,Female,5.6,3.2,11.5,2.6,Negative,<1:40,104.4,37.6,10.0,0,0,No,Negative,Normal,0
+P11362,23,Male,14.3,7.4,76.8,5.9,Positive,1:320,71.7,8.1,15.0,3,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11363,40,Female,10.5,8.5,17.9,1.9,Negative,<1:40,124.1,20.1,6.0,0,0,No,Negative,Normal,0
+P11364,53,Female,48.6,8.1,18.0,3.2,Negative,<1:40,131.6,11.4,15.0,4,1,No,Negative,Sjögren's Syndrome,0
+P11365,51,Female,4.6,9.0,27.0,15.9,Negative,<1:40,140.9,20.8,20.0,2,4,No,Positive,Psoriatic Arthritis,0
+P11366,68,Female,93.3,520.3,63.1,15.0,Positive,<1:40,140.2,27.2,97.0,10,9,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11367,52,Female,8.2,6.3,30.4,11.9,Negative,<1:40,122.7,27.1,38.0,8,2,No,Positive,Psoriatic Arthritis,0
+P11368,52,Female,28.8,11.0,47.4,1.2,Negative,1:160,97.0,23.4,37.0,1,0,Yes,Negative,Sjögren's Syndrome,0
+P11369,46,Female,2.0,10.7,50.3,6.1,Positive,1:1280,62.8,9.8,50.0,5,1,Yes,Negative,Systemic Lupus Erythematosus,0
+P11370,27,Female,8.5,3.3,35.8,32.3,Negative,<1:40,106.4,33.2,18.0,3,4,No,Negative,Reactive Arthritis,0
+P11371,18,Female,23.2,14.3,80.5,5.4,Positive,1:320,65.0,9.8,15.0,3,2,No,Negative,Systemic Lupus Erythematosus,0
+P11372,30,Male,13.8,11.2,18.8,6.3,Positive,<1:40,148.6,31.8,61.0,1,3,No,Negative,Psoriatic Arthritis,0
+P11373,62,Female,27.5,16.8,26.7,9.2,Positive,1:160,139.0,25.7,47.0,5,1,No,Negative,Sjögren's Syndrome,0
+P11374,27,Male,6.6,6.2,13.0,23.5,Negative,<1:40,125.4,23.6,92.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P11375,63,Female,38.3,63.2,32.1,13.8,Negative,<1:40,90.0,33.9,69.0,8,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11376,18,Female,7.1,4.0,10.9,2.9,Negative,<1:40,150.9,23.8,6.0,0,0,No,Negative,Normal,0
+P11377,50,Female,2.0,8.3,77.9,3.8,Positive,1:320,65.1,9.2,48.0,6,4,No,Negative,Systemic Lupus Erythematosus,0
+P11378,18,Male,6.1,9.4,32.7,38.5,Negative,<1:40,149.8,22.8,19.0,1,1,No,Positive,Reactive Arthritis,0
+P11379,24,Female,6.6,4.7,23.7,3.0,Negative,<1:40,109.4,24.9,88.0,1,1,No,Positive,Ankylosing Spondylitis,0
+P11380,46,Female,6.0,8.1,17.1,10.9,Negative,<1:40,134.5,38.0,25.0,5,1,No,Negative,Psoriatic Arthritis,0
+P11381,45,Male,8.2,3.9,10.7,3.0,Negative,<1:40,125.6,19.8,0.0,0,0,No,Negative,Normal,0
+P11382,32,Male,5.6,6.8,49.2,15.2,Negative,<1:40,101.0,31.5,30.0,0,2,No,Positive,Ankylosing Spondylitis,0
+P11383,38,Male,4.2,1.0,23.5,14.8,Negative,<1:40,131.8,35.8,27.0,5,4,No,Negative,Psoriatic Arthritis,0
+P11384,31,Female,9.8,11.9,40.7,23.9,Negative,<1:40,124.9,29.5,59.0,4,0,No,Positive,Ankylosing Spondylitis,0
+P11385,63,Female,36.6,10.2,74.6,1.2,Positive,1:160,119.9,29.8,57.0,3,0,Yes,Negative,Sjögren's Syndrome,0
+P11386,62,Female,7.9,3.2,11.6,1.4,Negative,<1:40,126.6,30.4,4.0,0,0,No,Negative,Normal,0
+P11387,37,Female,43.9,138.4,38.3,24.7,Negative,<1:40,116.5,16.3,40.0,9,8,No,Negative,Rheumatoid Arthritis (RA),1
+P11388,35,Male,1.0,5.7,32.9,4.0,Positive,<1:40,101.8,33.4,67.0,11,5,No,Negative,Psoriatic Arthritis,0
+P11389,28,Male,6.4,8.4,39.1,17.9,Negative,<1:40,141.8,26.4,41.0,1,1,No,Positive,Reactive Arthritis,0
+P11390,59,Female,116.0,210.8,53.5,25.5,Negative,<1:40,137.7,23.8,53.0,6,7,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11391,25,Male,8.9,1.0,37.6,7.8,Negative,<1:40,134.4,19.5,78.0,0,0,No,Negative,Ankylosing Spondylitis,0
+P11392,18,Male,4.5,5.0,2.0,0.3,Negative,<1:40,118.6,23.5,8.0,0,0,No,Negative,Normal,0
+P11393,42,Female,44.5,8.7,30.0,4.9,Positive,1:640,66.4,5.6,29.0,1,2,Yes,Negative,Systemic Lupus Erythematosus,0
+P11394,49,Male,35.9,45.4,27.2,4.5,Negative,<1:40,122.3,25.4,48.0,8,6,Yes,Negative,Rheumatoid Arthritis (RA),1
+P11395,24,Male,7.1,6.4,59.0,18.1,Negative,<1:40,127.4,40.0,51.0,3,2,No,Positive,Reactive Arthritis,0
+P11396,32,Female,2.8,4.3,44.2,41.7,Negative,<1:40,112.9,16.4,27.0,1,3,No,Positive,Reactive Arthritis,0
+P11397,18,Male,1.0,7.6,45.4,8.9,Negative,<1:40,146.1,37.2,43.0,3,1,No,Positive,Reactive Arthritis,0
+P11398,68,Male,8.3,7.9,16.3,1.9,Negative,<1:40,126.1,28.4,7.0,0,0,No,Negative,Normal,0
+P11399,57,Female,7.4,4.0,46.7,12.3,Negative,<1:40,108.0,23.4,38.0,3,1,No,Negative,Psoriatic Arthritis,0
+P11400,28,Female,7.3,11.2,37.8,42.0,Negative,<1:40,116.4,28.6,25.0,3,4,No,Negative,Reactive Arthritis,0

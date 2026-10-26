@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  color-scheme: light;
+}
+
+[lang="kn"] {
+  font-family: 'Noto Sans Kannada', 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+[lang="hi"] {
+  font-family: 'Noto Sans Devanagari', 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* Accessibility Text Sizes */
+body.text-size-normal {
+  font-size: 16px;
+}
+
+body.text-size-large {
+  font-size: 19px;
+}
+
+body.text-size-xl {
+  font-size: 22px;
+}
+
+/* Calm Blue Accent Theme Styles */
+.calm-gradient {
+  background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+}
+
+.calm-subtle-gradient {
+  background: linear-gradient(180deg, #f0f9ff 0%, #ffffff 100%);
+}
+
+/* Pulse animation for voice listening */
+@keyframes voicePulse {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(2, 132, 199, 0.7);
+  }
+  70% {
+    transform: scale(1.05);
+    box-shadow: 0 0 0 16px rgba(2, 132, 199, 0);
+  }
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(2, 132, 199, 0);
+  }
+}
+
+.listening-pulse {
+  animation: voicePulse 1.6s infinite;
+}

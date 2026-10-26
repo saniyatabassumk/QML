@@ -1,0 +1,55 @@
+{
+  "dataset": {
+    "samples": 1400,
+    "classes": [
+      "Sj\u00f6gren's Syndrome",
+      "Rheumatoid Arthritis (RA)",
+      "Systemic Lupus Erythematosus",
+      "Ankylosing Spondylitis",
+      "Psoriatic Arthritis",
+      "Reactive Arthritis",
+      "Normal"
+    ],
+    "target_column": "diagnosis"
+  },
+  "classical": {
+    "test_sample_count": 280,
+    "random_forest": {
+      "accuracy": 0.9464,
+      "f1_score": 0.9468,
+      "feature_importances": {
+        "rf_iu_ml": 0.1115,
+        "morning_stiffness_min": 0.1113,
+        "anti_ccp_u_ml": 0.1051,
+        "c4_mg_dl": 0.1041,
+        "tender_joint_count": 0.0958,
+        "crp_mg_l": 0.0914,
+        "c3_mg_dl": 0.084,
+        "swollen_joint_count": 0.0772,
+        "age": 0.0637,
+        "esr_mm_hr": 0.0503,
+        "hla_b27_positive": 0.0423,
+        "ana_positive": 0.0316,
+        "symmetrical_yes": 0.0295,
+        "gender_female": 0.0022
+      }
+    },
+    "logistic_regression": {
+      "accuracy": 0.9393,
+      "f1_score": 0.9395
+    }
+  },
+  "quantum": {
+    "paradigm": "Quantum Machine Learning (PennyLane VQC)",
+    "simulator": "default.qubit",
+    "n_qubits": 4,
+    "n_layers": 2,
+    "accuracy": 0.99,
+    "explained_variance_ratio": [
+      0.2874,
+      0.2066,
+      0.1238,
+      0.0563
+    ]
+  }
+}
